@@ -1,0 +1,6445 @@
+start_frame,end_frame,num_vehicles,scenario
+5,55,3,Car Following
+6,56,3,Car Following
+7,57,3,Car Following
+8,58,3,Car Following
+9,59,3,Car Following
+10,60,3,Car Following
+11,61,3,Car Following
+12,62,3,Car Following
+13,63,3,Car Following
+14,64,3,Car Following
+15,65,3,Car Following
+16,66,3,Car Following
+17,67,3,Car Following
+18,68,3,Car Following
+19,69,4,Car Following
+20,70,4,Car Following
+21,71,4,Car Following
+22,72,4,Car Following
+23,73,4,Car Following
+24,74,4,Car Following
+25,75,4,Car Following
+26,76,4,Car Following
+27,77,4,Car Following
+28,78,4,Car Following
+29,79,4,Car Following
+30,80,4,Car Following
+31,81,4,Car Following
+32,82,4,Car Following
+33,83,4,Car Following
+34,84,4,Car Following
+35,85,4,Car Following
+36,86,4,Car Following
+37,87,4,Car Following
+38,88,4,Car Following
+39,89,4,Car Following
+40,90,6,Car Following
+41,91,6,Car Following
+42,92,6,Car Following
+43,93,6,Car Following
+44,94,6,Car Following
+45,95,7,Car Following
+46,96,7,Car Following
+47,97,7,Car Following
+48,98,7,Car Following
+49,99,7,Car Following
+50,100,7,Car Following
+51,101,7,Car Following
+52,102,7,Car Following
+53,103,7,Car Following
+54,104,7,Car Following
+55,105,7,Car Following
+56,106,7,Car Following
+57,107,7,Car Following
+58,108,7,Car Following
+59,109,7,Car Following
+60,110,7,Car Following
+61,111,8,Car Following
+62,112,8,Car Following
+63,113,8,Car Following
+64,114,8,Car Following
+65,115,8,Car Following
+66,116,8,Car Following
+67,117,8,Car Following
+68,118,8,Car Following
+69,119,8,Car Following
+70,120,8,Car Following
+71,121,8,Car Following
+72,122,8,Car Following
+73,123,8,Car Following
+74,124,11,Car Following
+75,125,11,Car Following
+76,126,11,Car Following
+77,127,11,Car Following
+78,128,11,Car Following
+79,129,11,Car Following
+80,130,12,Car Following
+81,131,12,Lane Change
+82,132,12,Lane Change
+83,133,12,Lane Change
+84,134,12,Lane Change
+85,135,12,Lane Change
+86,136,12,Lane Change
+87,137,13,Lane Change
+88,138,13,Lane Change
+89,139,13,Lane Change
+90,140,13,Lane Change
+91,141,13,Lane Change
+92,142,15,Lane Change
+93,143,15,Lane Change
+94,144,16,Lane Change
+95,145,16,Lane Change
+96,146,17,Lane Change
+97,147,17,Lane Change
+98,148,17,Lane Change
+99,149,17,Lane Change
+100,150,17,Lane Change
+101,151,17,Lane Change
+102,152,17,Lane Change
+103,153,17,Lane Change
+104,154,17,Lane Change
+105,155,17,Lane Change
+106,156,17,Lane Change
+107,157,18,Lane Change
+108,158,18,Lane Change
+109,159,18,Lane Change
+110,160,18,Lane Change
+111,161,18,Lane Change
+112,162,19,Lane Change
+113,163,19,Lane Change
+114,164,19,Lane Change
+115,165,19,Lane Change
+116,166,19,Lane Change
+117,167,19,Lane Change
+118,168,19,Lane Change
+119,169,19,Lane Change
+120,170,19,Lane Change
+121,171,20,Lane Change
+122,172,20,Lane Change
+123,173,20,Lane Change
+124,174,20,Lane Change
+125,175,20,Lane Change
+126,176,20,Lane Change
+127,177,21,Cut-In
+128,178,23,Cut-In
+129,179,23,Cut-In
+130,180,23,Cut-In
+131,181,23,Car Following
+132,182,23,Car Following
+133,183,23,Car Following
+134,184,23,Car Following
+135,185,23,Car Following
+136,186,23,Car Following
+137,187,23,Car Following
+138,188,23,Car Following
+139,189,23,Car Following
+140,190,23,Car Following
+141,191,23,Car Following
+142,192,23,Car Following
+143,193,23,Car Following
+144,194,23,Car Following
+145,195,23,Car Following
+146,196,25,Car Following
+147,197,26,Car Following
+148,198,27,Car Following
+149,199,28,Car Following
+150,200,28,Car Following
+151,201,28,Car Following
+152,202,28,Car Following
+153,203,28,Car Following
+154,204,28,Car Following
+155,205,28,Car Following
+156,206,28,Car Following
+157,207,28,Car Following
+158,208,28,Car Following
+159,209,29,Car Following
+160,210,29,Car Following
+161,211,29,Car Following
+162,212,29,Car Following
+163,213,29,Car Following
+164,214,29,Car Following
+165,215,29,Car Following
+166,216,29,Car Following
+167,217,30,Car Following
+168,218,31,Car Following
+169,219,31,Car Following
+170,220,31,Car Following
+171,221,31,Car Following
+172,222,31,Car Following
+173,223,31,Car Following
+174,224,31,Car Following
+175,225,31,Car Following
+176,226,31,Car Following
+177,227,31,Car Following
+178,228,31,Car Following
+179,229,32,Car Following
+180,230,32,Car Following
+181,231,32,Car Following
+182,232,32,Car Following
+183,233,32,Car Following
+184,234,32,Car Following
+185,235,33,Car Following
+186,236,33,Car Following
+187,237,33,Car Following
+188,238,33,Car Following
+189,239,33,Car Following
+190,240,35,Car Following
+191,241,35,Car Following
+192,242,35,Car Following
+193,243,36,Car Following
+194,244,36,Car Following
+195,245,36,Car Following
+196,246,36,Car Following
+197,247,36,Car Following
+198,248,36,Car Following
+199,249,36,Car Following
+200,250,36,Car Following
+201,251,37,Car Following
+202,252,37,Car Following
+203,253,37,Car Following
+204,254,37,Car Following
+205,255,37,Car Following
+206,256,37,Car Following
+207,257,37,Car Following
+208,258,38,Car Following
+209,259,38,Car Following
+210,260,39,Car Following
+211,261,39,Car Following
+212,262,39,Car Following
+213,263,39,Car Following
+214,264,39,Car Following
+215,265,39,Car Following
+216,266,39,Car Following
+217,267,39,Car Following
+218,268,39,Car Following
+219,269,39,Car Following
+220,270,39,Car Following
+221,271,39,Car Following
+222,272,40,Car Following
+223,273,40,Car Following
+224,274,41,Car Following
+225,275,41,Car Following
+226,276,41,Car Following
+227,277,41,Car Following
+228,278,41,Car Following
+229,279,42,Car Following
+230,280,42,Car Following
+231,281,42,Car Following
+232,282,42,Car Following
+233,283,42,Car Following
+234,284,43,Car Following
+235,285,43,Car Following
+236,286,43,Car Following
+237,287,43,Car Following
+238,288,43,Car Following
+239,289,44,Car Following
+240,290,44,Car Following
+241,291,44,Car Following
+242,292,44,Car Following
+243,293,44,Car Following
+244,294,44,Car Following
+245,295,44,Car Following
+246,296,44,Car Following
+247,297,44,Car Following
+248,298,44,Car Following
+249,299,44,Car Following
+250,300,45,Car Following
+251,301,45,Car Following
+252,302,45,Car Following
+253,303,46,Car Following
+254,304,46,Car Following
+255,305,46,Car Following
+256,306,46,Car Following
+257,307,46,Car Following
+258,308,46,Car Following
+259,309,46,Car Following
+260,310,46,Car Following
+261,311,46,Car Following
+262,312,46,Car Following
+263,313,46,Car Following
+264,314,46,Car Following
+265,315,46,Car Following
+266,316,46,Car Following
+267,317,46,Car Following
+268,318,46,Car Following
+269,319,46,Car Following
+270,320,46,Car Following
+271,321,47,Car Following
+272,322,47,Car Following
+273,323,47,Car Following
+274,324,49,Car Following
+275,325,49,Car Following
+276,326,50,Car Following
+277,327,49,Car Following
+278,328,49,Car Following
+279,329,49,Car Following
+280,330,49,Car Following
+281,331,49,Car Following
+282,332,49,Car Following
+283,333,49,Car Following
+284,334,49,Car Following
+285,335,49,Car Following
+286,336,49,Car Following
+287,337,49,Car Following
+288,338,50,Car Following
+289,339,51,Car Following
+290,340,51,Car Following
+291,341,51,Car Following
+292,342,51,Car Following
+293,343,52,Car Following
+294,344,52,Car Following
+295,345,52,Car Following
+296,346,52,Car Following
+297,347,52,Car Following
+298,348,52,Car Following
+299,349,52,Car Following
+300,350,52,Car Following
+301,351,52,Car Following
+302,352,52,Car Following
+303,353,53,Car Following
+304,354,53,Car Following
+305,355,54,Car Following
+306,356,55,Car Following
+307,357,55,Car Following
+308,358,55,Car Following
+309,359,55,Car Following
+310,360,55,Car Following
+311,361,56,Car Following
+312,362,56,Car Following
+313,363,56,Car Following
+314,364,55,Car Following
+315,365,57,Car Following
+316,366,57,Car Following
+317,367,56,Car Following
+318,368,56,Car Following
+319,369,56,Car Following
+320,370,56,Car Following
+321,371,56,Car Following
+322,372,56,Car Following
+323,373,55,Car Following
+324,374,56,Car Following
+325,375,56,Car Following
+326,376,56,Car Following
+327,377,56,Car Following
+328,378,56,Car Following
+329,379,56,Car Following
+330,380,56,Car Following
+331,381,56,Car Following
+332,382,56,Car Following
+333,383,57,Car Following
+334,384,57,Car Following
+335,385,57,Car Following
+336,386,57,Car Following
+337,387,56,Car Following
+338,388,56,Car Following
+339,389,55,Car Following
+340,390,54,Car Following
+341,391,54,Car Following
+342,392,53,Car Following
+343,393,53,Car Following
+344,394,53,Car Following
+345,395,53,Car Following
+346,396,54,Car Following
+347,397,54,Car Following
+348,398,55,Car Following
+349,399,55,Car Following
+350,400,55,Car Following
+351,401,55,Car Following
+352,402,55,Car Following
+353,403,55,Car Following
+354,404,55,Car Following
+355,405,55,Car Following
+356,406,53,Car Following
+357,407,54,Car Following
+358,408,54,Car Following
+359,409,55,Car Following
+360,410,56,Car Following
+361,411,56,Car Following
+362,412,57,Car Following
+363,413,57,Car Following
+364,414,55,Car Following
+365,415,55,Car Following
+366,416,55,Car Following
+367,417,55,Car Following
+368,418,55,Car Following
+369,419,55,Car Following
+370,420,56,Car Following
+371,421,56,Car Following
+372,422,55,Car Following
+373,423,55,Car Following
+374,424,54,Car Following
+375,425,54,Car Following
+376,426,55,Car Following
+377,427,55,Car Following
+378,428,55,Car Following
+379,429,56,Car Following
+380,430,55,Car Following
+381,431,53,Car Following
+382,432,53,Car Following
+383,433,53,Car Following
+384,434,53,Car Following
+385,435,53,Car Following
+386,436,54,Car Following
+387,437,54,Car Following
+388,438,54,Car Following
+389,439,54,Car Following
+390,440,54,Car Following
+391,441,54,Car Following
+392,442,54,Car Following
+393,443,54,Car Following
+394,444,54,Car Following
+395,445,53,Car Following
+396,446,53,Car Following
+397,447,53,Car Following
+398,448,53,Car Following
+399,449,53,Car Following
+400,450,54,Car Following
+401,451,54,Car Following
+402,452,54,Car Following
+403,453,54,Car Following
+404,454,54,Car Following
+405,455,54,Car Following
+406,456,54,Cut-In
+407,457,55,Cut-In
+408,458,54,Cut-In
+409,459,53,Cut-In
+410,460,51,Cut-In
+411,461,51,Cut-In
+412,462,51,Cut-In
+413,463,51,Cut-In
+414,464,52,Cut-In
+415,465,52,Cut-In
+416,466,52,Cut-In
+417,467,50,Cut-In
+418,468,50,Cut-In
+419,469,51,Cut-In
+420,470,51,Cut-In
+421,471,51,Cut-In
+422,472,51,Cut-In
+423,473,52,Cut-In
+424,474,52,Cut-In
+425,475,52,Cut-In
+426,476,52,Cut-In
+427,477,52,Cut-In
+428,478,52,Cut-In
+429,479,52,Cut-In
+430,480,53,Cut-In
+431,481,53,Cut-In
+432,482,53,Cut-In
+433,483,53,Cut-In
+434,484,53,Cut-In
+435,485,52,Cut-In
+436,486,53,Cut-In
+437,487,54,Cut-In
+438,488,54,Cut-In
+439,489,55,Cut-In
+440,490,55,Cut-In
+441,491,55,Cut-In
+442,492,56,Cut-In
+443,493,54,Cut-In
+444,494,54,Cut-In
+445,495,54,Cut-In
+446,496,54,Cut-In
+447,497,54,Cut-In
+448,498,55,Cut-In
+449,499,54,Cut-In
+450,500,54,Cut-In
+451,501,54,Cut-In
+452,502,54,Cut-In
+453,503,53,Cut-In
+454,504,52,Cut-In
+455,505,53,Cut-In
+456,506,53,Cut-In
+457,507,53,Cut-In
+458,508,53,Cut-In
+459,509,53,Cut-In
+460,510,53,Cut-In
+461,511,53,Cut-In
+462,512,53,Cut-In
+463,513,53,Cut-In
+464,514,52,Cut-In
+465,515,52,Cut-In
+466,516,52,Cut-In
+467,517,52,Cut-In
+468,518,52,Cut-In
+469,519,51,Cut-In
+470,520,51,Cut-In
+471,521,51,Cut-In
+472,522,52,Cut-In
+473,523,52,Cut-In
+474,524,53,Cut-In
+475,525,54,Cut-In
+476,526,54,Cut-In
+477,527,54,Cut-In
+478,528,53,Cut-In
+479,529,53,Cut-In
+480,530,53,Cut-In
+481,531,53,Cut-In
+482,532,53,Cut-In
+483,533,54,Cut-In
+484,534,54,Car Following
+485,535,54,Car Following
+486,536,54,Car Following
+487,537,54,Car Following
+488,538,53,Car Following
+489,539,55,Car Following
+490,540,55,Car Following
+491,541,53,Car Following
+492,542,53,Car Following
+493,543,52,Car Following
+494,544,52,Car Following
+495,545,52,Car Following
+496,546,52,Car Following
+497,547,52,Car Following
+498,548,52,Car Following
+499,549,51,Car Following
+500,550,51,Car Following
+501,551,52,Car Following
+502,552,52,Car Following
+503,553,52,Car Following
+504,554,52,Car Following
+505,555,52,Car Following
+506,556,52,Car Following
+507,557,52,Car Following
+508,558,52,Car Following
+509,559,53,Car Following
+510,560,53,Car Following
+511,561,53,Car Following
+512,562,54,Car Following
+513,563,54,Car Following
+514,564,54,Car Following
+515,565,55,Car Following
+516,566,56,Car Following
+517,567,55,Car Following
+518,568,55,Car Following
+519,569,55,Car Following
+520,570,55,Car Following
+521,571,55,Car Following
+522,572,55,Car Following
+523,573,54,Car Following
+524,574,53,Car Following
+525,575,53,Car Following
+526,576,52,Car Following
+527,577,52,Car Following
+528,578,51,Car Following
+529,579,52,Car Following
+530,580,52,Car Following
+531,581,54,Car Following
+532,582,53,Car Following
+533,583,54,Car Following
+534,584,54,Car Following
+535,585,53,Car Following
+536,586,53,Car Following
+537,587,53,Car Following
+538,588,54,Car Following
+539,589,54,Car Following
+540,590,53,Car Following
+541,591,53,Car Following
+542,592,53,Car Following
+543,593,53,Car Following
+544,594,52,Car Following
+545,595,52,Car Following
+546,596,53,Car Following
+547,597,53,Car Following
+548,598,52,Car Following
+549,599,52,Car Following
+550,600,52,Car Following
+551,601,52,Car Following
+552,602,53,Car Following
+553,603,54,Cut-In
+554,604,54,Cut-In
+555,605,54,Cut-In
+556,606,53,Cut-In
+557,607,53,Cut-In
+558,608,53,Cut-In
+559,609,53,Cut-In
+560,610,53,Cut-In
+561,611,53,Cut-In
+562,612,53,Cut-In
+563,613,53,Cut-In
+564,614,52,Cut-In
+565,615,52,Cut-In
+566,616,51,Cut-In
+567,617,51,Cut-In
+568,618,50,Cut-In
+569,619,51,Cut-In
+570,620,51,Cut-In
+571,621,51,Cut-In
+572,622,52,Cut-In
+573,623,51,Cut-In
+574,624,51,Cut-In
+575,625,50,Cut-In
+576,626,50,Cut-In
+577,627,50,Cut-In
+578,628,50,Cut-In
+579,629,50,Cut-In
+580,630,50,Cut-In
+581,631,50,Cut-In
+582,632,50,Cut-In
+583,633,51,Cut-In
+584,634,51,Cut-In
+585,635,52,Cut-In
+586,636,52,Cut-In
+587,637,50,Cut-In
+588,638,50,Cut-In
+589,639,50,Cut-In
+590,640,50,Cut-In
+591,641,50,Cut-In
+592,642,50,Cut-In
+593,643,50,Cut-In
+594,644,51,Cut-In
+595,645,50,Cut-In
+596,646,50,Cut-In
+597,647,50,Cut-In
+598,648,50,Cut-In
+599,649,50,Cut-In
+600,650,49,Cut-In
+601,651,49,Cut-In
+602,652,50,Cut-In
+603,653,50,Cut-In
+604,654,49,Cut-In
+605,655,49,Cut-In
+606,656,49,Cut-In
+607,657,49,Cut-In
+608,658,51,Cut-In
+609,659,51,Cut-In
+610,660,51,Cut-In
+611,661,51,Cut-In
+612,662,51,Cut-In
+613,663,50,Cut-In
+614,664,49,Cut-In
+615,665,49,Cut-In
+616,666,49,Cut-In
+617,667,49,Cut-In
+618,668,49,Cut-In
+619,669,49,Cut-In
+620,670,49,Cut-In
+621,671,49,Cut-In
+622,672,49,Cut-In
+623,673,49,Cut-In
+624,674,49,Cut-In
+625,675,50,Cut-In
+626,676,50,Cut-In
+627,677,51,Cut-In
+628,678,50,Cut-In
+629,679,50,Cut-In
+630,680,50,Cut-In
+631,681,50,Cut-In
+632,682,50,Car Following
+633,683,50,Cut-In
+634,684,50,Cut-In
+635,685,50,Cut-In
+636,686,50,Cut-In
+637,687,50,Cut-In
+638,688,50,Cut-In
+639,689,52,Cut-In
+640,690,52,Cut-In
+641,691,53,Cut-In
+642,692,53,Cut-In
+643,693,53,Cut-In
+644,694,53,Cut-In
+645,695,53,Cut-In
+646,696,53,Cut-In
+647,697,53,Cut-In
+648,698,53,Cut-In
+649,699,53,Cut-In
+650,700,53,Cut-In
+651,701,52,Cut-In
+652,702,52,Cut-In
+653,703,51,Cut-In
+654,704,50,Cut-In
+655,705,50,Cut-In
+656,706,51,Cut-In
+657,707,50,Cut-In
+658,708,51,Cut-In
+659,709,51,Cut-In
+660,710,52,Cut-In
+661,711,53,Cut-In
+662,712,53,Cut-In
+663,713,52,Cut-In
+664,714,52,Cut-In
+665,715,52,Cut-In
+666,716,52,Cut-In
+667,717,52,Cut-In
+668,718,52,Cut-In
+669,719,51,Cut-In
+670,720,51,Cut-In
+671,721,51,Cut-In
+672,722,51,Cut-In
+673,723,51,Cut-In
+674,724,50,Cut-In
+675,725,50,Cut-In
+676,726,48,Cut-In
+677,727,48,Cut-In
+678,728,49,Cut-In
+679,729,49,Cut-In
+680,730,50,Cut-In
+681,731,51,Cut-In
+682,732,51,Cut-In
+683,733,50,Car Following
+684,734,50,Car Following
+685,735,50,Car Following
+686,736,50,Car Following
+687,737,49,Car Following
+688,738,49,Car Following
+689,739,50,Car Following
+690,740,49,Car Following
+691,741,49,Car Following
+692,742,49,Car Following
+693,743,49,Car Following
+694,744,49,Car Following
+695,745,49,Car Following
+696,746,49,Car Following
+697,747,49,Car Following
+698,748,50,Car Following
+699,749,50,Car Following
+700,750,50,Car Following
+701,751,50,Car Following
+702,752,50,Car Following
+703,753,49,Car Following
+704,754,49,Car Following
+705,755,49,Car Following
+706,756,49,Car Following
+707,757,49,Car Following
+708,758,50,Car Following
+709,759,50,Car Following
+710,760,50,Car Following
+711,761,50,Car Following
+712,762,50,Car Following
+713,763,49,Car Following
+714,764,48,Car Following
+715,765,48,Car Following
+716,766,48,Car Following
+717,767,48,Car Following
+718,768,48,Car Following
+719,769,47,Car Following
+720,770,48,Car Following
+721,771,48,Car Following
+722,772,49,Car Following
+723,773,48,Car Following
+724,774,47,Car Following
+725,775,47,Car Following
+726,776,46,Car Following
+727,777,47,Car Following
+728,778,48,Car Following
+729,779,48,Car Following
+730,780,48,Car Following
+731,781,48,Car Following
+732,782,48,Car Following
+733,783,49,Car Following
+734,784,49,Car Following
+735,785,48,Car Following
+736,786,48,Car Following
+737,787,48,Car Following
+738,788,47,Car Following
+739,789,47,Car Following
+740,790,47,Car Following
+741,791,47,Car Following
+742,792,48,Car Following
+743,793,48,Car Following
+744,794,48,Car Following
+745,795,48,Car Following
+746,796,48,Car Following
+747,797,48,Car Following
+748,798,48,Car Following
+749,799,48,Car Following
+750,800,49,Car Following
+751,801,49,Car Following
+752,802,48,Car Following
+753,803,48,Car Following
+754,804,48,Car Following
+755,805,48,Car Following
+756,806,47,Cut-In
+757,807,47,Cut-In
+758,808,47,Cut-In
+759,809,47,Cut-In
+760,810,47,Cut-In
+761,811,47,Cut-In
+762,812,46,Cut-In
+763,813,46,Cut-In
+764,814,46,Cut-In
+765,815,47,Cut-In
+766,816,48,Cut-In
+767,817,47,Cut-In
+768,818,48,Cut-In
+769,819,47,Cut-In
+770,820,47,Cut-In
+771,821,47,Cut-In
+772,822,47,Cut-In
+773,823,48,Cut-In
+774,824,48,Cut-In
+775,825,48,Cut-In
+776,826,48,Cut-In
+777,827,49,Cut-In
+778,828,49,Cut-In
+779,829,49,Cut-In
+780,830,49,Cut-In
+781,831,49,Cut-In
+782,832,49,Cut-In
+783,833,48,Cut-In
+784,834,48,Cut-In
+785,835,47,Cut-In
+786,836,47,Cut-In
+787,837,49,Cut-In
+788,838,49,Cut-In
+789,839,49,Cut-In
+790,840,49,Cut-In
+791,841,49,Cut-In
+792,842,49,Cut-In
+793,843,49,Cut-In
+794,844,49,Cut-In
+795,845,49,Cut-In
+796,846,49,Cut-In
+797,847,49,Cut-In
+798,848,51,Cut-In
+799,849,50,Cut-In
+800,850,50,Cut-In
+801,851,50,Cut-In
+802,852,50,Cut-In
+803,853,50,Cut-In
+804,854,51,Cut-In
+805,855,52,Cut-In
+806,856,52,Car Following
+807,857,52,Car Following
+808,858,52,Car Following
+809,859,52,Car Following
+810,860,51,Car Following
+811,861,51,Car Following
+812,862,52,Car Following
+813,863,52,Car Following
+814,864,51,Car Following
+815,865,51,Car Following
+816,866,50,Car Following
+817,867,50,Car Following
+818,868,51,Cut-In
+819,869,52,Cut-In
+820,870,51,Cut-In
+821,871,51,Cut-In
+822,872,52,Cut-In
+823,873,52,Cut-In
+824,874,52,Cut-In
+825,875,51,Cut-In
+826,876,51,Cut-In
+827,877,51,Cut-In
+828,878,51,Cut-In
+829,879,51,Cut-In
+830,880,51,Cut-In
+831,881,51,Cut-In
+832,882,51,Cut-In
+833,883,51,Cut-In
+834,884,50,Cut-In
+835,885,49,Cut-In
+836,886,49,Cut-In
+837,887,50,Cut-In
+838,888,50,Cut-In
+839,889,50,Cut-In
+840,890,50,Cut-In
+841,891,49,Cut-In
+842,892,49,Cut-In
+843,893,49,Cut-In
+844,894,49,Cut-In
+845,895,48,Cut-In
+846,896,48,Cut-In
+847,897,48,Cut-In
+848,898,48,Cut-In
+849,899,47,Cut-In
+850,900,47,Cut-In
+851,901,48,Cut-In
+852,902,48,Cut-In
+853,903,48,Cut-In
+854,904,50,Cut-In
+855,905,49,Cut-In
+856,906,49,Cut-In
+857,907,48,Cut-In
+858,908,48,Cut-In
+859,909,48,Cut-In
+860,910,48,Cut-In
+861,911,48,Cut-In
+862,912,48,Cut-In
+863,913,47,Cut-In
+864,914,48,Cut-In
+865,915,48,Cut-In
+866,916,50,Cut-In
+867,917,50,Cut-In
+868,918,50,Cut-In
+869,919,49,Cut-In
+870,920,49,Cut-In
+871,921,48,Cut-In
+872,922,49,Cut-In
+873,923,49,Cut-In
+874,924,50,Cut-In
+875,925,50,Cut-In
+876,926,50,Cut-In
+877,927,51,Cut-In
+878,928,50,Cut-In
+879,929,50,Cut-In
+880,930,51,Cut-In
+881,931,51,Cut-In
+882,932,50,Cut-In
+883,933,50,Cut-In
+884,934,49,Cut-In
+885,935,48,Cut-In
+886,936,48,Cut-In
+887,937,49,Cut-In
+888,938,48,Cut-In
+889,939,50,Cut-In
+890,940,50,Cut-In
+891,941,50,Car Following
+892,942,50,Car Following
+893,943,50,Car Following
+894,944,49,Car Following
+895,945,49,Car Following
+896,946,49,Car Following
+897,947,49,Car Following
+898,948,49,Car Following
+899,949,50,Car Following
+900,950,50,Car Following
+901,951,50,Car Following
+902,952,51,Car Following
+903,953,51,Car Following
+904,954,50,Car Following
+905,955,50,Car Following
+906,956,50,Car Following
+907,957,50,Car Following
+908,958,50,Car Following
+909,959,50,Car Following
+910,960,50,Car Following
+911,961,50,Car Following
+912,962,51,Car Following
+913,963,51,Car Following
+914,964,51,Cut-In
+915,965,51,Cut-In
+916,966,50,Cut-In
+917,967,50,Cut-In
+918,968,50,Cut-In
+919,969,50,Cut-In
+920,970,51,Cut-In
+921,971,51,Cut-In
+922,972,50,Cut-In
+923,973,50,Cut-In
+924,974,50,Cut-In
+925,975,50,Cut-In
+926,976,49,Cut-In
+927,977,49,Cut-In
+928,978,49,Cut-In
+929,979,49,Cut-In
+930,980,49,Cut-In
+931,981,48,Cut-In
+932,982,48,Cut-In
+933,983,49,Cut-In
+934,984,48,Cut-In
+935,985,48,Cut-In
+936,986,49,Cut-In
+937,987,49,Cut-In
+938,988,49,Cut-In
+939,989,49,Cut-In
+940,990,49,Cut-In
+941,991,48,Cut-In
+942,992,48,Cut-In
+943,993,47,Cut-In
+944,994,45,Cut-In
+945,995,45,Cut-In
+946,996,46,Cut-In
+947,997,45,Cut-In
+948,998,45,Cut-In
+949,999,45,Cut-In
+950,1000,45,Cut-In
+951,1001,44,Cut-In
+952,1002,44,Cut-In
+953,1003,45,Cut-In
+954,1004,47,Cut-In
+955,1005,47,Cut-In
+956,1006,47,Cut-In
+957,1007,47,Cut-In
+958,1008,47,Cut-In
+959,1009,46,Cut-In
+960,1010,46,Cut-In
+961,1011,46,Cut-In
+962,1012,47,Cut-In
+963,1013,47,Cut-In
+964,1014,47,Cut-In
+965,1015,47,Cut-In
+966,1016,48,Cut-In
+967,1017,48,Cut-In
+968,1018,48,Cut-In
+969,1019,47,Cut-In
+970,1020,46,Cut-In
+971,1021,46,Cut-In
+972,1022,45,Cut-In
+973,1023,44,Cut-In
+974,1024,45,Cut-In
+975,1025,44,Cut-In
+976,1026,44,Cut-In
+977,1027,44,Cut-In
+978,1028,44,Cut-In
+979,1029,45,Cut-In
+980,1030,45,Cut-In
+981,1031,46,Cut-In
+982,1032,46,Cut-In
+983,1033,47,Cut-In
+984,1034,46,Cut-In
+985,1035,46,Cut-In
+986,1036,46,Cut-In
+987,1037,46,Cut-In
+988,1038,46,Cut-In
+989,1039,46,Cut-In
+990,1040,45,Cut-In
+991,1041,45,Car Following
+992,1042,46,Car Following
+993,1043,46,Car Following
+994,1044,46,Cut-In
+995,1045,47,Cut-In
+996,1046,47,Cut-In
+997,1047,47,Cut-In
+998,1048,48,Cut-In
+999,1049,47,Cut-In
+1000,1050,47,Cut-In
+1001,1051,46,Cut-In
+1002,1052,46,Cut-In
+1003,1053,46,Cut-In
+1004,1054,46,Cut-In
+1005,1055,46,Cut-In
+1006,1056,46,Cut-In
+1007,1057,47,Cut-In
+1008,1058,47,Cut-In
+1009,1059,47,Cut-In
+1010,1060,46,Cut-In
+1011,1061,44,Cut-In
+1012,1062,44,Cut-In
+1013,1063,44,Cut-In
+1014,1064,45,Cut-In
+1015,1065,45,Cut-In
+1016,1066,44,Cut-In
+1017,1067,45,Cut-In
+1018,1068,45,Cut-In
+1019,1069,45,Cut-In
+1020,1070,45,Cut-In
+1021,1071,45,Cut-In
+1022,1072,45,Cut-In
+1023,1073,46,Cut-In
+1024,1074,46,Cut-In
+1025,1075,46,Cut-In
+1026,1076,46,Cut-In
+1027,1077,46,Cut-In
+1028,1078,46,Cut-In
+1029,1079,47,Cut-In
+1030,1080,46,Cut-In
+1031,1081,46,Cut-In
+1032,1082,46,Cut-In
+1033,1083,46,Cut-In
+1034,1084,46,Cut-In
+1035,1085,46,Cut-In
+1036,1086,46,Cut-In
+1037,1087,45,Cut-In
+1038,1088,45,Cut-In
+1039,1089,45,Cut-In
+1040,1090,45,Cut-In
+1041,1091,45,Cut-In
+1042,1092,46,Cut-In
+1043,1093,46,Cut-In
+1044,1094,46,Car Following
+1045,1095,46,Car Following
+1046,1096,46,Car Following
+1047,1097,46,Car Following
+1048,1098,45,Car Following
+1049,1099,44,Car Following
+1050,1100,44,Car Following
+1051,1101,44,Car Following
+1052,1102,46,Car Following
+1053,1103,47,Car Following
+1054,1104,48,Car Following
+1055,1105,48,Car Following
+1056,1106,48,Car Following
+1057,1107,48,Car Following
+1058,1108,48,Car Following
+1059,1109,49,Car Following
+1060,1110,49,Car Following
+1061,1111,49,Car Following
+1062,1112,49,Car Following
+1063,1113,49,Car Following
+1064,1114,48,Car Following
+1065,1115,47,Car Following
+1066,1116,45,Car Following
+1067,1117,45,Car Following
+1068,1118,46,Car Following
+1069,1119,45,Car Following
+1070,1120,45,Car Following
+1071,1121,44,Car Following
+1072,1122,44,Car Following
+1073,1123,44,Car Following
+1074,1124,45,Car Following
+1075,1125,45,Car Following
+1076,1126,45,Car Following
+1077,1127,45,Car Following
+1078,1128,45,Car Following
+1079,1129,45,Car Following
+1080,1130,45,Car Following
+1081,1131,45,Car Following
+1082,1132,45,Car Following
+1083,1133,45,Car Following
+1084,1134,45,Car Following
+1085,1135,46,Car Following
+1086,1136,45,Car Following
+1087,1137,44,Car Following
+1088,1138,43,Car Following
+1089,1139,43,Car Following
+1090,1140,43,Car Following
+1091,1141,43,Car Following
+1092,1142,43,Car Following
+1093,1143,43,Car Following
+1094,1144,44,Car Following
+1095,1145,44,Car Following
+1096,1146,44,Car Following
+1097,1147,44,Car Following
+1098,1148,44,Car Following
+1099,1149,44,Car Following
+1100,1150,44,Car Following
+1101,1151,44,Car Following
+1102,1152,44,Car Following
+1103,1153,45,Car Following
+1104,1154,45,Car Following
+1105,1155,46,Car Following
+1106,1156,45,Car Following
+1107,1157,45,Car Following
+1108,1158,46,Car Following
+1109,1159,45,Car Following
+1110,1160,45,Car Following
+1111,1161,45,Car Following
+1112,1162,45,Car Following
+1113,1163,45,Car Following
+1114,1164,44,Car Following
+1115,1165,43,Car Following
+1116,1166,43,Car Following
+1117,1167,42,Car Following
+1118,1168,42,Car Following
+1119,1169,43,Car Following
+1120,1170,43,Car Following
+1121,1171,44,Car Following
+1122,1172,45,Car Following
+1123,1173,46,Car Following
+1124,1174,46,Car Following
+1125,1175,46,Car Following
+1126,1176,47,Car Following
+1127,1177,48,Car Following
+1128,1178,48,Car Following
+1129,1179,48,Car Following
+1130,1180,48,Car Following
+1131,1181,46,Car Following
+1132,1182,46,Car Following
+1133,1183,47,Car Following
+1134,1184,47,Car Following
+1135,1185,48,Car Following
+1136,1186,48,Car Following
+1137,1187,48,Car Following
+1138,1188,48,Car Following
+1139,1189,47,Car Following
+1140,1190,47,Car Following
+1141,1191,46,Car Following
+1142,1192,46,Car Following
+1143,1193,46,Car Following
+1144,1194,46,Car Following
+1145,1195,46,Car Following
+1146,1196,47,Car Following
+1147,1197,48,Car Following
+1148,1198,49,Car Following
+1149,1199,49,Car Following
+1150,1200,48,Car Following
+1151,1201,47,Car Following
+1152,1202,47,Car Following
+1153,1203,47,Car Following
+1154,1204,48,Car Following
+1155,1205,48,Car Following
+1156,1206,48,Car Following
+1157,1207,48,Car Following
+1158,1208,48,Car Following
+1159,1209,49,Car Following
+1160,1210,49,Car Following
+1161,1211,49,Car Following
+1162,1212,49,Car Following
+1163,1213,49,Car Following
+1164,1214,48,Car Following
+1165,1215,48,Car Following
+1166,1216,48,Car Following
+1167,1217,49,Car Following
+1168,1218,49,Car Following
+1169,1219,48,Car Following
+1170,1220,49,Car Following
+1171,1221,49,Car Following
+1172,1222,50,Car Following
+1173,1223,50,Car Following
+1174,1224,50,Car Following
+1175,1225,49,Car Following
+1176,1226,49,Car Following
+1177,1227,49,Car Following
+1178,1228,49,Car Following
+1179,1229,49,Car Following
+1180,1230,50,Car Following
+1181,1231,51,Car Following
+1182,1232,52,Car Following
+1183,1233,51,Car Following
+1184,1234,51,Car Following
+1185,1235,51,Car Following
+1186,1236,50,Car Following
+1187,1237,50,Car Following
+1188,1238,50,Car Following
+1189,1239,51,Car Following
+1190,1240,52,Car Following
+1191,1241,51,Car Following
+1192,1242,51,Car Following
+1193,1243,52,Car Following
+1194,1244,51,Car Following
+1195,1245,51,Car Following
+1196,1246,51,Car Following
+1197,1247,51,Car Following
+1198,1248,51,Car Following
+1199,1249,51,Car Following
+1200,1250,51,Car Following
+1201,1251,51,Car Following
+1202,1252,51,Car Following
+1203,1253,51,Car Following
+1204,1254,51,Car Following
+1205,1255,51,Car Following
+1206,1256,51,Car Following
+1207,1257,51,Car Following
+1208,1258,50,Car Following
+1209,1259,50,Car Following
+1210,1260,50,Car Following
+1211,1261,50,Car Following
+1212,1262,50,Car Following
+1213,1263,51,Car Following
+1214,1264,50,Car Following
+1215,1265,51,Car Following
+1216,1266,51,Car Following
+1217,1267,51,Car Following
+1218,1268,51,Car Following
+1219,1269,51,Car Following
+1220,1270,51,Car Following
+1221,1271,51,Car Following
+1222,1272,51,Car Following
+1223,1273,51,Car Following
+1224,1274,51,Car Following
+1225,1275,51,Car Following
+1226,1276,50,Car Following
+1227,1277,50,Car Following
+1228,1278,50,Car Following
+1229,1279,49,Car Following
+1230,1280,49,Car Following
+1231,1281,51,Car Following
+1232,1282,51,Car Following
+1233,1283,51,Car Following
+1234,1284,51,Car Following
+1235,1285,51,Car Following
+1236,1286,50,Car Following
+1237,1287,50,Car Following
+1238,1288,50,Car Following
+1239,1289,51,Car Following
+1240,1290,51,Car Following
+1241,1291,51,Car Following
+1242,1292,51,Car Following
+1243,1293,49,Car Following
+1244,1294,49,Car Following
+1245,1295,49,Car Following
+1246,1296,49,Car Following
+1247,1297,49,Car Following
+1248,1298,49,Car Following
+1249,1299,49,Car Following
+1250,1300,49,Car Following
+1251,1301,50,Car Following
+1252,1302,50,Car Following
+1253,1303,50,Car Following
+1254,1304,50,Car Following
+1255,1305,51,Car Following
+1256,1306,51,Car Following
+1257,1307,50,Car Following
+1258,1308,51,Car Following
+1259,1309,51,Car Following
+1260,1310,51,Car Following
+1261,1311,52,Car Following
+1262,1312,52,Car Following
+1263,1313,51,Car Following
+1264,1314,51,Car Following
+1265,1315,52,Car Following
+1266,1316,52,Car Following
+1267,1317,52,Car Following
+1268,1318,52,Car Following
+1269,1319,53,Car Following
+1270,1320,52,Car Following
+1271,1321,52,Car Following
+1272,1322,52,Car Following
+1273,1323,52,Car Following
+1274,1324,51,Car Following
+1275,1325,51,Car Following
+1276,1326,50,Car Following
+1277,1327,51,Car Following
+1278,1328,51,Car Following
+1279,1329,51,Car Following
+1280,1330,51,Car Following
+1281,1331,52,Car Following
+1282,1332,52,Car Following
+1283,1333,53,Car Following
+1284,1334,53,Car Following
+1285,1335,55,Car Following
+1286,1336,55,Car Following
+1287,1337,55,Car Following
+1288,1338,55,Car Following
+1289,1339,55,Car Following
+1290,1340,55,Car Following
+1291,1341,54,Car Following
+1292,1342,54,Car Following
+1293,1343,54,Car Following
+1294,1344,52,Car Following
+1295,1345,52,Car Following
+1296,1346,52,Car Following
+1297,1347,52,Car Following
+1298,1348,54,Car Following
+1299,1349,54,Car Following
+1300,1350,54,Car Following
+1301,1351,54,Car Following
+1302,1352,54,Car Following
+1303,1353,55,Car Following
+1304,1354,55,Car Following
+1305,1355,55,Car Following
+1306,1356,55,Car Following
+1307,1357,55,Car Following
+1308,1358,55,Car Following
+1309,1359,55,Cut-In
+1310,1360,55,Cut-In
+1311,1361,55,Cut-In
+1312,1362,55,Cut-In
+1313,1363,54,Cut-In
+1314,1364,54,Cut-In
+1315,1365,54,Cut-In
+1316,1366,54,Cut-In
+1317,1367,54,Cut-In
+1318,1368,53,Cut-In
+1319,1369,54,Cut-In
+1320,1370,55,Cut-In
+1321,1371,54,Cut-In
+1322,1372,54,Cut-In
+1323,1373,54,Cut-In
+1324,1374,55,Cut-In
+1325,1375,54,Cut-In
+1326,1376,54,Cut-In
+1327,1377,53,Cut-In
+1328,1378,53,Cut-In
+1329,1379,53,Cut-In
+1330,1380,52,Cut-In
+1331,1381,52,Cut-In
+1332,1382,52,Cut-In
+1333,1383,51,Cut-In
+1334,1384,51,Cut-In
+1335,1385,51,Cut-In
+1336,1386,50,Cut-In
+1337,1387,53,Cut-In
+1338,1388,52,Cut-In
+1339,1389,52,Cut-In
+1340,1390,52,Cut-In
+1341,1391,54,Cut-In
+1342,1392,54,Cut-In
+1343,1393,54,Cut-In
+1344,1394,54,Cut-In
+1345,1395,54,Cut-In
+1346,1396,54,Cut-In
+1347,1397,54,Cut-In
+1348,1398,54,Cut-In
+1349,1399,53,Cut-In
+1350,1400,53,Cut-In
+1351,1401,52,Cut-In
+1352,1402,51,Cut-In
+1353,1403,52,Cut-In
+1354,1404,52,Cut-In
+1355,1405,53,Cut-In
+1356,1406,53,Cut-In
+1357,1407,53,Cut-In
+1358,1408,52,Cut-In
+1359,1409,52,Car Following
+1360,1410,52,Car Following
+1361,1411,52,Car Following
+1362,1412,53,Car Following
+1363,1413,53,Car Following
+1364,1414,51,Car Following
+1365,1415,51,Car Following
+1366,1416,52,Car Following
+1367,1417,52,Car Following
+1368,1418,52,Car Following
+1369,1419,52,Car Following
+1370,1420,53,Car Following
+1371,1421,51,Car Following
+1372,1422,51,Car Following
+1373,1423,51,Car Following
+1374,1424,51,Car Following
+1375,1425,51,Car Following
+1376,1426,51,Car Following
+1377,1427,50,Car Following
+1378,1428,51,Car Following
+1379,1429,51,Car Following
+1380,1430,51,Car Following
+1381,1431,51,Car Following
+1382,1432,51,Car Following
+1383,1433,51,Car Following
+1384,1434,51,Car Following
+1385,1435,51,Car Following
+1386,1436,52,Car Following
+1387,1437,52,Car Following
+1388,1438,51,Car Following
+1389,1439,52,Car Following
+1390,1440,51,Car Following
+1391,1441,51,Car Following
+1392,1442,51,Car Following
+1393,1443,51,Car Following
+1394,1444,51,Car Following
+1395,1445,50,Car Following
+1396,1446,50,Car Following
+1397,1447,50,Car Following
+1398,1448,51,Car Following
+1399,1449,52,Car Following
+1400,1450,53,Car Following
+1401,1451,52,Car Following
+1402,1452,51,Car Following
+1403,1453,51,Car Following
+1404,1454,51,Cut-In
+1405,1455,51,Cut-In
+1406,1456,51,Cut-In
+1407,1457,51,Cut-In
+1408,1458,51,Cut-In
+1409,1459,53,Cut-In
+1410,1460,53,Cut-In
+1411,1461,53,Cut-In
+1412,1462,53,Cut-In
+1413,1463,53,Cut-In
+1414,1464,51,Cut-In
+1415,1465,51,Cut-In
+1416,1466,51,Cut-In
+1417,1467,51,Cut-In
+1418,1468,51,Cut-In
+1419,1469,52,Cut-In
+1420,1470,51,Cut-In
+1421,1471,51,Cut-In
+1422,1472,51,Cut-In
+1423,1473,52,Cut-In
+1424,1474,53,Cut-In
+1425,1475,52,Cut-In
+1426,1476,52,Cut-In
+1427,1477,52,Cut-In
+1428,1478,52,Cut-In
+1429,1479,52,Cut-In
+1430,1480,53,Cut-In
+1431,1481,53,Cut-In
+1432,1482,53,Cut-In
+1433,1483,54,Cut-In
+1434,1484,54,Cut-In
+1435,1485,54,Cut-In
+1436,1486,55,Cut-In
+1437,1487,54,Cut-In
+1438,1488,53,Cut-In
+1439,1489,53,Cut-In
+1440,1490,52,Cut-In
+1441,1491,52,Cut-In
+1442,1492,52,Cut-In
+1443,1493,51,Cut-In
+1444,1494,51,Cut-In
+1445,1495,51,Cut-In
+1446,1496,51,Cut-In
+1447,1497,51,Cut-In
+1448,1498,51,Cut-In
+1449,1499,51,Cut-In
+1450,1500,51,Cut-In
+1451,1501,50,Cut-In
+1452,1502,51,Cut-In
+1453,1503,51,Cut-In
+1454,1504,51,Car Following
+1455,1505,51,Car Following
+1456,1506,50,Car Following
+1457,1507,50,Car Following
+1458,1508,51,Car Following
+1459,1509,52,Car Following
+1460,1510,52,Car Following
+1461,1511,52,Car Following
+1462,1512,52,Car Following
+1463,1513,53,Car Following
+1464,1514,53,Car Following
+1465,1515,53,Car Following
+1466,1516,53,Car Following
+1467,1517,53,Car Following
+1468,1518,53,Car Following
+1469,1519,53,Car Following
+1470,1520,53,Car Following
+1471,1521,51,Car Following
+1472,1522,51,Car Following
+1473,1523,52,Car Following
+1474,1524,51,Car Following
+1475,1525,50,Car Following
+1476,1526,49,Car Following
+1477,1527,49,Car Following
+1478,1528,49,Car Following
+1479,1529,50,Car Following
+1480,1530,50,Car Following
+1481,1531,50,Car Following
+1482,1532,50,Car Following
+1483,1533,50,Car Following
+1484,1534,50,Car Following
+1485,1535,51,Car Following
+1486,1536,51,Car Following
+1487,1537,51,Car Following
+1488,1538,50,Car Following
+1489,1539,50,Car Following
+1490,1540,50,Car Following
+1491,1541,50,Car Following
+1492,1542,50,Car Following
+1493,1543,49,Car Following
+1494,1544,49,Car Following
+1495,1545,49,Car Following
+1496,1546,49,Car Following
+1497,1547,49,Car Following
+1498,1548,48,Car Following
+1499,1549,48,Car Following
+1500,1550,48,Car Following
+1501,1551,48,Car Following
+1502,1552,48,Car Following
+1503,1553,49,Car Following
+1504,1554,48,Car Following
+1505,1555,49,Car Following
+1506,1556,49,Car Following
+1507,1557,50,Car Following
+1508,1558,50,Car Following
+1509,1559,51,Car Following
+1510,1560,51,Car Following
+1511,1561,52,Car Following
+1512,1562,52,Car Following
+1513,1563,52,Car Following
+1514,1564,52,Car Following
+1515,1565,52,Car Following
+1516,1566,52,Car Following
+1517,1567,51,Car Following
+1518,1568,51,Car Following
+1519,1569,50,Cut-In
+1520,1570,50,Cut-In
+1521,1571,50,Cut-In
+1522,1572,50,Cut-In
+1523,1573,50,Cut-In
+1524,1574,51,Cut-In
+1525,1575,51,Cut-In
+1526,1576,51,Cut-In
+1527,1577,51,Cut-In
+1528,1578,51,Cut-In
+1529,1579,51,Cut-In
+1530,1580,51,Cut-In
+1531,1581,51,Cut-In
+1532,1582,52,Cut-In
+1533,1583,54,Cut-In
+1534,1584,54,Cut-In
+1535,1585,54,Cut-In
+1536,1586,54,Cut-In
+1537,1587,53,Cut-In
+1538,1588,53,Cut-In
+1539,1589,53,Cut-In
+1540,1590,53,Cut-In
+1541,1591,52,Cut-In
+1542,1592,52,Cut-In
+1543,1593,54,Cut-In
+1544,1594,55,Cut-In
+1545,1595,55,Cut-In
+1546,1596,55,Cut-In
+1547,1597,55,Cut-In
+1548,1598,55,Cut-In
+1549,1599,54,Cut-In
+1550,1600,54,Cut-In
+1551,1601,54,Cut-In
+1552,1602,54,Cut-In
+1553,1603,54,Cut-In
+1554,1604,55,Cut-In
+1555,1605,55,Cut-In
+1556,1606,56,Cut-In
+1557,1607,56,Cut-In
+1558,1608,56,Cut-In
+1559,1609,56,Cut-In
+1560,1610,54,Cut-In
+1561,1611,55,Cut-In
+1562,1612,55,Cut-In
+1563,1613,54,Cut-In
+1564,1614,54,Cut-In
+1565,1615,54,Cut-In
+1566,1616,55,Cut-In
+1567,1617,56,Cut-In
+1568,1618,56,Cut-In
+1569,1619,56,Cut-In
+1570,1620,56,Cut-In
+1571,1621,56,Cut-In
+1572,1622,56,Cut-In
+1573,1623,54,Cut-In
+1574,1624,55,Cut-In
+1575,1625,56,Cut-In
+1576,1626,55,Cut-In
+1577,1627,55,Cut-In
+1578,1628,55,Cut-In
+1579,1629,56,Cut-In
+1580,1630,56,Cut-In
+1581,1631,56,Cut-In
+1582,1632,56,Cut-In
+1583,1633,56,Cut-In
+1584,1634,56,Cut-In
+1585,1635,56,Cut-In
+1586,1636,56,Cut-In
+1587,1637,56,Cut-In
+1588,1638,56,Cut-In
+1589,1639,57,Cut-In
+1590,1640,57,Cut-In
+1591,1641,57,Cut-In
+1592,1642,57,Cut-In
+1593,1643,56,Cut-In
+1594,1644,56,Cut-In
+1595,1645,57,Cut-In
+1596,1646,58,Cut-In
+1597,1647,59,Cut-In
+1598,1648,59,Cut-In
+1599,1649,59,Cut-In
+1600,1650,59,Cut-In
+1601,1651,59,Cut-In
+1602,1652,59,Cut-In
+1603,1653,58,Cut-In
+1604,1654,58,Cut-In
+1605,1655,59,Cut-In
+1606,1656,59,Cut-In
+1607,1657,59,Cut-In
+1608,1658,59,Cut-In
+1609,1659,58,Cut-In
+1610,1660,58,Cut-In
+1611,1661,58,Cut-In
+1612,1662,58,Cut-In
+1613,1663,58,Cut-In
+1614,1664,58,Car Following
+1615,1665,57,Car Following
+1616,1666,56,Car Following
+1617,1667,57,Car Following
+1618,1668,57,Car Following
+1619,1669,57,Car Following
+1620,1670,58,Car Following
+1621,1671,58,Car Following
+1622,1672,58,Car Following
+1623,1673,58,Car Following
+1624,1674,58,Car Following
+1625,1675,58,Car Following
+1626,1676,58,Car Following
+1627,1677,56,Car Following
+1628,1678,56,Car Following
+1629,1679,56,Car Following
+1630,1680,56,Car Following
+1631,1681,56,Car Following
+1632,1682,57,Car Following
+1633,1683,56,Car Following
+1634,1684,56,Car Following
+1635,1685,56,Car Following
+1636,1686,56,Car Following
+1637,1687,56,Car Following
+1638,1688,56,Car Following
+1639,1689,56,Car Following
+1640,1690,57,Car Following
+1641,1691,57,Car Following
+1642,1692,57,Car Following
+1643,1693,57,Car Following
+1644,1694,58,Car Following
+1645,1695,58,Car Following
+1646,1696,58,Car Following
+1647,1697,56,Car Following
+1648,1698,56,Car Following
+1649,1699,56,Car Following
+1650,1700,57,Car Following
+1651,1701,57,Car Following
+1652,1702,57,Car Following
+1653,1703,56,Car Following
+1654,1704,56,Car Following
+1655,1705,56,Car Following
+1656,1706,56,Car Following
+1657,1707,56,Car Following
+1658,1708,56,Cut-In
+1659,1709,57,Cut-In
+1660,1710,57,Cut-In
+1661,1711,57,Cut-In
+1662,1712,57,Cut-In
+1663,1713,57,Cut-In
+1664,1714,57,Cut-In
+1665,1715,57,Cut-In
+1666,1716,57,Cut-In
+1667,1717,57,Cut-In
+1668,1718,58,Cut-In
+1669,1719,58,Cut-In
+1670,1720,58,Cut-In
+1671,1721,59,Cut-In
+1672,1722,59,Cut-In
+1673,1723,58,Cut-In
+1674,1724,59,Cut-In
+1675,1725,59,Cut-In
+1676,1726,59,Cut-In
+1677,1727,59,Cut-In
+1678,1728,59,Cut-In
+1679,1729,59,Cut-In
+1680,1730,59,Cut-In
+1681,1731,59,Cut-In
+1682,1732,59,Cut-In
+1683,1733,59,Cut-In
+1684,1734,59,Cut-In
+1685,1735,57,Cut-In
+1686,1736,57,Cut-In
+1687,1737,57,Cut-In
+1688,1738,56,Cut-In
+1689,1739,55,Cut-In
+1690,1740,55,Cut-In
+1691,1741,56,Cut-In
+1692,1742,56,Cut-In
+1693,1743,56,Cut-In
+1694,1744,56,Cut-In
+1695,1745,57,Cut-In
+1696,1746,56,Cut-In
+1697,1747,56,Cut-In
+1698,1748,57,Cut-In
+1699,1749,57,Cut-In
+1700,1750,57,Cut-In
+1701,1751,57,Cut-In
+1702,1752,57,Cut-In
+1703,1753,57,Cut-In
+1704,1754,57,Cut-In
+1705,1755,57,Cut-In
+1706,1756,57,Cut-In
+1707,1757,57,Cut-In
+1708,1758,57,Cut-In
+1709,1759,57,Cut-In
+1710,1760,57,Cut-In
+1711,1761,57,Cut-In
+1712,1762,57,Cut-In
+1713,1763,56,Cut-In
+1714,1764,56,Cut-In
+1715,1765,55,Cut-In
+1716,1766,55,Cut-In
+1717,1767,55,Cut-In
+1718,1768,56,Cut-In
+1719,1769,57,Cut-In
+1720,1770,57,Cut-In
+1721,1771,57,Cut-In
+1722,1772,57,Cut-In
+1723,1773,57,Cut-In
+1724,1774,57,Cut-In
+1725,1775,58,Cut-In
+1726,1776,57,Cut-In
+1727,1777,57,Cut-In
+1728,1778,57,Cut-In
+1729,1779,57,Cut-In
+1730,1780,56,Cut-In
+1731,1781,56,Cut-In
+1732,1782,56,Cut-In
+1733,1783,56,Cut-In
+1734,1784,55,Cut-In
+1735,1785,55,Cut-In
+1736,1786,55,Cut-In
+1737,1787,55,Cut-In
+1738,1788,55,Cut-In
+1739,1789,54,Cut-In
+1740,1790,54,Cut-In
+1741,1791,54,Cut-In
+1742,1792,54,Cut-In
+1743,1793,54,Cut-In
+1744,1794,55,Cut-In
+1745,1795,54,Cut-In
+1746,1796,54,Cut-In
+1747,1797,54,Cut-In
+1748,1798,54,Cut-In
+1749,1799,53,Cut-In
+1750,1800,52,Cut-In
+1751,1801,52,Cut-In
+1752,1802,53,Cut-In
+1753,1803,53,Cut-In
+1754,1804,55,Cut-In
+1755,1805,55,Cut-In
+1756,1806,56,Cut-In
+1757,1807,57,Cut-In
+1758,1808,57,Cut-In
+1759,1809,57,Cut-In
+1760,1810,57,Cut-In
+1761,1811,57,Cut-In
+1762,1812,57,Cut-In
+1763,1813,57,Cut-In
+1764,1814,56,Cut-In
+1765,1815,57,Cut-In
+1766,1816,57,Car Following
+1767,1817,57,Car Following
+1768,1818,57,Car Following
+1769,1819,57,Car Following
+1770,1820,57,Car Following
+1771,1821,56,Car Following
+1772,1822,56,Car Following
+1773,1823,56,Car Following
+1774,1824,56,Cut-In
+1775,1825,56,Cut-In
+1776,1826,56,Cut-In
+1777,1827,56,Cut-In
+1778,1828,57,Cut-In
+1779,1829,58,Cut-In
+1780,1830,58,Cut-In
+1781,1831,58,Cut-In
+1782,1832,57,Cut-In
+1783,1833,57,Cut-In
+1784,1834,57,Cut-In
+1785,1835,57,Cut-In
+1786,1836,57,Cut-In
+1787,1837,57,Cut-In
+1788,1838,56,Cut-In
+1789,1839,56,Cut-In
+1790,1840,56,Cut-In
+1791,1841,56,Cut-In
+1792,1842,56,Cut-In
+1793,1843,56,Cut-In
+1794,1844,56,Cut-In
+1795,1845,56,Cut-In
+1796,1846,56,Cut-In
+1797,1847,57,Cut-In
+1798,1848,57,Cut-In
+1799,1849,57,Cut-In
+1800,1850,58,Cut-In
+1801,1851,58,Cut-In
+1802,1852,57,Cut-In
+1803,1853,58,Cut-In
+1804,1854,58,Cut-In
+1805,1855,58,Cut-In
+1806,1856,58,Cut-In
+1807,1857,58,Cut-In
+1808,1858,58,Cut-In
+1809,1859,58,Cut-In
+1810,1860,58,Cut-In
+1811,1861,58,Cut-In
+1812,1862,58,Cut-In
+1813,1863,59,Cut-In
+1814,1864,59,Cut-In
+1815,1865,59,Cut-In
+1816,1866,59,Cut-In
+1817,1867,59,Cut-In
+1818,1868,59,Cut-In
+1819,1869,59,Cut-In
+1820,1870,58,Cut-In
+1821,1871,58,Cut-In
+1822,1872,58,Cut-In
+1823,1873,58,Cut-In
+1824,1874,58,Cut-In
+1825,1875,57,Cut-In
+1826,1876,57,Cut-In
+1827,1877,59,Cut-In
+1828,1878,59,Cut-In
+1829,1879,59,Cut-In
+1830,1880,59,Cut-In
+1831,1881,59,Cut-In
+1832,1882,59,Cut-In
+1833,1883,59,Cut-In
+1834,1884,59,Cut-In
+1835,1885,59,Cut-In
+1836,1886,59,Cut-In
+1837,1887,59,Cut-In
+1838,1888,58,Cut-In
+1839,1889,58,Cut-In
+1840,1890,58,Cut-In
+1841,1891,58,Cut-In
+1842,1892,58,Cut-In
+1843,1893,58,Cut-In
+1844,1894,57,Cut-In
+1845,1895,57,Cut-In
+1846,1896,57,Cut-In
+1847,1897,57,Cut-In
+1848,1898,57,Cut-In
+1849,1899,58,Cut-In
+1850,1900,59,Cut-In
+1851,1901,59,Cut-In
+1852,1902,58,Cut-In
+1853,1903,57,Cut-In
+1854,1904,57,Cut-In
+1855,1905,57,Cut-In
+1856,1906,57,Cut-In
+1857,1907,57,Cut-In
+1858,1908,57,Cut-In
+1859,1909,57,Cut-In
+1860,1910,57,Cut-In
+1861,1911,57,Cut-In
+1862,1912,57,Cut-In
+1863,1913,57,Cut-In
+1864,1914,57,Cut-In
+1865,1915,55,Cut-In
+1866,1916,55,Cut-In
+1867,1917,55,Cut-In
+1868,1918,56,Cut-In
+1869,1919,56,Cut-In
+1870,1920,56,Cut-In
+1871,1921,56,Cut-In
+1872,1922,56,Cut-In
+1873,1923,57,Cut-In
+1874,1924,57,Cut-In
+1875,1925,57,Cut-In
+1876,1926,56,Cut-In
+1877,1927,56,Cut-In
+1878,1928,57,Cut-In
+1879,1929,58,Cut-In
+1880,1930,58,Cut-In
+1881,1931,58,Cut-In
+1882,1932,58,Cut-In
+1883,1933,58,Cut-In
+1884,1934,58,Cut-In
+1885,1935,58,Cut-In
+1886,1936,58,Cut-In
+1887,1937,58,Cut-In
+1888,1938,58,Car Following
+1889,1939,57,Car Following
+1890,1940,57,Car Following
+1891,1941,57,Car Following
+1892,1942,57,Car Following
+1893,1943,58,Car Following
+1894,1944,58,Car Following
+1895,1945,57,Car Following
+1896,1946,57,Car Following
+1897,1947,57,Car Following
+1898,1948,58,Car Following
+1899,1949,58,Car Following
+1900,1950,58,Car Following
+1901,1951,58,Car Following
+1902,1952,58,Car Following
+1903,1953,58,Car Following
+1904,1954,58,Car Following
+1905,1955,58,Car Following
+1906,1956,58,Car Following
+1907,1957,58,Car Following
+1908,1958,58,Car Following
+1909,1959,58,Car Following
+1910,1960,58,Car Following
+1911,1961,58,Car Following
+1912,1962,58,Car Following
+1913,1963,57,Car Following
+1914,1964,57,Car Following
+1915,1965,57,Car Following
+1916,1966,57,Car Following
+1917,1967,57,Car Following
+1918,1968,58,Car Following
+1919,1969,57,Car Following
+1920,1970,57,Car Following
+1921,1971,57,Car Following
+1922,1972,56,Car Following
+1923,1973,56,Car Following
+1924,1974,57,Car Following
+1925,1975,57,Car Following
+1926,1976,57,Car Following
+1927,1977,58,Car Following
+1928,1978,58,Car Following
+1929,1979,58,Car Following
+1930,1980,58,Car Following
+1931,1981,58,Car Following
+1932,1982,59,Car Following
+1933,1983,59,Car Following
+1934,1984,58,Car Following
+1935,1985,58,Car Following
+1936,1986,58,Car Following
+1937,1987,58,Car Following
+1938,1988,58,Car Following
+1939,1989,58,Car Following
+1940,1990,58,Car Following
+1941,1991,58,Car Following
+1942,1992,58,Car Following
+1943,1993,58,Car Following
+1944,1994,58,Car Following
+1945,1995,58,Car Following
+1946,1996,57,Car Following
+1947,1997,57,Car Following
+1948,1998,58,Car Following
+1949,1999,58,Car Following
+1950,2000,58,Car Following
+1951,2001,59,Car Following
+1952,2002,59,Car Following
+1953,2003,59,Car Following
+1954,2004,58,Car Following
+1955,2005,59,Car Following
+1956,2006,59,Car Following
+1957,2007,58,Car Following
+1958,2008,58,Car Following
+1959,2009,58,Car Following
+1960,2010,59,Car Following
+1961,2011,59,Car Following
+1962,2012,60,Car Following
+1963,2013,60,Car Following
+1964,2014,61,Car Following
+1965,2015,62,Car Following
+1966,2016,62,Car Following
+1967,2017,61,Car Following
+1968,2018,60,Car Following
+1969,2019,60,Car Following
+1970,2020,60,Car Following
+1971,2021,60,Car Following
+1972,2022,60,Car Following
+1973,2023,60,Car Following
+1974,2024,60,Car Following
+1975,2025,59,Car Following
+1976,2026,59,Car Following
+1977,2027,58,Car Following
+1978,2028,58,Car Following
+1979,2029,58,Car Following
+1980,2030,58,Car Following
+1981,2031,58,Car Following
+1982,2032,58,Car Following
+1983,2033,58,Car Following
+1984,2034,57,Car Following
+1985,2035,57,Car Following
+1986,2036,57,Car Following
+1987,2037,57,Car Following
+1988,2038,58,Car Following
+1989,2039,59,Car Following
+1990,2040,58,Car Following
+1991,2041,59,Car Following
+1992,2042,59,Car Following
+1993,2043,58,Car Following
+1994,2044,58,Car Following
+1995,2045,58,Car Following
+1996,2046,58,Car Following
+1997,2047,58,Car Following
+1998,2048,58,Car Following
+1999,2049,58,Car Following
+2000,2050,58,Car Following
+2001,2051,58,Car Following
+2002,2052,57,Car Following
+2003,2053,56,Car Following
+2004,2054,56,Car Following
+2005,2055,57,Car Following
+2006,2056,57,Car Following
+2007,2057,57,Car Following
+2008,2058,56,Car Following
+2009,2059,56,Car Following
+2010,2060,57,Car Following
+2011,2061,57,Car Following
+2012,2062,57,Car Following
+2013,2063,57,Car Following
+2014,2064,57,Car Following
+2015,2065,58,Car Following
+2016,2066,58,Car Following
+2017,2067,57,Car Following
+2018,2068,56,Car Following
+2019,2069,57,Car Following
+2020,2070,57,Car Following
+2021,2071,56,Car Following
+2022,2072,56,Car Following
+2023,2073,57,Car Following
+2024,2074,57,Car Following
+2025,2075,57,Car Following
+2026,2076,57,Car Following
+2027,2077,57,Car Following
+2028,2078,56,Car Following
+2029,2079,55,Car Following
+2030,2080,55,Car Following
+2031,2081,55,Car Following
+2032,2082,55,Car Following
+2033,2083,55,Car Following
+2034,2084,55,Car Following
+2035,2085,53,Car Following
+2036,2086,53,Car Following
+2037,2087,53,Car Following
+2038,2088,53,Car Following
+2039,2089,54,Car Following
+2040,2090,54,Car Following
+2041,2091,54,Car Following
+2042,2092,54,Car Following
+2043,2093,54,Car Following
+2044,2094,54,Car Following
+2045,2095,54,Car Following
+2046,2096,54,Car Following
+2047,2097,54,Car Following
+2048,2098,54,Car Following
+2049,2099,54,Car Following
+2050,2100,54,Car Following
+2051,2101,54,Car Following
+2052,2102,54,Car Following
+2053,2103,53,Car Following
+2054,2104,52,Car Following
+2055,2105,53,Car Following
+2056,2106,53,Car Following
+2057,2107,53,Car Following
+2058,2108,53,Car Following
+2059,2109,53,Car Following
+2060,2110,52,Car Following
+2061,2111,52,Car Following
+2062,2112,52,Car Following
+2063,2113,52,Car Following
+2064,2114,52,Car Following
+2065,2115,52,Car Following
+2066,2116,52,Car Following
+2067,2117,52,Car Following
+2068,2118,52,Car Following
+2069,2119,52,Car Following
+2070,2120,52,Car Following
+2071,2121,52,Car Following
+2072,2122,52,Car Following
+2073,2123,52,Car Following
+2074,2124,52,Car Following
+2075,2125,52,Car Following
+2076,2126,52,Car Following
+2077,2127,52,Car Following
+2078,2128,52,Car Following
+2079,2129,52,Car Following
+2080,2130,52,Car Following
+2081,2131,52,Car Following
+2082,2132,51,Car Following
+2083,2133,51,Car Following
+2084,2134,51,Car Following
+2085,2135,51,Car Following
+2086,2136,51,Car Following
+2087,2137,51,Car Following
+2088,2138,50,Car Following
+2089,2139,51,Car Following
+2090,2140,52,Car Following
+2091,2141,52,Car Following
+2092,2142,50,Car Following
+2093,2143,50,Car Following
+2094,2144,50,Car Following
+2095,2145,50,Car Following
+2096,2146,51,Car Following
+2097,2147,51,Car Following
+2098,2148,50,Car Following
+2099,2149,50,Car Following
+2100,2150,51,Car Following
+2101,2151,51,Car Following
+2102,2152,51,Car Following
+2103,2153,51,Car Following
+2104,2154,51,Car Following
+2105,2155,51,Car Following
+2106,2156,51,Car Following
+2107,2157,50,Car Following
+2108,2158,50,Car Following
+2109,2159,50,Car Following
+2110,2160,50,Car Following
+2111,2161,50,Car Following
+2112,2162,50,Car Following
+2113,2163,49,Car Following
+2114,2164,49,Car Following
+2115,2165,49,Car Following
+2116,2166,49,Car Following
+2117,2167,50,Car Following
+2118,2168,50,Car Following
+2119,2169,51,Car Following
+2120,2170,51,Car Following
+2121,2171,51,Car Following
+2122,2172,51,Car Following
+2123,2173,51,Car Following
+2124,2174,51,Car Following
+2125,2175,52,Car Following
+2126,2176,52,Car Following
+2127,2177,53,Car Following
+2128,2178,53,Car Following
+2129,2179,54,Car Following
+2130,2180,54,Car Following
+2131,2181,53,Car Following
+2132,2182,53,Car Following
+2133,2183,53,Car Following
+2134,2184,53,Car Following
+2135,2185,53,Car Following
+2136,2186,54,Car Following
+2137,2187,54,Car Following
+2138,2188,55,Car Following
+2139,2189,55,Car Following
+2140,2190,55,Car Following
+2141,2191,55,Car Following
+2142,2192,55,Car Following
+2143,2193,56,Car Following
+2144,2194,55,Car Following
+2145,2195,55,Car Following
+2146,2196,55,Car Following
+2147,2197,55,Car Following
+2148,2198,55,Car Following
+2149,2199,55,Car Following
+2150,2200,56,Car Following
+2151,2201,56,Car Following
+2152,2202,56,Car Following
+2153,2203,55,Car Following
+2154,2204,55,Car Following
+2155,2205,55,Car Following
+2156,2206,55,Car Following
+2157,2207,56,Car Following
+2158,2208,56,Car Following
+2159,2209,56,Car Following
+2160,2210,56,Car Following
+2161,2211,56,Car Following
+2162,2212,56,Car Following
+2163,2213,57,Car Following
+2164,2214,57,Car Following
+2165,2215,57,Car Following
+2166,2216,57,Car Following
+2167,2217,57,Car Following
+2168,2218,57,Car Following
+2169,2219,57,Car Following
+2170,2220,57,Car Following
+2171,2221,57,Car Following
+2172,2222,57,Car Following
+2173,2223,58,Car Following
+2174,2224,58,Car Following
+2175,2225,59,Car Following
+2176,2226,59,Car Following
+2177,2227,58,Car Following
+2178,2228,58,Car Following
+2179,2229,58,Car Following
+2180,2230,58,Car Following
+2181,2231,58,Car Following
+2182,2232,59,Car Following
+2183,2233,59,Car Following
+2184,2234,59,Car Following
+2185,2235,59,Car Following
+2186,2236,59,Car Following
+2187,2237,59,Car Following
+2188,2238,59,Car Following
+2189,2239,59,Car Following
+2190,2240,59,Car Following
+2191,2241,59,Car Following
+2192,2242,61,Car Following
+2193,2243,61,Car Following
+2194,2244,61,Car Following
+2195,2245,61,Car Following
+2196,2246,61,Car Following
+2197,2247,61,Car Following
+2198,2248,62,Car Following
+2199,2249,62,Car Following
+2200,2250,62,Car Following
+2201,2251,62,Car Following
+2202,2252,62,Car Following
+2203,2253,64,Car Following
+2204,2254,64,Car Following
+2205,2255,64,Car Following
+2206,2256,63,Car Following
+2207,2257,63,Car Following
+2208,2258,63,Car Following
+2209,2259,64,Car Following
+2210,2260,64,Car Following
+2211,2261,63,Car Following
+2212,2262,63,Car Following
+2213,2263,63,Car Following
+2214,2264,63,Car Following
+2215,2265,63,Car Following
+2216,2266,63,Car Following
+2217,2267,64,Car Following
+2218,2268,64,Car Following
+2219,2269,64,Car Following
+2220,2270,64,Car Following
+2221,2271,64,Car Following
+2222,2272,65,Car Following
+2223,2273,65,Car Following
+2224,2274,65,Car Following
+2225,2275,65,Car Following
+2226,2276,65,Car Following
+2227,2277,65,Car Following
+2228,2278,65,Car Following
+2229,2279,66,Car Following
+2230,2280,66,Car Following
+2231,2281,66,Car Following
+2232,2282,66,Car Following
+2233,2283,66,Car Following
+2234,2284,64,Car Following
+2235,2285,64,Car Following
+2236,2286,64,Car Following
+2237,2287,64,Car Following
+2238,2288,64,Car Following
+2239,2289,64,Car Following
+2240,2290,64,Car Following
+2241,2291,64,Car Following
+2242,2292,65,Car Following
+2243,2293,65,Car Following
+2244,2294,65,Car Following
+2245,2295,65,Car Following
+2246,2296,64,Car Following
+2247,2297,65,Car Following
+2248,2298,66,Car Following
+2249,2299,66,Car Following
+2250,2300,67,Car Following
+2251,2301,66,Car Following
+2252,2302,66,Car Following
+2253,2303,66,Car Following
+2254,2304,66,Car Following
+2255,2305,66,Car Following
+2256,2306,66,Car Following
+2257,2307,66,Car Following
+2258,2308,66,Car Following
+2259,2309,66,Car Following
+2260,2310,66,Car Following
+2261,2311,66,Car Following
+2262,2312,66,Car Following
+2263,2313,65,Car Following
+2264,2314,65,Car Following
+2265,2315,65,Car Following
+2266,2316,65,Car Following
+2267,2317,65,Car Following
+2268,2318,65,Car Following
+2269,2319,65,Car Following
+2270,2320,65,Car Following
+2271,2321,65,Car Following
+2272,2322,67,Car Following
+2273,2323,68,Car Following
+2274,2324,68,Car Following
+2275,2325,69,Car Following
+2276,2326,70,Car Following
+2277,2327,70,Car Following
+2278,2328,70,Car Following
+2279,2329,70,Car Following
+2280,2330,69,Car Following
+2281,2331,69,Car Following
+2282,2332,68,Car Following
+2283,2333,68,Car Following
+2284,2334,68,Car Following
+2285,2335,68,Car Following
+2286,2336,68,Car Following
+2287,2337,68,Car Following
+2288,2338,68,Car Following
+2289,2339,68,Car Following
+2290,2340,67,Car Following
+2291,2341,67,Car Following
+2292,2342,67,Car Following
+2293,2343,67,Car Following
+2294,2344,67,Car Following
+2295,2345,67,Car Following
+2296,2346,67,Car Following
+2297,2347,67,Car Following
+2298,2348,67,Car Following
+2299,2349,66,Car Following
+2300,2350,65,Car Following
+2301,2351,65,Car Following
+2302,2352,66,Car Following
+2303,2353,66,Car Following
+2304,2354,66,Car Following
+2305,2355,66,Car Following
+2306,2356,66,Car Following
+2307,2357,66,Car Following
+2308,2358,65,Car Following
+2309,2359,65,Car Following
+2310,2360,65,Car Following
+2311,2361,65,Car Following
+2312,2362,66,Car Following
+2313,2363,67,Car Following
+2314,2364,67,Car Following
+2315,2365,67,Car Following
+2316,2366,67,Car Following
+2317,2367,68,Car Following
+2318,2368,68,Car Following
+2319,2369,68,Car Following
+2320,2370,68,Car Following
+2321,2371,68,Car Following
+2322,2372,68,Car Following
+2323,2373,68,Car Following
+2324,2374,67,Car Following
+2325,2375,67,Car Following
+2326,2376,67,Car Following
+2327,2377,66,Car Following
+2328,2378,66,Car Following
+2329,2379,66,Car Following
+2330,2380,66,Car Following
+2331,2381,65,Car Following
+2332,2382,65,Car Following
+2333,2383,65,Car Following
+2334,2384,65,Car Following
+2335,2385,65,Car Following
+2336,2386,65,Car Following
+2337,2387,65,Car Following
+2338,2388,65,Car Following
+2339,2389,65,Car Following
+2340,2390,64,Car Following
+2341,2391,64,Car Following
+2342,2392,63,Car Following
+2343,2393,63,Car Following
+2344,2394,63,Car Following
+2345,2395,64,Car Following
+2346,2396,64,Car Following
+2347,2397,64,Car Following
+2348,2398,64,Car Following
+2349,2399,64,Car Following
+2350,2400,64,Car Following
+2351,2401,64,Car Following
+2352,2402,64,Car Following
+2353,2403,64,Car Following
+2354,2404,64,Car Following
+2355,2405,65,Car Following
+2356,2406,65,Car Following
+2357,2407,66,Car Following
+2358,2408,66,Car Following
+2359,2409,66,Car Following
+2360,2410,65,Car Following
+2361,2411,65,Car Following
+2362,2412,65,Car Following
+2363,2413,65,Car Following
+2364,2414,65,Car Following
+2365,2415,65,Car Following
+2366,2416,66,Car Following
+2367,2417,66,Car Following
+2368,2418,66,Car Following
+2369,2419,65,Car Following
+2370,2420,65,Car Following
+2371,2421,65,Car Following
+2372,2422,65,Car Following
+2373,2423,65,Car Following
+2374,2424,65,Car Following
+2375,2425,65,Car Following
+2376,2426,65,Car Following
+2377,2427,65,Car Following
+2378,2428,65,Car Following
+2379,2429,65,Car Following
+2380,2430,66,Car Following
+2381,2431,64,Car Following
+2382,2432,64,Car Following
+2383,2433,64,Car Following
+2384,2434,64,Car Following
+2385,2435,64,Car Following
+2386,2436,64,Car Following
+2387,2437,64,Car Following
+2388,2438,64,Car Following
+2389,2439,64,Car Following
+2390,2440,64,Car Following
+2391,2441,64,Car Following
+2392,2442,64,Car Following
+2393,2443,63,Car Following
+2394,2444,63,Car Following
+2395,2445,63,Car Following
+2396,2446,63,Car Following
+2397,2447,62,Car Following
+2398,2448,62,Car Following
+2399,2449,62,Car Following
+2400,2450,62,Car Following
+2401,2451,62,Car Following
+2402,2452,62,Car Following
+2403,2453,62,Car Following
+2404,2454,61,Car Following
+2405,2455,60,Car Following
+2406,2456,60,Car Following
+2407,2457,61,Car Following
+2408,2458,61,Car Following
+2409,2459,60,Car Following
+2410,2460,60,Car Following
+2411,2461,59,Car Following
+2412,2462,59,Car Following
+2413,2463,60,Car Following
+2414,2464,60,Car Following
+2415,2465,60,Car Following
+2416,2466,60,Car Following
+2417,2467,60,Car Following
+2418,2468,59,Car Following
+2419,2469,59,Car Following
+2420,2470,59,Car Following
+2421,2471,59,Car Following
+2422,2472,59,Car Following
+2423,2473,59,Car Following
+2424,2474,59,Car Following
+2425,2475,58,Car Following
+2426,2476,58,Car Following
+2427,2477,57,Car Following
+2428,2478,57,Car Following
+2429,2479,57,Car Following
+2430,2480,58,Car Following
+2431,2481,58,Car Following
+2432,2482,58,Car Following
+2433,2483,58,Car Following
+2434,2484,58,Car Following
+2435,2485,58,Car Following
+2436,2486,58,Car Following
+2437,2487,58,Car Following
+2438,2488,58,Car Following
+2439,2489,58,Car Following
+2440,2490,58,Car Following
+2441,2491,59,Car Following
+2442,2492,59,Car Following
+2443,2493,58,Car Following
+2444,2494,57,Car Following
+2445,2495,57,Car Following
+2446,2496,57,Car Following
+2447,2497,57,Car Following
+2448,2498,57,Car Following
+2449,2499,57,Cut-In
+2450,2500,57,Cut-In
+2451,2501,57,Cut-In
+2452,2502,57,Cut-In
+2453,2503,57,Cut-In
+2454,2504,57,Cut-In
+2455,2505,56,Cut-In
+2456,2506,56,Cut-In
+2457,2507,55,Cut-In
+2458,2508,55,Cut-In
+2459,2509,55,Cut-In
+2460,2510,55,Cut-In
+2461,2511,55,Cut-In
+2462,2512,55,Cut-In
+2463,2513,55,Cut-In
+2464,2514,54,Cut-In
+2465,2515,56,Cut-In
+2466,2516,56,Cut-In
+2467,2517,55,Cut-In
+2468,2518,55,Cut-In
+2469,2519,55,Cut-In
+2470,2520,55,Cut-In
+2471,2521,55,Cut-In
+2472,2522,56,Cut-In
+2473,2523,56,Cut-In
+2474,2524,56,Cut-In
+2475,2525,57,Cut-In
+2476,2526,57,Cut-In
+2477,2527,57,Cut-In
+2478,2528,57,Cut-In
+2479,2529,56,Cut-In
+2480,2530,56,Cut-In
+2481,2531,56,Cut-In
+2482,2532,54,Cut-In
+2483,2533,54,Cut-In
+2484,2534,53,Cut-In
+2485,2535,53,Cut-In
+2486,2536,54,Cut-In
+2487,2537,54,Cut-In
+2488,2538,54,Cut-In
+2489,2539,54,Cut-In
+2490,2540,54,Cut-In
+2491,2541,54,Cut-In
+2492,2542,54,Cut-In
+2493,2543,54,Cut-In
+2494,2544,54,Cut-In
+2495,2545,54,Cut-In
+2496,2546,54,Cut-In
+2497,2547,54,Cut-In
+2498,2548,54,Cut-In
+2499,2549,54,Cut-In
+2500,2550,53,Cut-In
+2501,2551,52,Cut-In
+2502,2552,52,Cut-In
+2503,2553,53,Cut-In
+2504,2554,51,Cut-In
+2505,2555,51,Cut-In
+2506,2556,51,Cut-In
+2507,2557,52,Cut-In
+2508,2558,52,Cut-In
+2509,2559,52,Cut-In
+2510,2560,52,Cut-In
+2511,2561,52,Cut-In
+2512,2562,52,Cut-In
+2513,2563,52,Cut-In
+2514,2564,52,Cut-In
+2515,2565,52,Cut-In
+2516,2566,52,Cut-In
+2517,2567,51,Cut-In
+2518,2568,51,Cut-In
+2519,2569,51,Cut-In
+2520,2570,51,Cut-In
+2521,2571,52,Cut-In
+2522,2572,52,Cut-In
+2523,2573,51,Cut-In
+2524,2574,50,Cut-In
+2525,2575,50,Cut-In
+2526,2576,50,Cut-In
+2527,2577,49,Cut-In
+2528,2578,49,Cut-In
+2529,2579,49,Cut-In
+2530,2580,49,Cut-In
+2531,2581,49,Cut-In
+2532,2582,49,Cut-In
+2533,2583,50,Cut-In
+2534,2584,50,Cut-In
+2535,2585,50,Cut-In
+2536,2586,50,Cut-In
+2537,2587,50,Cut-In
+2538,2588,50,Cut-In
+2539,2589,49,Cut-In
+2540,2590,50,Cut-In
+2541,2591,49,Cut-In
+2542,2592,49,Cut-In
+2543,2593,49,Cut-In
+2544,2594,49,Cut-In
+2545,2595,49,Cut-In
+2546,2596,49,Cut-In
+2547,2597,49,Cut-In
+2548,2598,49,Cut-In
+2549,2599,50,Cut-In
+2550,2600,50,Cut-In
+2551,2601,50,Cut-In
+2552,2602,49,Cut-In
+2553,2603,49,Cut-In
+2554,2604,49,Cut-In
+2555,2605,49,Cut-In
+2556,2606,49,Cut-In
+2557,2607,48,Cut-In
+2558,2608,48,Cut-In
+2559,2609,48,Cut-In
+2560,2610,48,Cut-In
+2561,2611,48,Cut-In
+2562,2612,49,Cut-In
+2563,2613,49,Cut-In
+2564,2614,50,Cut-In
+2565,2615,51,Cut-In
+2566,2616,51,Cut-In
+2567,2617,51,Cut-In
+2568,2618,50,Cut-In
+2569,2619,50,Cut-In
+2570,2620,50,Cut-In
+2571,2621,50,Cut-In
+2572,2622,49,Cut-In
+2573,2623,49,Cut-In
+2574,2624,49,Cut-In
+2575,2625,49,Cut-In
+2576,2626,49,Cut-In
+2577,2627,49,Cut-In
+2578,2628,49,Cut-In
+2579,2629,49,Cut-In
+2580,2630,50,Cut-In
+2581,2631,50,Cut-In
+2582,2632,49,Cut-In
+2583,2633,50,Cut-In
+2584,2634,50,Cut-In
+2585,2635,49,Cut-In
+2586,2636,49,Cut-In
+2587,2637,49,Cut-In
+2588,2638,49,Cut-In
+2589,2639,48,Cut-In
+2590,2640,49,Cut-In
+2591,2641,49,Cut-In
+2592,2642,49,Cut-In
+2593,2643,49,Cut-In
+2594,2644,49,Cut-In
+2595,2645,49,Cut-In
+2596,2646,49,Cut-In
+2597,2647,48,Cut-In
+2598,2648,48,Cut-In
+2599,2649,47,Cut-In
+2600,2650,47,Cut-In
+2601,2651,47,Cut-In
+2602,2652,46,Car Following
+2603,2653,46,Car Following
+2604,2654,46,Car Following
+2605,2655,46,Car Following
+2606,2656,46,Car Following
+2607,2657,47,Car Following
+2608,2658,47,Car Following
+2609,2659,48,Car Following
+2610,2660,49,Car Following
+2611,2661,50,Car Following
+2612,2662,50,Car Following
+2613,2663,50,Car Following
+2614,2664,49,Car Following
+2615,2665,48,Car Following
+2616,2666,49,Car Following
+2617,2667,49,Car Following
+2618,2668,49,Car Following
+2619,2669,49,Car Following
+2620,2670,49,Car Following
+2621,2671,48,Car Following
+2622,2672,48,Car Following
+2623,2673,48,Car Following
+2624,2674,48,Car Following
+2625,2675,49,Car Following
+2626,2676,49,Car Following
+2627,2677,48,Car Following
+2628,2678,48,Car Following
+2629,2679,49,Car Following
+2630,2680,49,Car Following
+2631,2681,49,Car Following
+2632,2682,48,Car Following
+2633,2683,50,Car Following
+2634,2684,51,Car Following
+2635,2685,51,Car Following
+2636,2686,51,Car Following
+2637,2687,51,Car Following
+2638,2688,51,Car Following
+2639,2689,52,Car Following
+2640,2690,53,Car Following
+2641,2691,53,Car Following
+2642,2692,53,Car Following
+2643,2693,53,Car Following
+2644,2694,53,Car Following
+2645,2695,53,Car Following
+2646,2696,53,Car Following
+2647,2697,52,Car Following
+2648,2698,52,Car Following
+2649,2699,52,Car Following
+2650,2700,52,Car Following
+2651,2701,52,Car Following
+2652,2702,53,Car Following
+2653,2703,54,Car Following
+2654,2704,54,Car Following
+2655,2705,53,Car Following
+2656,2706,53,Car Following
+2657,2707,53,Car Following
+2658,2708,53,Car Following
+2659,2709,53,Car Following
+2660,2710,54,Car Following
+2661,2711,54,Car Following
+2662,2712,54,Car Following
+2663,2713,54,Car Following
+2664,2714,54,Car Following
+2665,2715,54,Car Following
+2666,2716,54,Car Following
+2667,2717,53,Car Following
+2668,2718,52,Car Following
+2669,2719,51,Car Following
+2670,2720,52,Car Following
+2671,2721,52,Car Following
+2672,2722,52,Car Following
+2673,2723,52,Car Following
+2674,2724,52,Car Following
+2675,2725,52,Car Following
+2676,2726,52,Car Following
+2677,2727,51,Car Following
+2678,2728,50,Car Following
+2679,2729,52,Car Following
+2680,2730,51,Car Following
+2681,2731,52,Car Following
+2682,2732,52,Car Following
+2683,2733,52,Car Following
+2684,2734,52,Car Following
+2685,2735,52,Car Following
+2686,2736,52,Car Following
+2687,2737,52,Car Following
+2688,2738,52,Car Following
+2689,2739,53,Car Following
+2690,2740,53,Car Following
+2691,2741,53,Car Following
+2692,2742,52,Car Following
+2693,2743,52,Car Following
+2694,2744,51,Car Following
+2695,2745,51,Car Following
+2696,2746,51,Car Following
+2697,2747,51,Car Following
+2698,2748,52,Car Following
+2699,2749,52,Car Following
+2700,2750,53,Car Following
+2701,2751,52,Car Following
+2702,2752,52,Car Following
+2703,2753,52,Car Following
+2704,2754,53,Car Following
+2705,2755,53,Car Following
+2706,2756,53,Car Following
+2707,2757,53,Car Following
+2708,2758,52,Car Following
+2709,2759,51,Car Following
+2710,2760,51,Car Following
+2711,2761,49,Car Following
+2712,2762,49,Car Following
+2713,2763,50,Car Following
+2714,2764,51,Car Following
+2715,2765,51,Car Following
+2716,2766,51,Car Following
+2717,2767,51,Car Following
+2718,2768,51,Car Following
+2719,2769,50,Car Following
+2720,2770,50,Car Following
+2721,2771,51,Car Following
+2722,2772,51,Car Following
+2723,2773,53,Car Following
+2724,2774,53,Car Following
+2725,2775,53,Car Following
+2726,2776,53,Car Following
+2727,2777,53,Car Following
+2728,2778,53,Car Following
+2729,2779,52,Car Following
+2730,2780,52,Car Following
+2731,2781,52,Car Following
+2732,2782,53,Car Following
+2733,2783,53,Car Following
+2734,2784,53,Car Following
+2735,2785,52,Car Following
+2736,2786,52,Car Following
+2737,2787,52,Car Following
+2738,2788,51,Car Following
+2739,2789,52,Car Following
+2740,2790,53,Car Following
+2741,2791,52,Car Following
+2742,2792,52,Car Following
+2743,2793,51,Car Following
+2744,2794,52,Car Following
+2745,2795,52,Car Following
+2746,2796,51,Car Following
+2747,2797,51,Car Following
+2748,2798,51,Car Following
+2749,2799,51,Car Following
+2750,2800,51,Car Following
+2751,2801,51,Car Following
+2752,2802,52,Car Following
+2753,2803,52,Car Following
+2754,2804,52,Car Following
+2755,2805,51,Car Following
+2756,2806,51,Car Following
+2757,2807,50,Car Following
+2758,2808,51,Car Following
+2759,2809,51,Car Following
+2760,2810,51,Car Following
+2761,2811,51,Car Following
+2762,2812,51,Car Following
+2763,2813,51,Car Following
+2764,2814,51,Car Following
+2765,2815,51,Car Following
+2766,2816,52,Car Following
+2767,2817,53,Car Following
+2768,2818,53,Car Following
+2769,2819,53,Car Following
+2770,2820,53,Car Following
+2771,2821,53,Car Following
+2772,2822,54,Car Following
+2773,2823,53,Car Following
+2774,2824,53,Car Following
+2775,2825,52,Car Following
+2776,2826,52,Car Following
+2777,2827,51,Car Following
+2778,2828,50,Car Following
+2779,2829,50,Car Following
+2780,2830,50,Car Following
+2781,2831,50,Car Following
+2782,2832,51,Car Following
+2783,2833,51,Car Following
+2784,2834,51,Car Following
+2785,2835,51,Car Following
+2786,2836,51,Car Following
+2787,2837,51,Car Following
+2788,2838,51,Car Following
+2789,2839,52,Car Following
+2790,2840,52,Car Following
+2791,2841,53,Car Following
+2792,2842,51,Car Following
+2793,2843,51,Car Following
+2794,2844,51,Car Following
+2795,2845,51,Car Following
+2796,2846,51,Car Following
+2797,2847,52,Car Following
+2798,2848,52,Car Following
+2799,2849,53,Car Following
+2800,2850,54,Car Following
+2801,2851,54,Car Following
+2802,2852,54,Car Following
+2803,2853,54,Car Following
+2804,2854,53,Car Following
+2805,2855,55,Cut-In
+2806,2856,55,Cut-In
+2807,2857,54,Cut-In
+2808,2858,54,Cut-In
+2809,2859,53,Cut-In
+2810,2860,53,Cut-In
+2811,2861,52,Cut-In
+2812,2862,52,Cut-In
+2813,2863,52,Cut-In
+2814,2864,53,Cut-In
+2815,2865,53,Cut-In
+2816,2866,53,Cut-In
+2817,2867,53,Cut-In
+2818,2868,53,Cut-In
+2819,2869,53,Cut-In
+2820,2870,53,Cut-In
+2821,2871,53,Cut-In
+2822,2872,52,Cut-In
+2823,2873,52,Cut-In
+2824,2874,52,Cut-In
+2825,2875,52,Cut-In
+2826,2876,52,Cut-In
+2827,2877,53,Cut-In
+2828,2878,54,Cut-In
+2829,2879,55,Cut-In
+2830,2880,54,Cut-In
+2831,2881,54,Cut-In
+2832,2882,53,Cut-In
+2833,2883,52,Cut-In
+2834,2884,52,Cut-In
+2835,2885,52,Cut-In
+2836,2886,53,Cut-In
+2837,2887,53,Cut-In
+2838,2888,52,Cut-In
+2839,2889,52,Cut-In
+2840,2890,52,Cut-In
+2841,2891,52,Cut-In
+2842,2892,53,Cut-In
+2843,2893,52,Cut-In
+2844,2894,52,Cut-In
+2845,2895,53,Cut-In
+2846,2896,53,Cut-In
+2847,2897,53,Cut-In
+2848,2898,53,Cut-In
+2849,2899,53,Cut-In
+2850,2900,52,Cut-In
+2851,2901,52,Cut-In
+2852,2902,52,Cut-In
+2853,2903,52,Cut-In
+2854,2904,53,Cut-In
+2855,2905,52,Car Following
+2856,2906,52,Car Following
+2857,2907,52,Car Following
+2858,2908,53,Car Following
+2859,2909,53,Car Following
+2860,2910,53,Car Following
+2861,2911,52,Car Following
+2862,2912,53,Car Following
+2863,2913,53,Car Following
+2864,2914,53,Car Following
+2865,2915,52,Car Following
+2866,2916,52,Car Following
+2867,2917,52,Car Following
+2868,2918,52,Car Following
+2869,2919,52,Car Following
+2870,2920,52,Car Following
+2871,2921,53,Car Following
+2872,2922,51,Car Following
+2873,2923,51,Car Following
+2874,2924,50,Car Following
+2875,2925,50,Car Following
+2876,2926,50,Car Following
+2877,2927,50,Car Following
+2878,2928,50,Car Following
+2879,2929,51,Car Following
+2880,2930,51,Car Following
+2881,2931,50,Car Following
+2882,2932,51,Car Following
+2883,2933,51,Car Following
+2884,2934,51,Car Following
+2885,2935,51,Car Following
+2886,2936,51,Car Following
+2887,2937,51,Car Following
+2888,2938,51,Car Following
+2889,2939,52,Car Following
+2890,2940,52,Car Following
+2891,2941,52,Car Following
+2892,2942,52,Car Following
+2893,2943,53,Car Following
+2894,2944,54,Car Following
+2895,2945,54,Car Following
+2896,2946,55,Car Following
+2897,2947,55,Car Following
+2898,2948,54,Car Following
+2899,2949,54,Car Following
+2900,2950,52,Car Following
+2901,2951,52,Car Following
+2902,2952,52,Car Following
+2903,2953,52,Car Following
+2904,2954,52,Car Following
+2905,2955,52,Car Following
+2906,2956,52,Car Following
+2907,2957,52,Car Following
+2908,2958,53,Car Following
+2909,2959,55,Car Following
+2910,2960,55,Car Following
+2911,2961,55,Car Following
+2912,2962,55,Car Following
+2913,2963,55,Car Following
+2914,2964,54,Car Following
+2915,2965,54,Car Following
+2916,2966,53,Car Following
+2917,2967,53,Car Following
+2918,2968,52,Car Following
+2919,2969,53,Car Following
+2920,2970,53,Car Following
+2921,2971,53,Car Following
+2922,2972,52,Car Following
+2923,2973,51,Car Following
+2924,2974,52,Car Following
+2925,2975,52,Car Following
+2926,2976,52,Car Following
+2927,2977,52,Car Following
+2928,2978,52,Car Following
+2929,2979,52,Car Following
+2930,2980,53,Car Following
+2931,2981,53,Car Following
+2932,2982,53,Car Following
+2933,2983,53,Car Following
+2934,2984,53,Car Following
+2935,2985,54,Car Following
+2936,2986,54,Car Following
+2937,2987,54,Car Following
+2938,2988,55,Car Following
+2939,2989,55,Car Following
+2940,2990,54,Car Following
+2941,2991,54,Car Following
+2942,2992,54,Car Following
+2943,2993,54,Car Following
+2944,2994,54,Car Following
+2945,2995,53,Car Following
+2946,2996,53,Car Following
+2947,2997,52,Car Following
+2948,2998,53,Car Following
+2949,2999,54,Car Following
+2950,3000,54,Car Following
+2951,3001,54,Car Following
+2952,3002,55,Car Following
+2953,3003,55,Car Following
+2954,3004,55,Car Following
+2955,3005,55,Car Following
+2956,3006,55,Car Following
+2957,3007,55,Car Following
+2958,3008,56,Car Following
+2959,3009,56,Car Following
+2960,3010,55,Car Following
+2961,3011,55,Car Following
+2962,3012,55,Car Following
+2963,3013,55,Car Following
+2964,3014,55,Car Following
+2965,3015,55,Car Following
+2966,3016,55,Car Following
+2967,3017,55,Car Following
+2968,3018,54,Car Following
+2969,3019,54,Car Following
+2970,3020,54,Car Following
+2971,3021,54,Car Following
+2972,3022,54,Car Following
+2973,3023,53,Car Following
+2974,3024,53,Car Following
+2975,3025,53,Car Following
+2976,3026,53,Car Following
+2977,3027,53,Car Following
+2978,3028,54,Car Following
+2979,3029,55,Car Following
+2980,3030,55,Cut-In
+2981,3031,55,Cut-In
+2982,3032,55,Cut-In
+2983,3033,55,Cut-In
+2984,3034,55,Cut-In
+2985,3035,54,Cut-In
+2986,3036,54,Cut-In
+2987,3037,53,Cut-In
+2988,3038,53,Cut-In
+2989,3039,53,Cut-In
+2990,3040,52,Cut-In
+2991,3041,53,Cut-In
+2992,3042,53,Cut-In
+2993,3043,53,Cut-In
+2994,3044,53,Cut-In
+2995,3045,53,Cut-In
+2996,3046,54,Cut-In
+2997,3047,54,Cut-In
+2998,3048,55,Cut-In
+2999,3049,55,Cut-In
+3000,3050,56,Cut-In
+3001,3051,58,Cut-In
+3002,3052,58,Cut-In
+3003,3053,58,Cut-In
+3004,3054,57,Cut-In
+3005,3055,57,Cut-In
+3006,3056,56,Cut-In
+3007,3057,56,Cut-In
+3008,3058,56,Cut-In
+3009,3059,55,Cut-In
+3010,3060,55,Cut-In
+3011,3061,56,Cut-In
+3012,3062,55,Cut-In
+3013,3063,55,Cut-In
+3014,3064,55,Cut-In
+3015,3065,56,Cut-In
+3016,3066,56,Cut-In
+3017,3067,56,Cut-In
+3018,3068,56,Cut-In
+3019,3069,57,Cut-In
+3020,3070,57,Cut-In
+3021,3071,57,Cut-In
+3022,3072,57,Cut-In
+3023,3073,57,Cut-In
+3024,3074,57,Cut-In
+3025,3075,56,Cut-In
+3026,3076,56,Cut-In
+3027,3077,56,Cut-In
+3028,3078,56,Cut-In
+3029,3079,57,Cut-In
+3030,3080,56,Car Following
+3031,3081,56,Car Following
+3032,3082,56,Car Following
+3033,3083,56,Car Following
+3034,3084,55,Car Following
+3035,3085,55,Cut-In
+3036,3086,55,Cut-In
+3037,3087,55,Cut-In
+3038,3088,55,Cut-In
+3039,3089,55,Cut-In
+3040,3090,55,Cut-In
+3041,3091,54,Cut-In
+3042,3092,55,Cut-In
+3043,3093,54,Cut-In
+3044,3094,53,Cut-In
+3045,3095,52,Cut-In
+3046,3096,52,Cut-In
+3047,3097,53,Cut-In
+3048,3098,53,Cut-In
+3049,3099,53,Cut-In
+3050,3100,53,Cut-In
+3051,3101,53,Cut-In
+3052,3102,53,Cut-In
+3053,3103,53,Cut-In
+3054,3104,53,Cut-In
+3055,3105,53,Cut-In
+3056,3106,53,Cut-In
+3057,3107,53,Cut-In
+3058,3108,54,Cut-In
+3059,3109,54,Cut-In
+3060,3110,53,Cut-In
+3061,3111,53,Cut-In
+3062,3112,53,Cut-In
+3063,3113,52,Cut-In
+3064,3114,51,Cut-In
+3065,3115,51,Cut-In
+3066,3116,51,Cut-In
+3067,3117,51,Cut-In
+3068,3118,51,Cut-In
+3069,3119,52,Cut-In
+3070,3120,52,Cut-In
+3071,3121,52,Cut-In
+3072,3122,52,Cut-In
+3073,3123,53,Cut-In
+3074,3124,53,Cut-In
+3075,3125,52,Cut-In
+3076,3126,52,Cut-In
+3077,3127,52,Cut-In
+3078,3128,52,Cut-In
+3079,3129,52,Cut-In
+3080,3130,52,Cut-In
+3081,3131,51,Cut-In
+3082,3132,52,Cut-In
+3083,3133,52,Cut-In
+3084,3134,51,Cut-In
+3085,3135,51,Cut-In
+3086,3136,51,Cut-In
+3087,3137,52,Cut-In
+3088,3138,52,Cut-In
+3089,3139,52,Cut-In
+3090,3140,52,Cut-In
+3091,3141,52,Cut-In
+3092,3142,52,Cut-In
+3093,3143,52,Cut-In
+3094,3144,52,Cut-In
+3095,3145,52,Cut-In
+3096,3146,53,Cut-In
+3097,3147,51,Cut-In
+3098,3148,51,Cut-In
+3099,3149,49,Cut-In
+3100,3150,49,Cut-In
+3101,3151,49,Cut-In
+3102,3152,50,Cut-In
+3103,3153,50,Cut-In
+3104,3154,50,Cut-In
+3105,3155,50,Cut-In
+3106,3156,50,Cut-In
+3107,3157,51,Cut-In
+3108,3158,51,Cut-In
+3109,3159,51,Cut-In
+3110,3160,51,Cut-In
+3111,3161,51,Cut-In
+3112,3162,52,Cut-In
+3113,3163,52,Cut-In
+3114,3164,51,Cut-In
+3115,3165,50,Cut-In
+3116,3166,48,Cut-In
+3117,3167,48,Cut-In
+3118,3168,48,Cut-In
+3119,3169,50,Cut-In
+3120,3170,50,Cut-In
+3121,3171,50,Cut-In
+3122,3172,50,Cut-In
+3123,3173,50,Cut-In
+3124,3174,50,Cut-In
+3125,3175,51,Cut-In
+3126,3176,51,Cut-In
+3127,3177,51,Cut-In
+3128,3178,51,Cut-In
+3129,3179,51,Cut-In
+3130,3180,52,Cut-In
+3131,3181,52,Cut-In
+3132,3182,51,Car Following
+3133,3183,52,Car Following
+3134,3184,52,Car Following
+3135,3185,51,Car Following
+3136,3186,50,Car Following
+3137,3187,50,Car Following
+3138,3188,51,Car Following
+3139,3189,52,Car Following
+3140,3190,52,Car Following
+3141,3191,51,Car Following
+3142,3192,50,Car Following
+3143,3193,50,Car Following
+3144,3194,51,Car Following
+3145,3195,51,Car Following
+3146,3196,50,Car Following
+3147,3197,50,Car Following
+3148,3198,50,Car Following
+3149,3199,50,Car Following
+3150,3200,50,Car Following
+3151,3201,50,Car Following
+3152,3202,49,Car Following
+3153,3203,49,Car Following
+3154,3204,50,Car Following
+3155,3205,51,Car Following
+3156,3206,50,Car Following
+3157,3207,50,Car Following
+3158,3208,51,Car Following
+3159,3209,50,Car Following
+3160,3210,49,Car Following
+3161,3211,49,Car Following
+3162,3212,49,Car Following
+3163,3213,49,Car Following
+3164,3214,49,Car Following
+3165,3215,49,Car Following
+3166,3216,49,Car Following
+3167,3217,49,Car Following
+3168,3218,49,Cut-In
+3169,3219,49,Cut-In
+3170,3220,49,Cut-In
+3171,3221,48,Cut-In
+3172,3222,48,Cut-In
+3173,3223,48,Cut-In
+3174,3224,49,Cut-In
+3175,3225,49,Cut-In
+3176,3226,49,Cut-In
+3177,3227,49,Cut-In
+3178,3228,49,Cut-In
+3179,3229,49,Cut-In
+3180,3230,49,Cut-In
+3181,3231,50,Cut-In
+3182,3232,49,Cut-In
+3183,3233,49,Cut-In
+3184,3234,50,Cut-In
+3185,3235,50,Cut-In
+3186,3236,49,Cut-In
+3187,3237,49,Cut-In
+3188,3238,49,Cut-In
+3189,3239,49,Cut-In
+3190,3240,48,Cut-In
+3191,3241,48,Cut-In
+3192,3242,48,Cut-In
+3193,3243,48,Cut-In
+3194,3244,47,Cut-In
+3195,3245,47,Cut-In
+3196,3246,48,Cut-In
+3197,3247,48,Cut-In
+3198,3248,48,Cut-In
+3199,3249,48,Cut-In
+3200,3250,48,Cut-In
+3201,3251,49,Cut-In
+3202,3252,48,Cut-In
+3203,3253,47,Cut-In
+3204,3254,47,Cut-In
+3205,3255,46,Cut-In
+3206,3256,46,Cut-In
+3207,3257,47,Cut-In
+3208,3258,47,Cut-In
+3209,3259,48,Cut-In
+3210,3260,48,Cut-In
+3211,3261,48,Cut-In
+3212,3262,49,Cut-In
+3213,3263,49,Cut-In
+3214,3264,48,Cut-In
+3215,3265,48,Cut-In
+3216,3266,48,Cut-In
+3217,3267,48,Cut-In
+3218,3268,48,Cut-In
+3219,3269,48,Cut-In
+3220,3270,49,Cut-In
+3221,3271,49,Cut-In
+3222,3272,49,Cut-In
+3223,3273,50,Cut-In
+3224,3274,50,Cut-In
+3225,3275,50,Cut-In
+3226,3276,49,Cut-In
+3227,3277,49,Cut-In
+3228,3278,48,Cut-In
+3229,3279,48,Cut-In
+3230,3280,47,Cut-In
+3231,3281,47,Cut-In
+3232,3282,47,Cut-In
+3233,3283,48,Cut-In
+3234,3284,48,Cut-In
+3235,3285,48,Cut-In
+3236,3286,49,Cut-In
+3237,3287,49,Cut-In
+3238,3288,48,Cut-In
+3239,3289,48,Cut-In
+3240,3290,48,Cut-In
+3241,3291,47,Cut-In
+3242,3292,46,Cut-In
+3243,3293,45,Cut-In
+3244,3294,45,Cut-In
+3245,3295,45,Cut-In
+3246,3296,46,Cut-In
+3247,3297,46,Cut-In
+3248,3298,46,Cut-In
+3249,3299,46,Cut-In
+3250,3300,46,Cut-In
+3251,3301,46,Cut-In
+3252,3302,47,Cut-In
+3253,3303,47,Cut-In
+3254,3304,47,Cut-In
+3255,3305,47,Cut-In
+3256,3306,47,Cut-In
+3257,3307,47,Cut-In
+3258,3308,47,Cut-In
+3259,3309,46,Cut-In
+3260,3310,47,Cut-In
+3261,3311,45,Car Following
+3262,3312,45,Car Following
+3263,3313,46,Car Following
+3264,3314,46,Car Following
+3265,3315,46,Car Following
+3266,3316,46,Car Following
+3267,3317,46,Car Following
+3268,3318,45,Car Following
+3269,3319,45,Car Following
+3270,3320,45,Car Following
+3271,3321,45,Car Following
+3272,3322,45,Cut-In
+3273,3323,46,Cut-In
+3274,3324,46,Cut-In
+3275,3325,46,Cut-In
+3276,3326,46,Cut-In
+3277,3327,46,Cut-In
+3278,3328,46,Cut-In
+3279,3329,45,Cut-In
+3280,3330,45,Cut-In
+3281,3331,44,Cut-In
+3282,3332,45,Cut-In
+3283,3333,45,Cut-In
+3284,3334,44,Cut-In
+3285,3335,44,Cut-In
+3286,3336,44,Cut-In
+3287,3337,44,Cut-In
+3288,3338,43,Cut-In
+3289,3339,44,Cut-In
+3290,3340,44,Cut-In
+3291,3341,45,Cut-In
+3292,3342,45,Cut-In
+3293,3343,44,Cut-In
+3294,3344,44,Cut-In
+3295,3345,45,Cut-In
+3296,3346,45,Cut-In
+3297,3347,46,Cut-In
+3298,3348,46,Cut-In
+3299,3349,46,Cut-In
+3300,3350,46,Cut-In
+3301,3351,46,Cut-In
+3302,3352,46,Cut-In
+3303,3353,46,Cut-In
+3304,3354,47,Cut-In
+3305,3355,46,Cut-In
+3306,3356,45,Cut-In
+3307,3357,44,Cut-In
+3308,3358,44,Cut-In
+3309,3359,44,Cut-In
+3310,3360,44,Cut-In
+3311,3361,44,Cut-In
+3312,3362,45,Cut-In
+3313,3363,46,Cut-In
+3314,3364,46,Cut-In
+3315,3365,46,Cut-In
+3316,3366,44,Cut-In
+3317,3367,45,Cut-In
+3318,3368,45,Cut-In
+3319,3369,45,Cut-In
+3320,3370,45,Cut-In
+3321,3371,47,Cut-In
+3322,3372,47,Car Following
+3323,3373,46,Car Following
+3324,3374,47,Car Following
+3325,3375,47,Car Following
+3326,3376,47,Car Following
+3327,3377,47,Car Following
+3328,3378,47,Car Following
+3329,3379,47,Car Following
+3330,3380,47,Car Following
+3331,3381,47,Car Following
+3332,3382,47,Car Following
+3333,3383,47,Car Following
+3334,3384,46,Car Following
+3335,3385,46,Car Following
+3336,3386,47,Car Following
+3337,3387,47,Car Following
+3338,3388,47,Car Following
+3339,3389,48,Car Following
+3340,3390,48,Car Following
+3341,3391,49,Car Following
+3342,3392,48,Car Following
+3343,3393,48,Car Following
+3344,3394,48,Car Following
+3345,3395,47,Car Following
+3346,3396,47,Car Following
+3347,3397,46,Car Following
+3348,3398,46,Car Following
+3349,3399,46,Car Following
+3350,3400,45,Car Following
+3351,3401,46,Car Following
+3352,3402,47,Car Following
+3353,3403,47,Car Following
+3354,3404,47,Car Following
+3355,3405,47,Car Following
+3356,3406,47,Car Following
+3357,3407,47,Car Following
+3358,3408,48,Car Following
+3359,3409,47,Car Following
+3360,3410,47,Car Following
+3361,3411,47,Car Following
+3362,3412,47,Car Following
+3363,3413,47,Car Following
+3364,3414,47,Car Following
+3365,3415,47,Car Following
+3366,3416,47,Car Following
+3367,3417,47,Car Following
+3368,3418,46,Car Following
+3369,3419,47,Car Following
+3370,3420,48,Car Following
+3371,3421,49,Car Following
+3372,3422,49,Car Following
+3373,3423,49,Car Following
+3374,3424,48,Car Following
+3375,3425,48,Car Following
+3376,3426,48,Car Following
+3377,3427,48,Car Following
+3378,3428,48,Car Following
+3379,3429,48,Car Following
+3380,3430,48,Car Following
+3381,3431,46,Car Following
+3382,3432,46,Car Following
+3383,3433,46,Car Following
+3384,3434,47,Car Following
+3385,3435,47,Car Following
+3386,3436,48,Car Following
+3387,3437,46,Car Following
+3388,3438,46,Car Following
+3389,3439,46,Car Following
+3390,3440,47,Car Following
+3391,3441,47,Car Following
+3392,3442,47,Car Following
+3393,3443,47,Car Following
+3394,3444,47,Car Following
+3395,3445,47,Car Following
+3396,3446,46,Car Following
+3397,3447,47,Car Following
+3398,3448,47,Car Following
+3399,3449,47,Cut-In
+3400,3450,47,Cut-In
+3401,3451,47,Cut-In
+3402,3452,47,Cut-In
+3403,3453,46,Cut-In
+3404,3454,45,Cut-In
+3405,3455,46,Cut-In
+3406,3456,46,Cut-In
+3407,3457,46,Cut-In
+3408,3458,46,Cut-In
+3409,3459,46,Cut-In
+3410,3460,46,Cut-In
+3411,3461,45,Cut-In
+3412,3462,45,Cut-In
+3413,3463,45,Cut-In
+3414,3464,47,Cut-In
+3415,3465,47,Cut-In
+3416,3466,47,Cut-In
+3417,3467,47,Cut-In
+3418,3468,46,Cut-In
+3419,3469,45,Cut-In
+3420,3470,45,Cut-In
+3421,3471,44,Cut-In
+3422,3472,44,Cut-In
+3423,3473,44,Cut-In
+3424,3474,45,Cut-In
+3425,3475,45,Cut-In
+3426,3476,45,Cut-In
+3427,3477,44,Cut-In
+3428,3478,44,Cut-In
+3429,3479,44,Cut-In
+3430,3480,44,Cut-In
+3431,3481,45,Cut-In
+3432,3482,45,Cut-In
+3433,3483,45,Cut-In
+3434,3484,45,Cut-In
+3435,3485,45,Cut-In
+3436,3486,44,Cut-In
+3437,3487,43,Cut-In
+3438,3488,44,Cut-In
+3439,3489,44,Cut-In
+3440,3490,44,Cut-In
+3441,3491,44,Cut-In
+3442,3492,44,Cut-In
+3443,3493,45,Cut-In
+3444,3494,45,Cut-In
+3445,3495,45,Cut-In
+3446,3496,45,Cut-In
+3447,3497,45,Cut-In
+3448,3498,46,Cut-In
+3449,3499,45,Car Following
+3450,3500,44,Car Following
+3451,3501,44,Car Following
+3452,3502,44,Car Following
+3453,3503,44,Car Following
+3454,3504,44,Car Following
+3455,3505,44,Car Following
+3456,3506,43,Car Following
+3457,3507,43,Car Following
+3458,3508,43,Car Following
+3459,3509,45,Car Following
+3460,3510,45,Car Following
+3461,3511,45,Car Following
+3462,3512,46,Car Following
+3463,3513,47,Car Following
+3464,3514,46,Car Following
+3465,3515,46,Car Following
+3466,3516,46,Cut-In
+3467,3517,46,Cut-In
+3468,3518,46,Cut-In
+3469,3519,45,Cut-In
+3470,3520,45,Cut-In
+3471,3521,45,Cut-In
+3472,3522,45,Cut-In
+3473,3523,45,Cut-In
+3474,3524,45,Cut-In
+3475,3525,46,Cut-In
+3476,3526,46,Cut-In
+3477,3527,46,Cut-In
+3478,3528,46,Cut-In
+3479,3529,45,Cut-In
+3480,3530,45,Cut-In
+3481,3531,46,Cut-In
+3482,3532,47,Cut-In
+3483,3533,46,Cut-In
+3484,3534,47,Cut-In
+3485,3535,47,Cut-In
+3486,3536,47,Cut-In
+3487,3537,47,Cut-In
+3488,3538,48,Cut-In
+3489,3539,48,Cut-In
+3490,3540,48,Cut-In
+3491,3541,48,Cut-In
+3492,3542,48,Cut-In
+3493,3543,48,Cut-In
+3494,3544,48,Cut-In
+3495,3545,49,Cut-In
+3496,3546,48,Cut-In
+3497,3547,48,Cut-In
+3498,3548,49,Cut-In
+3499,3549,48,Cut-In
+3500,3550,48,Cut-In
+3501,3551,48,Cut-In
+3502,3552,48,Cut-In
+3503,3553,49,Cut-In
+3504,3554,49,Cut-In
+3505,3555,49,Cut-In
+3506,3556,49,Cut-In
+3507,3557,49,Cut-In
+3508,3558,50,Cut-In
+3509,3559,50,Cut-In
+3510,3560,49,Cut-In
+3511,3561,49,Cut-In
+3512,3562,49,Cut-In
+3513,3563,50,Cut-In
+3514,3564,49,Cut-In
+3515,3565,49,Cut-In
+3516,3566,49,Car Following
+3517,3567,48,Car Following
+3518,3568,49,Car Following
+3519,3569,49,Car Following
+3520,3570,50,Car Following
+3521,3571,51,Car Following
+3522,3572,51,Car Following
+3523,3573,50,Car Following
+3524,3574,50,Car Following
+3525,3575,49,Car Following
+3526,3576,49,Car Following
+3527,3577,48,Car Following
+3528,3578,48,Car Following
+3529,3579,49,Car Following
+3530,3580,49,Car Following
+3531,3581,50,Car Following
+3532,3582,49,Car Following
+3533,3583,49,Car Following
+3534,3584,49,Car Following
+3535,3585,50,Car Following
+3536,3586,50,Car Following
+3537,3587,50,Car Following
+3538,3588,50,Car Following
+3539,3589,50,Car Following
+3540,3590,50,Car Following
+3541,3591,50,Car Following
+3542,3592,50,Car Following
+3543,3593,49,Car Following
+3544,3594,49,Car Following
+3545,3595,48,Car Following
+3546,3596,48,Car Following
+3547,3597,47,Car Following
+3548,3598,49,Car Following
+3549,3599,49,Car Following
+3550,3600,48,Car Following
+3551,3601,48,Car Following
+3552,3602,48,Car Following
+3553,3603,47,Car Following
+3554,3604,48,Car Following
+3555,3605,48,Car Following
+3556,3606,48,Car Following
+3557,3607,48,Car Following
+3558,3608,48,Car Following
+3559,3609,48,Car Following
+3560,3610,49,Car Following
+3561,3611,49,Car Following
+3562,3612,48,Car Following
+3563,3613,50,Car Following
+3564,3614,50,Car Following
+3565,3615,51,Car Following
+3566,3616,50,Cut-In
+3567,3617,50,Cut-In
+3568,3618,52,Cut-In
+3569,3619,52,Cut-In
+3570,3620,51,Cut-In
+3571,3621,51,Cut-In
+3572,3622,51,Cut-In
+3573,3623,51,Cut-In
+3574,3624,50,Cut-In
+3575,3625,49,Cut-In
+3576,3626,49,Cut-In
+3577,3627,48,Cut-In
+3578,3628,48,Cut-In
+3579,3629,48,Cut-In
+3580,3630,48,Cut-In
+3581,3631,48,Cut-In
+3582,3632,49,Cut-In
+3583,3633,49,Cut-In
+3584,3634,49,Cut-In
+3585,3635,50,Cut-In
+3586,3636,51,Cut-In
+3587,3637,52,Cut-In
+3588,3638,51,Cut-In
+3589,3639,52,Cut-In
+3590,3640,52,Cut-In
+3591,3641,51,Cut-In
+3592,3642,50,Cut-In
+3593,3643,50,Cut-In
+3594,3644,50,Cut-In
+3595,3645,50,Cut-In
+3596,3646,50,Cut-In
+3597,3647,50,Cut-In
+3598,3648,50,Cut-In
+3599,3649,49,Cut-In
+3600,3650,49,Cut-In
+3601,3651,48,Cut-In
+3602,3652,50,Cut-In
+3603,3653,48,Cut-In
+3604,3654,48,Cut-In
+3605,3655,48,Cut-In
+3606,3656,48,Cut-In
+3607,3657,47,Cut-In
+3608,3658,48,Cut-In
+3609,3659,48,Cut-In
+3610,3660,48,Cut-In
+3611,3661,49,Cut-In
+3612,3662,49,Cut-In
+3613,3663,49,Cut-In
+3614,3664,49,Cut-In
+3615,3665,49,Cut-In
+3616,3666,48,Car Following
+3617,3667,48,Car Following
+3618,3668,48,Car Following
+3619,3669,47,Car Following
+3620,3670,47,Car Following
+3621,3671,46,Cut-In
+3622,3672,47,Cut-In
+3623,3673,47,Cut-In
+3624,3674,47,Cut-In
+3625,3675,48,Cut-In
+3626,3676,48,Cut-In
+3627,3677,49,Cut-In
+3628,3678,47,Cut-In
+3629,3679,47,Cut-In
+3630,3680,46,Cut-In
+3631,3681,46,Cut-In
+3632,3682,46,Cut-In
+3633,3683,46,Cut-In
+3634,3684,46,Cut-In
+3635,3685,47,Cut-In
+3636,3686,47,Cut-In
+3637,3687,47,Cut-In
+3638,3688,47,Cut-In
+3639,3689,47,Cut-In
+3640,3690,47,Cut-In
+3641,3691,48,Cut-In
+3642,3692,48,Cut-In
+3643,3693,48,Cut-In
+3644,3694,48,Cut-In
+3645,3695,48,Cut-In
+3646,3696,48,Cut-In
+3647,3697,48,Cut-In
+3648,3698,48,Cut-In
+3649,3699,48,Cut-In
+3650,3700,49,Cut-In
+3651,3701,48,Cut-In
+3652,3702,48,Cut-In
+3653,3703,48,Cut-In
+3654,3704,47,Cut-In
+3655,3705,47,Cut-In
+3656,3706,47,Cut-In
+3657,3707,47,Cut-In
+3658,3708,47,Cut-In
+3659,3709,47,Cut-In
+3660,3710,47,Cut-In
+3661,3711,47,Cut-In
+3662,3712,47,Cut-In
+3663,3713,46,Cut-In
+3664,3714,46,Cut-In
+3665,3715,46,Cut-In
+3666,3716,46,Cut-In
+3667,3717,47,Cut-In
+3668,3718,47,Cut-In
+3669,3719,48,Cut-In
+3670,3720,48,Cut-In
+3671,3721,48,Car Following
+3672,3722,47,Car Following
+3673,3723,46,Car Following
+3674,3724,45,Car Following
+3675,3725,45,Car Following
+3676,3726,45,Car Following
+3677,3727,45,Car Following
+3678,3728,45,Car Following
+3679,3729,47,Car Following
+3680,3730,47,Car Following
+3681,3731,47,Car Following
+3682,3732,47,Car Following
+3683,3733,47,Car Following
+3684,3734,47,Car Following
+3685,3735,47,Car Following
+3686,3736,46,Car Following
+3687,3737,46,Car Following
+3688,3738,46,Car Following
+3689,3739,46,Car Following
+3690,3740,45,Car Following
+3691,3741,45,Car Following
+3692,3742,46,Car Following
+3693,3743,46,Car Following
+3694,3744,46,Car Following
+3695,3745,46,Car Following
+3696,3746,45,Car Following
+3697,3747,45,Car Following
+3698,3748,46,Car Following
+3699,3749,46,Car Following
+3700,3750,45,Car Following
+3701,3751,46,Car Following
+3702,3752,46,Car Following
+3703,3753,46,Car Following
+3704,3754,46,Car Following
+3705,3755,46,Car Following
+3706,3756,46,Car Following
+3707,3757,46,Car Following
+3708,3758,46,Car Following
+3709,3759,46,Car Following
+3710,3760,46,Car Following
+3711,3761,46,Car Following
+3712,3762,46,Car Following
+3713,3763,45,Car Following
+3714,3764,44,Car Following
+3715,3765,43,Car Following
+3716,3766,43,Car Following
+3717,3767,43,Car Following
+3718,3768,43,Car Following
+3719,3769,43,Car Following
+3720,3770,44,Car Following
+3721,3771,43,Car Following
+3722,3772,44,Car Following
+3723,3773,44,Car Following
+3724,3774,43,Car Following
+3725,3775,45,Car Following
+3726,3776,45,Car Following
+3727,3777,45,Car Following
+3728,3778,45,Car Following
+3729,3779,45,Car Following
+3730,3780,45,Car Following
+3731,3781,44,Car Following
+3732,3782,43,Car Following
+3733,3783,43,Car Following
+3734,3784,43,Car Following
+3735,3785,43,Car Following
+3736,3786,44,Car Following
+3737,3787,45,Car Following
+3738,3788,45,Car Following
+3739,3789,45,Car Following
+3740,3790,45,Car Following
+3741,3791,45,Car Following
+3742,3792,45,Car Following
+3743,3793,44,Car Following
+3744,3794,44,Car Following
+3745,3795,45,Car Following
+3746,3796,45,Car Following
+3747,3797,45,Car Following
+3748,3798,45,Car Following
+3749,3799,45,Car Following
+3750,3800,45,Car Following
+3751,3801,45,Car Following
+3752,3802,45,Car Following
+3753,3803,44,Car Following
+3754,3804,44,Car Following
+3755,3805,44,Car Following
+3756,3806,44,Car Following
+3757,3807,44,Car Following
+3758,3808,44,Car Following
+3759,3809,43,Car Following
+3760,3810,44,Car Following
+3761,3811,42,Car Following
+3762,3812,42,Car Following
+3763,3813,42,Car Following
+3764,3814,42,Car Following
+3765,3815,42,Car Following
+3766,3816,42,Cut-In
+3767,3817,42,Cut-In
+3768,3818,42,Cut-In
+3769,3819,42,Cut-In
+3770,3820,42,Cut-In
+3771,3821,43,Cut-In
+3772,3822,44,Cut-In
+3773,3823,45,Cut-In
+3774,3824,45,Cut-In
+3775,3825,45,Cut-In
+3776,3826,45,Cut-In
+3777,3827,44,Cut-In
+3778,3828,43,Cut-In
+3779,3829,41,Cut-In
+3780,3830,41,Cut-In
+3781,3831,41,Cut-In
+3782,3832,40,Cut-In
+3783,3833,40,Cut-In
+3784,3834,40,Cut-In
+3785,3835,40,Cut-In
+3786,3836,40,Cut-In
+3787,3837,41,Cut-In
+3788,3838,41,Cut-In
+3789,3839,41,Cut-In
+3790,3840,41,Cut-In
+3791,3841,41,Cut-In
+3792,3842,42,Cut-In
+3793,3843,42,Cut-In
+3794,3844,43,Cut-In
+3795,3845,43,Cut-In
+3796,3846,43,Cut-In
+3797,3847,43,Cut-In
+3798,3848,43,Cut-In
+3799,3849,42,Cut-In
+3800,3850,42,Cut-In
+3801,3851,42,Cut-In
+3802,3852,42,Cut-In
+3803,3853,42,Cut-In
+3804,3854,42,Cut-In
+3805,3855,42,Cut-In
+3806,3856,42,Cut-In
+3807,3857,42,Cut-In
+3808,3858,42,Cut-In
+3809,3859,42,Cut-In
+3810,3860,41,Cut-In
+3811,3861,41,Cut-In
+3812,3862,40,Cut-In
+3813,3863,40,Cut-In
+3814,3864,41,Cut-In
+3815,3865,41,Cut-In
+3816,3866,41,Car Following
+3817,3867,41,Car Following
+3818,3868,41,Car Following
+3819,3869,41,Car Following
+3820,3870,41,Car Following
+3821,3871,42,Car Following
+3822,3872,43,Car Following
+3823,3873,43,Car Following
+3824,3874,43,Car Following
+3825,3875,43,Car Following
+3826,3876,43,Car Following
+3827,3877,44,Car Following
+3828,3878,45,Car Following
+3829,3879,45,Cut-In
+3830,3880,45,Cut-In
+3831,3881,45,Cut-In
+3832,3882,45,Cut-In
+3833,3883,45,Cut-In
+3834,3884,43,Cut-In
+3835,3885,43,Cut-In
+3836,3886,43,Cut-In
+3837,3887,43,Cut-In
+3838,3888,43,Cut-In
+3839,3889,43,Cut-In
+3840,3890,43,Cut-In
+3841,3891,42,Cut-In
+3842,3892,42,Cut-In
+3843,3893,42,Cut-In
+3844,3894,42,Cut-In
+3845,3895,43,Cut-In
+3846,3896,44,Cut-In
+3847,3897,45,Cut-In
+3848,3898,45,Cut-In
+3849,3899,44,Cut-In
+3850,3900,44,Cut-In
+3851,3901,44,Cut-In
+3852,3902,44,Cut-In
+3853,3903,44,Cut-In
+3854,3904,44,Cut-In
+3855,3905,44,Cut-In
+3856,3906,43,Cut-In
+3857,3907,43,Cut-In
+3858,3908,43,Cut-In
+3859,3909,43,Cut-In
+3860,3910,43,Cut-In
+3861,3911,43,Cut-In
+3862,3912,44,Cut-In
+3863,3913,44,Cut-In
+3864,3914,43,Cut-In
+3865,3915,44,Cut-In
+3866,3916,43,Cut-In
+3867,3917,43,Cut-In
+3868,3918,43,Cut-In
+3869,3919,43,Cut-In
+3870,3920,43,Cut-In
+3871,3921,43,Cut-In
+3872,3922,43,Cut-In
+3873,3923,44,Cut-In
+3874,3924,45,Cut-In
+3875,3925,45,Cut-In
+3876,3926,45,Cut-In
+3877,3927,45,Cut-In
+3878,3928,45,Cut-In
+3879,3929,46,Car Following
+3880,3930,46,Car Following
+3881,3931,46,Car Following
+3882,3932,46,Car Following
+3883,3933,46,Car Following
+3884,3934,46,Car Following
+3885,3935,46,Car Following
+3886,3936,46,Car Following
+3887,3937,46,Car Following
+3888,3938,46,Car Following
+3889,3939,46,Car Following
+3890,3940,46,Car Following
+3891,3941,45,Car Following
+3892,3942,45,Car Following
+3893,3943,45,Car Following
+3894,3944,46,Car Following
+3895,3945,45,Car Following
+3896,3946,46,Car Following
+3897,3947,46,Car Following
+3898,3948,46,Car Following
+3899,3949,46,Car Following
+3900,3950,46,Car Following
+3901,3951,46,Car Following
+3902,3952,46,Car Following
+3903,3953,45,Car Following
+3904,3954,46,Car Following
+3905,3955,45,Car Following
+3906,3956,45,Car Following
+3907,3957,45,Car Following
+3908,3958,45,Car Following
+3909,3959,44,Car Following
+3910,3960,44,Car Following
+3911,3961,45,Car Following
+3912,3962,45,Car Following
+3913,3963,45,Car Following
+3914,3964,45,Car Following
+3915,3965,46,Car Following
+3916,3966,47,Car Following
+3917,3967,47,Car Following
+3918,3968,47,Car Following
+3919,3969,47,Car Following
+3920,3970,47,Car Following
+3921,3971,47,Car Following
+3922,3972,47,Car Following
+3923,3973,47,Car Following
+3924,3974,47,Car Following
+3925,3975,47,Car Following
+3926,3976,47,Car Following
+3927,3977,48,Car Following
+3928,3978,47,Car Following
+3929,3979,46,Car Following
+3930,3980,45,Car Following
+3931,3981,47,Car Following
+3932,3982,48,Car Following
+3933,3983,48,Car Following
+3934,3984,48,Car Following
+3935,3985,48,Car Following
+3936,3986,48,Car Following
+3937,3987,48,Car Following
+3938,3988,49,Car Following
+3939,3989,49,Car Following
+3940,3990,49,Car Following
+3941,3991,49,Car Following
+3942,3992,49,Car Following
+3943,3993,50,Car Following
+3944,3994,50,Car Following
+3945,3995,50,Car Following
+3946,3996,49,Car Following
+3947,3997,49,Car Following
+3948,3998,49,Cut-In
+3949,3999,49,Cut-In
+3950,4000,50,Cut-In
+3951,4001,50,Cut-In
+3952,4002,52,Cut-In
+3953,4003,52,Cut-In
+3954,4004,52,Cut-In
+3955,4005,51,Cut-In
+3956,4006,51,Cut-In
+3957,4007,51,Cut-In
+3958,4008,53,Cut-In
+3959,4009,53,Cut-In
+3960,4010,53,Cut-In
+3961,4011,52,Cut-In
+3962,4012,51,Cut-In
+3963,4013,51,Cut-In
+3964,4014,51,Cut-In
+3965,4015,51,Cut-In
+3966,4016,51,Cut-In
+3967,4017,51,Cut-In
+3968,4018,51,Cut-In
+3969,4019,52,Cut-In
+3970,4020,52,Cut-In
+3971,4021,52,Cut-In
+3972,4022,51,Cut-In
+3973,4023,51,Cut-In
+3974,4024,52,Cut-In
+3975,4025,52,Cut-In
+3976,4026,52,Cut-In
+3977,4027,52,Cut-In
+3978,4028,51,Cut-In
+3979,4029,51,Cut-In
+3980,4030,52,Cut-In
+3981,4031,52,Cut-In
+3982,4032,53,Cut-In
+3983,4033,53,Cut-In
+3984,4034,52,Cut-In
+3985,4035,52,Cut-In
+3986,4036,52,Cut-In
+3987,4037,53,Cut-In
+3988,4038,54,Cut-In
+3989,4039,54,Cut-In
+3990,4040,54,Cut-In
+3991,4041,54,Cut-In
+3992,4042,54,Cut-In
+3993,4043,53,Cut-In
+3994,4044,53,Cut-In
+3995,4045,54,Cut-In
+3996,4046,53,Cut-In
+3997,4047,53,Cut-In
+3998,4048,52,Cut-In
+3999,4049,53,Cut-In
+4000,4050,53,Cut-In
+4001,4051,53,Cut-In
+4002,4052,54,Cut-In
+4003,4053,54,Cut-In
+4004,4054,54,Cut-In
+4005,4055,54,Cut-In
+4006,4056,54,Cut-In
+4007,4057,53,Cut-In
+4008,4058,53,Cut-In
+4009,4059,53,Cut-In
+4010,4060,53,Cut-In
+4011,4061,53,Cut-In
+4012,4062,53,Cut-In
+4013,4063,53,Cut-In
+4014,4064,53,Car Following
+4015,4065,55,Car Following
+4016,4066,55,Car Following
+4017,4067,55,Car Following
+4018,4068,55,Car Following
+4019,4069,55,Car Following
+4020,4070,54,Car Following
+4021,4071,54,Car Following
+4022,4072,55,Car Following
+4023,4073,56,Car Following
+4024,4074,56,Car Following
+4025,4075,56,Car Following
+4026,4076,56,Car Following
+4027,4077,55,Car Following
+4028,4078,55,Car Following
+4029,4079,55,Car Following
+4030,4080,55,Car Following
+4031,4081,55,Car Following
+4032,4082,55,Car Following
+4033,4083,55,Car Following
+4034,4084,56,Car Following
+4035,4085,56,Car Following
+4036,4086,55,Car Following
+4037,4087,55,Car Following
+4038,4088,55,Car Following
+4039,4089,56,Car Following
+4040,4090,57,Car Following
+4041,4091,57,Car Following
+4042,4092,57,Car Following
+4043,4093,57,Car Following
+4044,4094,57,Car Following
+4045,4095,57,Car Following
+4046,4096,56,Car Following
+4047,4097,55,Car Following
+4048,4098,57,Car Following
+4049,4099,57,Car Following
+4050,4100,57,Car Following
+4051,4101,57,Car Following
+4052,4102,57,Car Following
+4053,4103,57,Cut-In
+4054,4104,58,Cut-In
+4055,4105,58,Cut-In
+4056,4106,58,Cut-In
+4057,4107,58,Cut-In
+4058,4108,57,Cut-In
+4059,4109,57,Cut-In
+4060,4110,57,Cut-In
+4061,4111,57,Cut-In
+4062,4112,57,Cut-In
+4063,4113,56,Cut-In
+4064,4114,56,Cut-In
+4065,4115,56,Cut-In
+4066,4116,57,Cut-In
+4067,4117,57,Cut-In
+4068,4118,57,Cut-In
+4069,4119,57,Cut-In
+4070,4120,56,Cut-In
+4071,4121,56,Cut-In
+4072,4122,56,Cut-In
+4073,4123,56,Cut-In
+4074,4124,56,Cut-In
+4075,4125,57,Cut-In
+4076,4126,57,Cut-In
+4077,4127,57,Cut-In
+4078,4128,56,Cut-In
+4079,4129,56,Cut-In
+4080,4130,56,Cut-In
+4081,4131,56,Cut-In
+4082,4132,56,Cut-In
+4083,4133,56,Cut-In
+4084,4134,56,Cut-In
+4085,4135,56,Cut-In
+4086,4136,56,Cut-In
+4087,4137,56,Cut-In
+4088,4138,56,Cut-In
+4089,4139,56,Cut-In
+4090,4140,55,Cut-In
+4091,4141,55,Cut-In
+4092,4142,55,Cut-In
+4093,4143,55,Cut-In
+4094,4144,56,Cut-In
+4095,4145,55,Cut-In
+4096,4146,55,Cut-In
+4097,4147,55,Cut-In
+4098,4148,54,Cut-In
+4099,4149,53,Cut-In
+4100,4150,53,Cut-In
+4101,4151,53,Cut-In
+4102,4152,54,Cut-In
+4103,4153,54,Cut-In
+4104,4154,54,Cut-In
+4105,4155,54,Cut-In
+4106,4156,54,Cut-In
+4107,4157,54,Cut-In
+4108,4158,54,Cut-In
+4109,4159,54,Cut-In
+4110,4160,54,Cut-In
+4111,4161,55,Cut-In
+4112,4162,54,Cut-In
+4113,4163,54,Cut-In
+4114,4164,54,Cut-In
+4115,4165,53,Cut-In
+4116,4166,53,Cut-In
+4117,4167,52,Cut-In
+4118,4168,52,Cut-In
+4119,4169,52,Cut-In
+4120,4170,52,Cut-In
+4121,4171,52,Cut-In
+4122,4172,53,Cut-In
+4123,4173,53,Cut-In
+4124,4174,53,Cut-In
+4125,4175,53,Cut-In
+4126,4176,53,Cut-In
+4127,4177,53,Cut-In
+4128,4178,53,Cut-In
+4129,4179,53,Cut-In
+4130,4180,52,Cut-In
+4131,4181,52,Cut-In
+4132,4182,52,Cut-In
+4133,4183,52,Cut-In
+4134,4184,52,Cut-In
+4135,4185,52,Cut-In
+4136,4186,53,Cut-In
+4137,4187,53,Cut-In
+4138,4188,53,Cut-In
+4139,4189,53,Car Following
+4140,4190,53,Car Following
+4141,4191,54,Car Following
+4142,4192,53,Car Following
+4143,4193,53,Car Following
+4144,4194,53,Car Following
+4145,4195,53,Car Following
+4146,4196,53,Car Following
+4147,4197,53,Car Following
+4148,4198,53,Car Following
+4149,4199,52,Car Following
+4150,4200,52,Car Following
+4151,4201,52,Car Following
+4152,4202,52,Car Following
+4153,4203,52,Car Following
+4154,4204,52,Car Following
+4155,4205,52,Car Following
+4156,4206,53,Car Following
+4157,4207,53,Car Following
+4158,4208,53,Car Following
+4159,4209,54,Car Following
+4160,4210,54,Car Following
+4161,4211,53,Car Following
+4162,4212,53,Car Following
+4163,4213,54,Car Following
+4164,4214,54,Car Following
+4165,4215,54,Car Following
+4166,4216,53,Car Following
+4167,4217,53,Car Following
+4168,4218,53,Car Following
+4169,4219,52,Car Following
+4170,4220,51,Car Following
+4171,4221,51,Car Following
+4172,4222,51,Car Following
+4173,4223,51,Car Following
+4174,4224,51,Car Following
+4175,4225,51,Car Following
+4176,4226,51,Car Following
+4177,4227,52,Car Following
+4178,4228,52,Car Following
+4179,4229,52,Car Following
+4180,4230,52,Car Following
+4181,4231,52,Car Following
+4182,4232,53,Car Following
+4183,4233,53,Car Following
+4184,4234,53,Car Following
+4185,4235,53,Car Following
+4186,4236,54,Car Following
+4187,4237,54,Car Following
+4188,4238,54,Car Following
+4189,4239,55,Car Following
+4190,4240,55,Car Following
+4191,4241,55,Car Following
+4192,4242,54,Car Following
+4193,4243,54,Car Following
+4194,4244,55,Car Following
+4195,4245,55,Car Following
+4196,4246,55,Car Following
+4197,4247,54,Car Following
+4198,4248,54,Car Following
+4199,4249,54,Car Following
+4200,4250,54,Car Following
+4201,4251,54,Car Following
+4202,4252,54,Car Following
+4203,4253,54,Car Following
+4204,4254,55,Car Following
+4205,4255,55,Car Following
+4206,4256,56,Car Following
+4207,4257,56,Car Following
+4208,4258,57,Car Following
+4209,4259,57,Car Following
+4210,4260,57,Car Following
+4211,4261,56,Car Following
+4212,4262,56,Car Following
+4213,4263,56,Car Following
+4214,4264,56,Car Following
+4215,4265,55,Car Following
+4216,4266,54,Car Following
+4217,4267,53,Car Following
+4218,4268,53,Car Following
+4219,4269,53,Car Following
+4220,4270,53,Car Following
+4221,4271,53,Car Following
+4222,4272,53,Car Following
+4223,4273,53,Car Following
+4224,4274,54,Car Following
+4225,4275,55,Car Following
+4226,4276,55,Car Following
+4227,4277,55,Car Following
+4228,4278,55,Car Following
+4229,4279,56,Car Following
+4230,4280,56,Car Following
+4231,4281,56,Car Following
+4232,4282,56,Car Following
+4233,4283,55,Car Following
+4234,4284,55,Car Following
+4235,4285,55,Car Following
+4236,4286,55,Car Following
+4237,4287,55,Car Following
+4238,4288,55,Car Following
+4239,4289,54,Car Following
+4240,4290,54,Car Following
+4241,4291,54,Car Following
+4242,4292,54,Car Following
+4243,4293,54,Car Following
+4244,4294,54,Car Following
+4245,4295,54,Car Following
+4246,4296,54,Car Following
+4247,4297,55,Car Following
+4248,4298,56,Car Following
+4249,4299,56,Car Following
+4250,4300,55,Car Following
+4251,4301,55,Car Following
+4252,4302,55,Car Following
+4253,4303,55,Car Following
+4254,4304,56,Car Following
+4255,4305,56,Car Following
+4256,4306,56,Car Following
+4257,4307,55,Car Following
+4258,4308,55,Car Following
+4259,4309,55,Car Following
+4260,4310,56,Car Following
+4261,4311,56,Car Following
+4262,4312,56,Car Following
+4263,4313,55,Car Following
+4264,4314,55,Car Following
+4265,4315,55,Car Following
+4266,4316,54,Car Following
+4267,4317,54,Car Following
+4268,4318,54,Car Following
+4269,4319,54,Car Following
+4270,4320,53,Car Following
+4271,4321,54,Car Following
+4272,4322,54,Car Following
+4273,4323,54,Car Following
+4274,4324,54,Car Following
+4275,4325,55,Car Following
+4276,4326,56,Car Following
+4277,4327,56,Car Following
+4278,4328,56,Car Following
+4279,4329,57,Car Following
+4280,4330,57,Car Following
+4281,4331,57,Car Following
+4282,4332,56,Car Following
+4283,4333,56,Car Following
+4284,4334,56,Car Following
+4285,4335,57,Car Following
+4286,4336,57,Car Following
+4287,4337,55,Car Following
+4288,4338,54,Car Following
+4289,4339,54,Car Following
+4290,4340,54,Car Following
+4291,4341,54,Car Following
+4292,4342,55,Car Following
+4293,4343,55,Car Following
+4294,4344,55,Car Following
+4295,4345,55,Car Following
+4296,4346,56,Car Following
+4297,4347,57,Car Following
+4298,4348,57,Car Following
+4299,4349,57,Car Following
+4300,4350,56,Car Following
+4301,4351,57,Car Following
+4302,4352,57,Car Following
+4303,4353,57,Car Following
+4304,4354,56,Car Following
+4305,4355,56,Car Following
+4306,4356,56,Car Following
+4307,4357,57,Car Following
+4308,4358,57,Car Following
+4309,4359,57,Car Following
+4310,4360,57,Car Following
+4311,4361,57,Car Following
+4312,4362,57,Car Following
+4313,4363,58,Car Following
+4314,4364,57,Car Following
+4315,4365,58,Car Following
+4316,4366,58,Car Following
+4317,4367,58,Car Following
+4318,4368,57,Car Following
+4319,4369,57,Car Following
+4320,4370,57,Car Following
+4321,4371,58,Car Following
+4322,4372,58,Car Following
+4323,4373,58,Car Following
+4324,4374,58,Car Following
+4325,4375,58,Car Following
+4326,4376,58,Car Following
+4327,4377,58,Car Following
+4328,4378,58,Car Following
+4329,4379,58,Car Following
+4330,4380,58,Car Following
+4331,4381,58,Car Following
+4332,4382,58,Car Following
+4333,4383,57,Car Following
+4334,4384,57,Car Following
+4335,4385,56,Car Following
+4336,4386,56,Car Following
+4337,4387,56,Car Following
+4338,4388,55,Car Following
+4339,4389,55,Car Following
+4340,4390,55,Car Following
+4341,4391,56,Car Following
+4342,4392,57,Car Following
+4343,4393,57,Car Following
+4344,4394,57,Car Following
+4345,4395,57,Car Following
+4346,4396,57,Car Following
+4347,4397,57,Car Following
+4348,4398,59,Car Following
+4349,4399,59,Car Following
+4350,4400,58,Car Following
+4351,4401,58,Car Following
+4352,4402,58,Car Following
+4353,4403,58,Car Following
+4354,4404,58,Car Following
+4355,4405,59,Car Following
+4356,4406,58,Car Following
+4357,4407,58,Car Following
+4358,4408,59,Car Following
+4359,4409,59,Car Following
+4360,4410,57,Car Following
+4361,4411,57,Car Following
+4362,4412,57,Car Following
+4363,4413,58,Car Following
+4364,4414,57,Car Following
+4365,4415,57,Car Following
+4366,4416,57,Car Following
+4367,4417,57,Car Following
+4368,4418,55,Car Following
+4369,4419,55,Car Following
+4370,4420,55,Car Following
+4371,4421,55,Car Following
+4372,4422,55,Car Following
+4373,4423,57,Car Following
+4374,4424,57,Car Following
+4375,4425,57,Car Following
+4376,4426,57,Car Following
+4377,4427,57,Car Following
+4378,4428,57,Car Following
+4379,4429,56,Car Following
+4380,4430,56,Car Following
+4381,4431,56,Car Following
+4382,4432,56,Car Following
+4383,4433,56,Car Following
+4384,4434,56,Car Following
+4385,4435,57,Car Following
+4386,4436,57,Car Following
+4387,4437,57,Car Following
+4388,4438,57,Car Following
+4389,4439,56,Car Following
+4390,4440,57,Car Following
+4391,4441,57,Car Following
+4392,4442,57,Car Following
+4393,4443,57,Car Following
+4394,4444,57,Car Following
+4395,4445,57,Car Following
+4396,4446,57,Car Following
+4397,4447,57,Car Following
+4398,4448,57,Car Following
+4399,4449,58,Car Following
+4400,4450,59,Car Following
+4401,4451,58,Car Following
+4402,4452,58,Car Following
+4403,4453,59,Car Following
+4404,4454,60,Car Following
+4405,4455,59,Car Following
+4406,4456,59,Car Following
+4407,4457,58,Car Following
+4408,4458,57,Car Following
+4409,4459,57,Car Following
+4410,4460,57,Car Following
+4411,4461,58,Car Following
+4412,4462,59,Car Following
+4413,4463,59,Car Following
+4414,4464,59,Car Following
+4415,4465,59,Car Following
+4416,4466,59,Car Following
+4417,4467,59,Car Following
+4418,4468,58,Car Following
+4419,4469,61,Car Following
+4420,4470,60,Car Following
+4421,4471,60,Car Following
+4422,4472,60,Car Following
+4423,4473,59,Car Following
+4424,4474,59,Car Following
+4425,4475,58,Car Following
+4426,4476,57,Car Following
+4427,4477,58,Car Following
+4428,4478,57,Car Following
+4429,4479,57,Car Following
+4430,4480,57,Car Following
+4431,4481,57,Car Following
+4432,4482,57,Car Following
+4433,4483,58,Car Following
+4434,4484,57,Car Following
+4435,4485,56,Car Following
+4436,4486,56,Car Following
+4437,4487,57,Car Following
+4438,4488,57,Car Following
+4439,4489,57,Car Following
+4440,4490,57,Car Following
+4441,4491,57,Car Following
+4442,4492,57,Car Following
+4443,4493,57,Car Following
+4444,4494,57,Car Following
+4445,4495,57,Car Following
+4446,4496,57,Car Following
+4447,4497,56,Car Following
+4448,4498,55,Car Following
+4449,4499,54,Car Following
+4450,4500,55,Car Following
+4451,4501,57,Car Following
+4452,4502,57,Car Following
+4453,4503,57,Car Following
+4454,4504,57,Car Following
+4455,4505,58,Car Following
+4456,4506,57,Car Following
+4457,4507,58,Car Following
+4458,4508,57,Car Following
+4459,4509,56,Cut-In
+4460,4510,56,Cut-In
+4461,4511,56,Cut-In
+4462,4512,56,Cut-In
+4463,4513,56,Cut-In
+4464,4514,56,Cut-In
+4465,4515,56,Cut-In
+4466,4516,56,Cut-In
+4467,4517,55,Cut-In
+4468,4518,55,Cut-In
+4469,4519,55,Cut-In
+4470,4520,55,Cut-In
+4471,4521,56,Cut-In
+4472,4522,55,Cut-In
+4473,4523,54,Cut-In
+4474,4524,54,Cut-In
+4475,4525,55,Cut-In
+4476,4526,55,Cut-In
+4477,4527,55,Cut-In
+4478,4528,55,Cut-In
+4479,4529,56,Cut-In
+4480,4530,56,Cut-In
+4481,4531,55,Cut-In
+4482,4532,55,Cut-In
+4483,4533,55,Cut-In
+4484,4534,55,Cut-In
+4485,4535,56,Cut-In
+4486,4536,56,Cut-In
+4487,4537,56,Cut-In
+4488,4538,57,Cut-In
+4489,4539,57,Cut-In
+4490,4540,56,Cut-In
+4491,4541,56,Cut-In
+4492,4542,55,Cut-In
+4493,4543,55,Cut-In
+4494,4544,55,Cut-In
+4495,4545,54,Cut-In
+4496,4546,54,Cut-In
+4497,4547,54,Cut-In
+4498,4548,55,Cut-In
+4499,4549,55,Cut-In
+4500,4550,56,Cut-In
+4501,4551,56,Cut-In
+4502,4552,56,Cut-In
+4503,4553,55,Cut-In
+4504,4554,54,Cut-In
+4505,4555,54,Cut-In
+4506,4556,55,Cut-In
+4507,4557,55,Cut-In
+4508,4558,55,Cut-In
+4509,4559,54,Cut-In
+4510,4560,54,Cut-In
+4511,4561,53,Cut-In
+4512,4562,53,Cut-In
+4513,4563,54,Cut-In
+4514,4564,54,Cut-In
+4515,4565,54,Car Following
+4516,4566,55,Car Following
+4517,4567,54,Car Following
+4518,4568,54,Car Following
+4519,4569,54,Car Following
+4520,4570,54,Car Following
+4521,4571,54,Car Following
+4522,4572,54,Car Following
+4523,4573,54,Car Following
+4524,4574,54,Car Following
+4525,4575,54,Car Following
+4526,4576,54,Car Following
+4527,4577,54,Car Following
+4528,4578,54,Car Following
+4529,4579,54,Car Following
+4530,4580,54,Car Following
+4531,4581,54,Car Following
+4532,4582,52,Car Following
+4533,4583,52,Car Following
+4534,4584,52,Car Following
+4535,4585,54,Car Following
+4536,4586,54,Car Following
+4537,4587,53,Car Following
+4538,4588,52,Car Following
+4539,4589,52,Car Following
+4540,4590,52,Car Following
+4541,4591,52,Car Following
+4542,4592,52,Car Following
+4543,4593,51,Car Following
+4544,4594,51,Car Following
+4545,4595,51,Car Following
+4546,4596,51,Car Following
+4547,4597,50,Car Following
+4548,4598,50,Car Following
+4549,4599,50,Car Following
+4550,4600,51,Car Following
+4551,4601,51,Car Following
+4552,4602,53,Car Following
+4553,4603,52,Car Following
+4554,4604,53,Car Following
+4555,4605,53,Car Following
+4556,4606,54,Car Following
+4557,4607,54,Car Following
+4558,4608,54,Car Following
+4559,4609,55,Car Following
+4560,4610,55,Car Following
+4561,4611,54,Car Following
+4562,4612,54,Car Following
+4563,4613,54,Car Following
+4564,4614,53,Car Following
+4565,4615,53,Car Following
+4566,4616,53,Car Following
+4567,4617,53,Car Following
+4568,4618,52,Car Following
+4569,4619,52,Car Following
+4570,4620,52,Car Following
+4571,4621,53,Car Following
+4572,4622,53,Car Following
+4573,4623,53,Car Following
+4574,4624,53,Car Following
+4575,4625,53,Car Following
+4576,4626,53,Car Following
+4577,4627,53,Car Following
+4578,4628,53,Car Following
+4579,4629,52,Car Following
+4580,4630,52,Car Following
+4581,4631,52,Car Following
+4582,4632,51,Car Following
+4583,4633,51,Car Following
+4584,4634,50,Car Following
+4585,4635,50,Car Following
+4586,4636,50,Car Following
+4587,4637,50,Car Following
+4588,4638,50,Car Following
+4589,4639,50,Car Following
+4590,4640,51,Car Following
+4591,4641,51,Car Following
+4592,4642,53,Car Following
+4593,4643,51,Car Following
+4594,4644,52,Car Following
+4595,4645,51,Car Following
+4596,4646,51,Car Following
+4597,4647,52,Car Following
+4598,4648,52,Car Following
+4599,4649,51,Car Following
+4600,4650,51,Car Following
+4601,4651,51,Car Following
+4602,4652,51,Car Following
+4603,4653,51,Car Following
+4604,4654,50,Car Following
+4605,4655,50,Car Following
+4606,4656,52,Car Following
+4607,4657,52,Car Following
+4608,4658,52,Car Following
+4609,4659,50,Car Following
+4610,4660,49,Car Following
+4611,4661,49,Car Following
+4612,4662,49,Car Following
+4613,4663,48,Car Following
+4614,4664,48,Car Following
+4615,4665,48,Car Following
+4616,4666,49,Car Following
+4617,4667,50,Car Following
+4618,4668,49,Car Following
+4619,4669,48,Car Following
+4620,4670,48,Car Following
+4621,4671,48,Car Following
+4622,4672,48,Car Following
+4623,4673,48,Car Following
+4624,4674,48,Car Following
+4625,4675,47,Car Following
+4626,4676,47,Car Following
+4627,4677,47,Car Following
+4628,4678,47,Car Following
+4629,4679,47,Cut-In
+4630,4680,48,Cut-In
+4631,4681,49,Cut-In
+4632,4682,49,Cut-In
+4633,4683,49,Cut-In
+4634,4684,48,Cut-In
+4635,4685,48,Cut-In
+4636,4686,48,Cut-In
+4637,4687,48,Cut-In
+4638,4688,48,Cut-In
+4639,4689,48,Cut-In
+4640,4690,47,Cut-In
+4641,4691,47,Cut-In
+4642,4692,47,Cut-In
+4643,4693,47,Cut-In
+4644,4694,46,Cut-In
+4645,4695,46,Cut-In
+4646,4696,46,Cut-In
+4647,4697,46,Cut-In
+4648,4698,46,Cut-In
+4649,4699,46,Cut-In
+4650,4700,46,Cut-In
+4651,4701,46,Cut-In
+4652,4702,46,Cut-In
+4653,4703,47,Cut-In
+4654,4704,49,Cut-In
+4655,4705,49,Cut-In
+4656,4706,49,Cut-In
+4657,4707,47,Cut-In
+4658,4708,47,Cut-In
+4659,4709,46,Cut-In
+4660,4710,46,Cut-In
+4661,4711,46,Cut-In
+4662,4712,46,Cut-In
+4663,4713,46,Cut-In
+4664,4714,46,Cut-In
+4665,4715,46,Cut-In
+4666,4716,46,Cut-In
+4667,4717,46,Cut-In
+4668,4718,46,Cut-In
+4669,4719,47,Cut-In
+4670,4720,47,Cut-In
+4671,4721,48,Cut-In
+4672,4722,47,Cut-In
+4673,4723,47,Cut-In
+4674,4724,48,Cut-In
+4675,4725,48,Cut-In
+4676,4726,46,Cut-In
+4677,4727,46,Cut-In
+4678,4728,46,Cut-In
+4679,4729,45,Cut-In
+4680,4730,45,Cut-In
+4681,4731,44,Cut-In
+4682,4732,43,Cut-In
+4683,4733,43,Cut-In
+4684,4734,43,Cut-In
+4685,4735,43,Cut-In
+4686,4736,43,Cut-In
+4687,4737,43,Cut-In
+4688,4738,43,Cut-In
+4689,4739,43,Cut-In
+4690,4740,43,Cut-In
+4691,4741,43,Cut-In
+4692,4742,43,Cut-In
+4693,4743,43,Cut-In
+4694,4744,43,Cut-In
+4695,4745,45,Cut-In
+4696,4746,44,Cut-In
+4697,4747,44,Cut-In
+4698,4748,44,Cut-In
+4699,4749,44,Cut-In
+4700,4750,44,Cut-In
+4701,4751,44,Cut-In
+4702,4752,44,Cut-In
+4703,4753,44,Cut-In
+4704,4754,44,Cut-In
+4705,4755,45,Cut-In
+4706,4756,45,Cut-In
+4707,4757,44,Cut-In
+4708,4758,44,Cut-In
+4709,4759,44,Cut-In
+4710,4760,45,Cut-In
+4711,4761,45,Cut-In
+4712,4762,44,Cut-In
+4713,4763,45,Cut-In
+4714,4764,44,Cut-In
+4715,4765,44,Cut-In
+4716,4766,43,Cut-In
+4717,4767,43,Cut-In
+4718,4768,42,Cut-In
+4719,4769,42,Cut-In
+4720,4770,41,Cut-In
+4721,4771,41,Cut-In
+4722,4772,41,Cut-In
+4723,4773,42,Cut-In
+4724,4774,42,Cut-In
+4725,4775,42,Car Following
+4726,4776,42,Car Following
+4727,4777,42,Car Following
+4728,4778,43,Car Following
+4729,4779,43,Car Following
+4730,4780,43,Car Following
+4731,4781,44,Car Following
+4732,4782,44,Car Following
+4733,4783,44,Car Following
+4734,4784,44,Car Following
+4735,4785,44,Car Following
+4736,4786,43,Car Following
+4737,4787,43,Car Following
+4738,4788,42,Car Following
+4739,4789,42,Car Following
+4740,4790,42,Car Following
+4741,4791,41,Car Following
+4742,4792,41,Car Following
+4743,4793,41,Car Following
+4744,4794,41,Car Following
+4745,4795,42,Car Following
+4746,4796,42,Car Following
+4747,4797,42,Car Following
+4748,4798,42,Car Following
+4749,4799,42,Car Following
+4750,4800,42,Car Following
+4751,4801,43,Car Following
+4752,4802,43,Car Following
+4753,4803,44,Car Following
+4754,4804,43,Car Following
+4755,4805,43,Car Following
+4756,4806,43,Car Following
+4757,4807,43,Car Following
+4758,4808,44,Car Following
+4759,4809,43,Car Following
+4760,4810,42,Car Following
+4761,4811,41,Car Following
+4762,4812,41,Car Following
+4763,4813,41,Car Following
+4764,4814,41,Car Following
+4765,4815,41,Car Following
+4766,4816,41,Car Following
+4767,4817,42,Car Following
+4768,4818,43,Car Following
+4769,4819,43,Car Following
+4770,4820,43,Car Following
+4771,4821,43,Car Following
+4772,4822,44,Car Following
+4773,4823,43,Car Following
+4774,4824,43,Car Following
+4775,4825,43,Car Following
+4776,4826,42,Car Following
+4777,4827,43,Car Following
+4778,4828,43,Car Following
+4779,4829,43,Car Following
+4780,4830,42,Car Following
+4781,4831,42,Car Following
+4782,4832,42,Car Following
+4783,4833,41,Car Following
+4784,4834,42,Car Following
+4785,4835,42,Car Following
+4786,4836,42,Car Following
+4787,4837,43,Car Following
+4788,4838,43,Car Following
+4789,4839,43,Car Following
+4790,4840,43,Car Following
+4791,4841,44,Car Following
+4792,4842,44,Car Following
+4793,4843,44,Car Following
+4794,4844,44,Car Following
+4795,4845,44,Car Following
+4796,4846,43,Car Following
+4797,4847,42,Car Following
+4798,4848,42,Car Following
+4799,4849,43,Car Following
+4800,4850,43,Car Following
+4801,4851,43,Car Following
+4802,4852,43,Car Following
+4803,4853,43,Car Following
+4804,4854,42,Car Following
+4805,4855,43,Car Following
+4806,4856,43,Car Following
+4807,4857,43,Car Following
+4808,4858,43,Car Following
+4809,4859,43,Car Following
+4810,4860,42,Car Following
+4811,4861,43,Car Following
+4812,4862,42,Car Following
+4813,4863,42,Car Following
+4814,4864,42,Car Following
+4815,4865,42,Car Following
+4816,4866,41,Car Following
+4817,4867,41,Car Following
+4818,4868,41,Car Following
+4819,4869,41,Car Following
+4820,4870,41,Car Following
+4821,4871,41,Car Following
+4822,4872,41,Car Following
+4823,4873,41,Car Following
+4824,4874,41,Car Following
+4825,4875,41,Car Following
+4826,4876,42,Car Following
+4827,4877,42,Cut-In
+4828,4878,42,Cut-In
+4829,4879,43,Cut-In
+4830,4880,44,Cut-In
+4831,4881,43,Cut-In
+4832,4882,43,Cut-In
+4833,4883,43,Cut-In
+4834,4884,43,Cut-In
+4835,4885,43,Cut-In
+4836,4886,43,Cut-In
+4837,4887,42,Cut-In
+4838,4888,42,Cut-In
+4839,4889,41,Cut-In
+4840,4890,41,Cut-In
+4841,4891,41,Cut-In
+4842,4892,42,Cut-In
+4843,4893,42,Cut-In
+4844,4894,41,Cut-In
+4845,4895,41,Cut-In
+4846,4896,41,Cut-In
+4847,4897,41,Cut-In
+4848,4898,41,Cut-In
+4849,4899,41,Cut-In
+4850,4900,41,Cut-In
+4851,4901,41,Cut-In
+4852,4902,40,Cut-In
+4853,4903,40,Cut-In
+4854,4904,40,Cut-In
+4855,4905,40,Cut-In
+4856,4906,40,Cut-In
+4857,4907,39,Cut-In
+4858,4908,40,Cut-In
+4859,4909,41,Cut-In
+4860,4910,41,Cut-In
+4861,4911,41,Cut-In
+4862,4912,42,Cut-In
+4863,4913,43,Cut-In
+4864,4914,43,Cut-In
+4865,4915,43,Cut-In
+4866,4916,43,Cut-In
+4867,4917,43,Cut-In
+4868,4918,42,Cut-In
+4869,4919,42,Cut-In
+4870,4920,42,Cut-In
+4871,4921,42,Cut-In
+4872,4922,42,Cut-In
+4873,4923,43,Cut-In
+4874,4924,43,Cut-In
+4875,4925,43,Cut-In
+4876,4926,43,Cut-In
+4877,4927,43,Cut-In
+4878,4928,44,Cut-In
+4879,4929,44,Cut-In
+4880,4930,44,Cut-In
+4881,4931,44,Cut-In
+4882,4932,44,Cut-In
+4883,4933,43,Cut-In
+4884,4934,44,Cut-In
+4885,4935,43,Cut-In
+4886,4936,44,Cut-In
+4887,4937,43,Cut-In
+4888,4938,43,Cut-In
+4889,4939,44,Cut-In
+4890,4940,44,Cut-In
+4891,4941,44,Cut-In
+4892,4942,44,Cut-In
+4893,4943,44,Cut-In
+4894,4944,44,Cut-In
+4895,4945,44,Cut-In
+4896,4946,44,Cut-In
+4897,4947,43,Cut-In
+4898,4948,43,Cut-In
+4899,4949,42,Cut-In
+4900,4950,42,Cut-In
+4901,4951,43,Cut-In
+4902,4952,43,Cut-In
+4903,4953,44,Cut-In
+4904,4954,44,Cut-In
+4905,4955,45,Cut-In
+4906,4956,45,Cut-In
+4907,4957,44,Car Following
+4908,4958,44,Car Following
+4909,4959,44,Car Following
+4910,4960,44,Car Following
+4911,4961,43,Car Following
+4912,4962,43,Car Following
+4913,4963,43,Car Following
+4914,4964,43,Car Following
+4915,4965,43,Car Following
+4916,4966,43,Car Following
+4917,4967,43,Car Following
+4918,4968,44,Car Following
+4919,4969,43,Car Following
+4920,4970,43,Car Following
+4921,4971,43,Car Following
+4922,4972,43,Car Following
+4923,4973,44,Car Following
+4924,4974,45,Car Following
+4925,4975,45,Car Following
+4926,4976,45,Car Following
+4927,4977,45,Car Following
+4928,4978,45,Car Following
+4929,4979,45,Car Following
+4930,4980,45,Cut-In
+4931,4981,45,Cut-In
+4932,4982,45,Cut-In
+4933,4983,44,Cut-In
+4934,4984,44,Cut-In
+4935,4985,43,Cut-In
+4936,4986,44,Cut-In
+4937,4987,43,Cut-In
+4938,4988,42,Cut-In
+4939,4989,43,Cut-In
+4940,4990,43,Cut-In
+4941,4991,43,Cut-In
+4942,4992,43,Cut-In
+4943,4993,43,Cut-In
+4944,4994,44,Cut-In
+4945,4995,44,Cut-In
+4946,4996,44,Cut-In
+4947,4997,43,Cut-In
+4948,4998,43,Cut-In
+4949,4999,44,Cut-In
+4950,5000,44,Cut-In
+4951,5001,44,Cut-In
+4952,5002,44,Cut-In
+4953,5003,44,Cut-In
+4954,5004,44,Cut-In
+4955,5005,44,Cut-In
+4956,5006,42,Cut-In
+4957,5007,42,Cut-In
+4958,5008,42,Cut-In
+4959,5009,41,Cut-In
+4960,5010,42,Cut-In
+4961,5011,42,Cut-In
+4962,5012,42,Cut-In
+4963,5013,43,Cut-In
+4964,5014,43,Cut-In
+4965,5015,43,Cut-In
+4966,5016,43,Cut-In
+4967,5017,43,Cut-In
+4968,5018,43,Cut-In
+4969,5019,43,Cut-In
+4970,5020,43,Cut-In
+4971,5021,43,Cut-In
+4972,5022,43,Cut-In
+4973,5023,43,Cut-In
+4974,5024,43,Cut-In
+4975,5025,43,Cut-In
+4976,5026,42,Cut-In
+4977,5027,42,Cut-In
+4978,5028,41,Cut-In
+4979,5029,41,Cut-In
+4980,5030,42,Car Following
+4981,5031,42,Car Following
+4982,5032,42,Car Following
+4983,5033,42,Car Following
+4984,5034,42,Car Following
+4985,5035,42,Car Following
+4986,5036,42,Car Following
+4987,5037,43,Car Following
+4988,5038,43,Car Following
+4989,5039,43,Car Following
+4990,5040,43,Car Following
+4991,5041,42,Car Following
+4992,5042,42,Car Following
+4993,5043,42,Car Following
+4994,5044,40,Car Following
+4995,5045,39,Car Following
+4996,5046,39,Car Following
+4997,5047,39,Car Following
+4998,5048,40,Car Following
+4999,5049,40,Car Following
+5000,5050,41,Car Following
+5001,5051,40,Car Following
+5002,5052,40,Car Following
+5003,5053,40,Car Following
+5004,5054,40,Car Following
+5005,5055,40,Car Following
+5006,5056,40,Car Following
+5007,5057,40,Car Following
+5008,5058,40,Car Following
+5009,5059,40,Car Following
+5010,5060,40,Car Following
+5011,5061,40,Car Following
+5012,5062,40,Car Following
+5013,5063,40,Car Following
+5014,5064,41,Car Following
+5015,5065,41,Car Following
+5016,5066,41,Car Following
+5017,5067,41,Car Following
+5018,5068,42,Car Following
+5019,5069,42,Car Following
+5020,5070,42,Car Following
+5021,5071,42,Car Following
+5022,5072,42,Car Following
+5023,5073,42,Car Following
+5024,5074,44,Car Following
+5025,5075,44,Cut-In
+5026,5076,44,Cut-In
+5027,5077,44,Cut-In
+5028,5078,44,Cut-In
+5029,5079,43,Cut-In
+5030,5080,44,Cut-In
+5031,5081,44,Cut-In
+5032,5082,43,Cut-In
+5033,5083,41,Cut-In
+5034,5084,41,Cut-In
+5035,5085,42,Cut-In
+5036,5086,42,Cut-In
+5037,5087,42,Cut-In
+5038,5088,42,Cut-In
+5039,5089,43,Cut-In
+5040,5090,43,Cut-In
+5041,5091,43,Cut-In
+5042,5092,43,Cut-In
+5043,5093,43,Cut-In
+5044,5094,44,Cut-In
+5045,5095,43,Cut-In
+5046,5096,43,Cut-In
+5047,5097,43,Cut-In
+5048,5098,42,Cut-In
+5049,5099,42,Cut-In
+5050,5100,41,Cut-In
+5051,5101,43,Cut-In
+5052,5102,43,Cut-In
+5053,5103,43,Cut-In
+5054,5104,44,Cut-In
+5055,5105,45,Cut-In
+5056,5106,45,Cut-In
+5057,5107,45,Cut-In
+5058,5108,44,Cut-In
+5059,5109,44,Cut-In
+5060,5110,44,Cut-In
+5061,5111,42,Cut-In
+5062,5112,43,Cut-In
+5063,5113,42,Cut-In
+5064,5114,42,Cut-In
+5065,5115,43,Cut-In
+5066,5116,43,Cut-In
+5067,5117,43,Cut-In
+5068,5118,43,Cut-In
+5069,5119,43,Cut-In
+5070,5120,43,Cut-In
+5071,5121,43,Cut-In
+5072,5122,43,Cut-In
+5073,5123,43,Cut-In
+5074,5124,44,Cut-In
+5075,5125,45,Cut-In
+5076,5126,44,Cut-In
+5077,5127,45,Cut-In
+5078,5128,45,Cut-In
+5079,5129,45,Cut-In
+5080,5130,45,Cut-In
+5081,5131,45,Car Following
+5082,5132,46,Car Following
+5083,5133,46,Car Following
+5084,5134,46,Car Following
+5085,5135,46,Car Following
+5086,5136,47,Car Following
+5087,5137,46,Car Following
+5088,5138,45,Car Following
+5089,5139,45,Car Following
+5090,5140,45,Car Following
+5091,5141,45,Car Following
+5092,5142,45,Car Following
+5093,5143,45,Car Following
+5094,5144,45,Car Following
+5095,5145,45,Car Following
+5096,5146,45,Car Following
+5097,5147,45,Car Following
+5098,5148,46,Car Following
+5099,5149,45,Car Following
+5100,5150,45,Car Following
+5101,5151,45,Car Following
+5102,5152,46,Car Following
+5103,5153,45,Car Following
+5104,5154,45,Car Following
+5105,5155,46,Car Following
+5106,5156,46,Car Following
+5107,5157,46,Car Following
+5108,5158,46,Car Following
+5109,5159,47,Car Following
+5110,5160,46,Car Following
+5111,5161,45,Car Following
+5112,5162,45,Car Following
+5113,5163,45,Car Following
+5114,5164,45,Car Following
+5115,5165,45,Car Following
+5116,5166,45,Car Following
+5117,5167,45,Car Following
+5118,5168,46,Car Following
+5119,5169,46,Car Following
+5120,5170,46,Car Following
+5121,5171,46,Car Following
+5122,5172,45,Car Following
+5123,5173,45,Car Following
+5124,5174,46,Car Following
+5125,5175,46,Car Following
+5126,5176,46,Car Following
+5127,5177,46,Car Following
+5128,5178,46,Car Following
+5129,5179,46,Car Following
+5130,5180,47,Car Following
+5131,5181,47,Car Following
+5132,5182,46,Car Following
+5133,5183,46,Car Following
+5134,5184,47,Car Following
+5135,5185,47,Car Following
+5136,5186,48,Car Following
+5137,5187,46,Car Following
+5138,5188,47,Car Following
+5139,5189,47,Car Following
+5140,5190,47,Car Following
+5141,5191,47,Car Following
+5142,5192,47,Car Following
+5143,5193,47,Car Following
+5144,5194,47,Car Following
+5145,5195,47,Car Following
+5146,5196,47,Car Following
+5147,5197,47,Car Following
+5148,5198,47,Car Following
+5149,5199,46,Car Following
+5150,5200,47,Car Following
+5151,5201,48,Car Following
+5152,5202,48,Car Following
+5153,5203,48,Car Following
+5154,5204,47,Car Following
+5155,5205,47,Car Following
+5156,5206,47,Car Following
+5157,5207,47,Car Following
+5158,5208,46,Car Following
+5159,5209,46,Car Following
+5160,5210,46,Car Following
+5161,5211,46,Car Following
+5162,5212,46,Car Following
+5163,5213,46,Car Following
+5164,5214,45,Car Following
+5165,5215,46,Car Following
+5166,5216,48,Car Following
+5167,5217,48,Car Following
+5168,5218,49,Car Following
+5169,5219,49,Car Following
+5170,5220,50,Car Following
+5171,5221,50,Car Following
+5172,5222,50,Car Following
+5173,5223,50,Car Following
+5174,5224,50,Car Following
+5175,5225,49,Car Following
+5176,5226,49,Car Following
+5177,5227,49,Car Following
+5178,5228,49,Car Following
+5179,5229,49,Car Following
+5180,5230,50,Car Following
+5181,5231,50,Car Following
+5182,5232,51,Car Following
+5183,5233,51,Car Following
+5184,5234,50,Car Following
+5185,5235,50,Car Following
+5186,5236,50,Car Following
+5187,5237,51,Car Following
+5188,5238,51,Car Following
+5189,5239,50,Car Following
+5190,5240,49,Car Following
+5191,5241,49,Car Following
+5192,5242,49,Car Following
+5193,5243,49,Car Following
+5194,5244,50,Car Following
+5195,5245,49,Car Following
+5196,5246,49,Car Following
+5197,5247,49,Car Following
+5198,5248,49,Car Following
+5199,5249,48,Car Following
+5200,5250,49,Car Following
+5201,5251,49,Car Following
+5202,5252,49,Car Following
+5203,5253,49,Car Following
+5204,5254,48,Car Following
+5205,5255,48,Car Following
+5206,5256,48,Car Following
+5207,5257,49,Car Following
+5208,5258,48,Car Following
+5209,5259,47,Car Following
+5210,5260,48,Car Following
+5211,5261,48,Car Following
+5212,5262,48,Car Following
+5213,5263,48,Car Following
+5214,5264,48,Car Following
+5215,5265,48,Car Following
+5216,5266,48,Car Following
+5217,5267,48,Car Following
+5218,5268,48,Cut-In
+5219,5269,48,Cut-In
+5220,5270,48,Cut-In
+5221,5271,48,Cut-In
+5222,5272,48,Cut-In
+5223,5273,48,Cut-In
+5224,5274,48,Cut-In
+5225,5275,48,Cut-In
+5226,5276,47,Cut-In
+5227,5277,48,Cut-In
+5228,5278,49,Cut-In
+5229,5279,50,Cut-In
+5230,5280,51,Cut-In
+5231,5281,50,Cut-In
+5232,5282,50,Cut-In
+5233,5283,50,Cut-In
+5234,5284,50,Cut-In
+5235,5285,50,Cut-In
+5236,5286,50,Cut-In
+5237,5287,50,Cut-In
+5238,5288,50,Cut-In
+5239,5289,49,Cut-In
+5240,5290,49,Cut-In
+5241,5291,50,Cut-In
+5242,5292,50,Cut-In
+5243,5293,50,Cut-In
+5244,5294,51,Cut-In
+5245,5295,50,Cut-In
+5246,5296,49,Cut-In
+5247,5297,51,Cut-In
+5248,5298,50,Cut-In
+5249,5299,50,Cut-In
+5250,5300,50,Cut-In
+5251,5301,51,Cut-In
+5252,5302,51,Cut-In
+5253,5303,51,Cut-In
+5254,5304,52,Cut-In
+5255,5305,52,Cut-In
+5256,5306,52,Cut-In
+5257,5307,52,Cut-In
+5258,5308,52,Cut-In
+5259,5309,52,Cut-In
+5260,5310,52,Cut-In
+5261,5311,52,Cut-In
+5262,5312,51,Cut-In
+5263,5313,52,Cut-In
+5264,5314,52,Cut-In
+5265,5315,52,Cut-In
+5266,5316,51,Cut-In
+5267,5317,51,Cut-In
+5268,5318,51,Cut-In
+5269,5319,52,Cut-In
+5270,5320,52,Cut-In
+5271,5321,52,Cut-In
+5272,5322,51,Cut-In
+5273,5323,51,Car Following
+5274,5324,52,Car Following
+5275,5325,53,Car Following
+5276,5326,52,Car Following
+5277,5327,52,Car Following
+5278,5328,52,Car Following
+5279,5329,51,Car Following
+5280,5330,52,Car Following
+5281,5331,52,Car Following
+5282,5332,52,Car Following
+5283,5333,52,Car Following
+5284,5334,52,Car Following
+5285,5335,51,Car Following
+5286,5336,53,Car Following
+5287,5337,53,Car Following
+5288,5338,53,Car Following
+5289,5339,54,Car Following
+5290,5340,54,Car Following
+5291,5341,54,Car Following
+5292,5342,55,Car Following
+5293,5343,55,Car Following
+5294,5344,55,Car Following
+5295,5345,55,Car Following
+5296,5346,55,Car Following
+5297,5347,54,Car Following
+5298,5348,54,Car Following
+5299,5349,54,Car Following
+5300,5350,53,Car Following
+5301,5351,54,Car Following
+5302,5352,54,Car Following
+5303,5353,53,Car Following
+5304,5354,54,Car Following
+5305,5355,54,Car Following
+5306,5356,54,Car Following
+5307,5357,54,Car Following
+5308,5358,55,Car Following
+5309,5359,56,Car Following
+5310,5360,56,Car Following
+5311,5361,56,Car Following
+5312,5362,56,Car Following
+5313,5363,55,Car Following
+5314,5364,56,Car Following
+5315,5365,55,Car Following
+5316,5366,54,Car Following
+5317,5367,54,Car Following
+5318,5368,54,Car Following
+5319,5369,53,Car Following
+5320,5370,53,Car Following
+5321,5371,53,Car Following
+5322,5372,53,Car Following
+5323,5373,53,Car Following
+5324,5374,54,Car Following
+5325,5375,55,Car Following
+5326,5376,56,Car Following
+5327,5377,57,Car Following
+5328,5378,57,Car Following
+5329,5379,57,Car Following
+5330,5380,57,Car Following
+5331,5381,57,Car Following
+5332,5382,56,Car Following
+5333,5383,57,Car Following
+5334,5384,57,Car Following
+5335,5385,57,Car Following
+5336,5386,57,Car Following
+5337,5387,57,Car Following
+5338,5388,56,Car Following
+5339,5389,56,Car Following
+5340,5390,56,Car Following
+5341,5391,56,Car Following
+5342,5392,56,Car Following
+5343,5393,56,Car Following
+5344,5394,57,Car Following
+5345,5395,58,Car Following
+5346,5396,58,Car Following
+5347,5397,58,Car Following
+5348,5398,58,Car Following
+5349,5399,57,Car Following
+5350,5400,57,Car Following
+5351,5401,57,Car Following
+5352,5402,58,Car Following
+5353,5403,58,Car Following
+5354,5404,59,Car Following
+5355,5405,59,Car Following
+5356,5406,60,Car Following
+5357,5407,60,Car Following
+5358,5408,59,Car Following
+5359,5409,60,Car Following
+5360,5410,59,Car Following
+5361,5411,59,Car Following
+5362,5412,57,Car Following
+5363,5413,57,Car Following
+5364,5414,57,Car Following
+5365,5415,57,Car Following
+5366,5416,57,Car Following
+5367,5417,57,Car Following
+5368,5418,57,Car Following
+5369,5419,56,Car Following
+5370,5420,56,Car Following
+5371,5421,57,Car Following
+5372,5422,58,Car Following
+5373,5423,58,Car Following
+5374,5424,58,Car Following
+5375,5425,58,Car Following
+5376,5426,58,Car Following
+5377,5427,56,Car Following
+5378,5428,56,Car Following
+5379,5429,56,Car Following
+5380,5430,56,Car Following
+5381,5431,57,Car Following
+5382,5432,57,Car Following
+5383,5433,56,Car Following
+5384,5434,57,Car Following
+5385,5435,57,Car Following
+5386,5436,58,Car Following
+5387,5437,58,Car Following
+5388,5438,58,Car Following
+5389,5439,58,Car Following
+5390,5440,59,Car Following
+5391,5441,58,Car Following
+5392,5442,58,Car Following
+5393,5443,58,Car Following
+5394,5444,58,Car Following
+5395,5445,58,Car Following
+5396,5446,58,Car Following
+5397,5447,57,Car Following
+5398,5448,57,Car Following
+5399,5449,58,Car Following
+5400,5450,58,Car Following
+5401,5451,58,Car Following
+5402,5452,58,Car Following
+5403,5453,58,Car Following
+5404,5454,59,Car Following
+5405,5455,59,Car Following
+5406,5456,58,Car Following
+5407,5457,58,Car Following
+5408,5458,58,Car Following
+5409,5459,58,Car Following
+5410,5460,58,Car Following
+5411,5461,58,Car Following
+5412,5462,57,Car Following
+5413,5463,57,Car Following
+5414,5464,56,Car Following
+5415,5465,56,Car Following
+5416,5466,56,Car Following
+5417,5467,56,Car Following
+5418,5468,56,Car Following
+5419,5469,56,Car Following
+5420,5470,56,Car Following
+5421,5471,56,Car Following
+5422,5472,57,Car Following
+5423,5473,57,Car Following
+5424,5474,57,Car Following
+5425,5475,58,Car Following
+5426,5476,58,Car Following
+5427,5477,57,Car Following
+5428,5478,57,Car Following
+5429,5479,57,Car Following
+5430,5480,56,Car Following
+5431,5481,56,Car Following
+5432,5482,56,Car Following
+5433,5483,56,Car Following
+5434,5484,54,Car Following
+5435,5485,55,Car Following
+5436,5486,55,Car Following
+5437,5487,55,Car Following
+5438,5488,56,Car Following
+5439,5489,56,Car Following
+5440,5490,54,Car Following
+5441,5491,54,Car Following
+5442,5492,54,Car Following
+5443,5493,54,Car Following
+5444,5494,54,Car Following
+5445,5495,54,Car Following
+5446,5496,54,Car Following
+5447,5497,54,Car Following
+5448,5498,54,Car Following
+5449,5499,54,Car Following
+5450,5500,54,Car Following
+5451,5501,53,Car Following
+5452,5502,55,Car Following
+5453,5503,55,Car Following
+5454,5504,56,Car Following
+5455,5505,57,Car Following
+5456,5506,57,Car Following
+5457,5507,57,Car Following
+5458,5508,56,Car Following
+5459,5509,56,Car Following
+5460,5510,57,Car Following
+5461,5511,57,Car Following
+5462,5512,56,Car Following
+5463,5513,56,Car Following
+5464,5514,56,Car Following
+5465,5515,56,Car Following
+5466,5516,57,Car Following
+5467,5517,57,Car Following
+5468,5518,57,Car Following
+5469,5519,57,Car Following
+5470,5520,57,Car Following
+5471,5521,56,Car Following
+5472,5522,56,Car Following
+5473,5523,57,Car Following
+5474,5524,57,Car Following
+5475,5525,57,Car Following
+5476,5526,57,Car Following
+5477,5527,57,Car Following
+5478,5528,57,Car Following
+5479,5529,56,Car Following
+5480,5530,56,Car Following
+5481,5531,56,Car Following
+5482,5532,57,Car Following
+5483,5533,57,Car Following
+5484,5534,57,Car Following
+5485,5535,57,Car Following
+5486,5536,57,Car Following
+5487,5537,58,Car Following
+5488,5538,58,Car Following
+5489,5539,58,Car Following
+5490,5540,58,Car Following
+5491,5541,57,Car Following
+5492,5542,57,Car Following
+5493,5543,56,Car Following
+5494,5544,56,Car Following
+5495,5545,55,Car Following
+5496,5546,55,Car Following
+5497,5547,55,Car Following
+5498,5548,55,Car Following
+5499,5549,56,Car Following
+5500,5550,56,Car Following
+5501,5551,56,Car Following
+5502,5552,55,Car Following
+5503,5553,55,Car Following
+5504,5554,55,Car Following
+5505,5555,55,Car Following
+5506,5556,54,Car Following
+5507,5557,56,Car Following
+5508,5558,56,Car Following
+5509,5559,58,Car Following
+5510,5560,58,Car Following
+5511,5561,57,Car Following
+5512,5562,57,Car Following
+5513,5563,56,Car Following
+5514,5564,56,Car Following
+5515,5565,56,Car Following
+5516,5566,57,Car Following
+5517,5567,57,Car Following
+5518,5568,57,Car Following
+5519,5569,57,Car Following
+5520,5570,57,Car Following
+5521,5571,57,Car Following
+5522,5572,57,Car Following
+5523,5573,57,Car Following
+5524,5574,57,Car Following
+5525,5575,57,Car Following
+5526,5576,58,Car Following
+5527,5577,57,Car Following
+5528,5578,56,Car Following
+5529,5579,56,Car Following
+5530,5580,56,Car Following
+5531,5581,56,Car Following
+5532,5582,56,Car Following
+5533,5583,55,Car Following
+5534,5584,55,Car Following
+5535,5585,55,Car Following
+5536,5586,56,Car Following
+5537,5587,56,Car Following
+5538,5588,56,Car Following
+5539,5589,56,Car Following
+5540,5590,56,Car Following
+5541,5591,56,Car Following
+5542,5592,56,Car Following
+5543,5593,57,Car Following
+5544,5594,56,Car Following
+5545,5595,56,Car Following
+5546,5596,55,Car Following
+5547,5597,55,Car Following
+5548,5598,56,Car Following
+5549,5599,56,Car Following
+5550,5600,56,Car Following
+5551,5601,57,Car Following
+5552,5602,57,Car Following
+5553,5603,57,Car Following
+5554,5604,57,Car Following
+5555,5605,57,Car Following
+5556,5606,57,Car Following
+5557,5607,57,Cut-In
+5558,5608,56,Cut-In
+5559,5609,56,Cut-In
+5560,5610,55,Cut-In
+5561,5611,55,Cut-In
+5562,5612,56,Cut-In
+5563,5613,56,Cut-In
+5564,5614,56,Cut-In
+5565,5615,56,Cut-In
+5566,5616,56,Cut-In
+5567,5617,55,Cut-In
+5568,5618,54,Cut-In
+5569,5619,54,Cut-In
+5570,5620,54,Cut-In
+5571,5621,54,Cut-In
+5572,5622,54,Cut-In
+5573,5623,55,Cut-In
+5574,5624,55,Cut-In
+5575,5625,55,Cut-In
+5576,5626,55,Cut-In
+5577,5627,55,Cut-In
+5578,5628,54,Cut-In
+5579,5629,55,Cut-In
+5580,5630,55,Cut-In
+5581,5631,55,Cut-In
+5582,5632,55,Cut-In
+5583,5633,55,Cut-In
+5584,5634,55,Cut-In
+5585,5635,55,Cut-In
+5586,5636,53,Cut-In
+5587,5637,54,Cut-In
+5588,5638,55,Cut-In
+5589,5639,56,Cut-In
+5590,5640,55,Cut-In
+5591,5641,56,Cut-In
+5592,5642,56,Cut-In
+5593,5643,56,Cut-In
+5594,5644,56,Cut-In
+5595,5645,56,Cut-In
+5596,5646,56,Cut-In
+5597,5647,56,Cut-In
+5598,5648,56,Cut-In
+5599,5649,57,Cut-In
+5600,5650,55,Cut-In
+5601,5651,55,Cut-In
+5602,5652,55,Cut-In
+5603,5653,55,Cut-In
+5604,5654,55,Cut-In
+5605,5655,56,Cut-In
+5606,5656,56,Cut-In
+5607,5657,56,Cut-In
+5608,5658,56,Cut-In
+5609,5659,56,Cut-In
+5610,5660,56,Cut-In
+5611,5661,56,Cut-In
+5612,5662,56,Cut-In
+5613,5663,56,Cut-In
+5614,5664,57,Cut-In
+5615,5665,57,Cut-In
+5616,5666,56,Cut-In
+5617,5667,54,Cut-In
+5618,5668,54,Cut-In
+5619,5669,54,Cut-In
+5620,5670,54,Car Following
+5621,5671,55,Car Following
+5622,5672,55,Car Following
+5623,5673,55,Car Following
+5624,5674,55,Car Following
+5625,5675,56,Car Following
+5626,5676,57,Car Following
+5627,5677,58,Car Following
+5628,5678,58,Car Following
+5629,5679,58,Car Following
+5630,5680,58,Car Following
+5631,5681,58,Car Following
+5632,5682,58,Car Following
+5633,5683,57,Car Following
+5634,5684,57,Car Following
+5635,5685,57,Car Following
+5636,5686,58,Car Following
+5637,5687,58,Car Following
+5638,5688,58,Car Following
+5639,5689,58,Car Following
+5640,5690,59,Car Following
+5641,5691,59,Car Following
+5642,5692,60,Car Following
+5643,5693,60,Car Following
+5644,5694,60,Car Following
+5645,5695,60,Car Following
+5646,5696,58,Car Following
+5647,5697,59,Car Following
+5648,5698,60,Car Following
+5649,5699,60,Car Following
+5650,5700,60,Car Following
+5651,5701,60,Car Following
+5652,5702,60,Car Following
+5653,5703,60,Car Following
+5654,5704,60,Car Following
+5655,5705,60,Car Following
+5656,5706,59,Car Following
+5657,5707,59,Car Following
+5658,5708,58,Car Following
+5659,5709,59,Car Following
+5660,5710,59,Car Following
+5661,5711,58,Car Following
+5662,5712,58,Car Following
+5663,5713,58,Car Following
+5664,5714,59,Car Following
+5665,5715,59,Car Following
+5666,5716,59,Car Following
+5667,5717,60,Car Following
+5668,5718,60,Car Following
+5669,5719,60,Car Following
+5670,5720,60,Car Following
+5671,5721,60,Car Following
+5672,5722,60,Car Following
+5673,5723,60,Car Following
+5674,5724,59,Car Following
+5675,5725,59,Car Following
+5676,5726,59,Car Following
+5677,5727,57,Car Following
+5678,5728,57,Car Following
+5679,5729,56,Car Following
+5680,5730,57,Car Following
+5681,5731,57,Car Following
+5682,5732,57,Car Following
+5683,5733,57,Car Following
+5684,5734,57,Car Following
+5685,5735,57,Car Following
+5686,5736,57,Car Following
+5687,5737,58,Car Following
+5688,5738,58,Car Following
+5689,5739,57,Car Following
+5690,5740,57,Car Following
+5691,5741,57,Car Following
+5692,5742,57,Car Following
+5693,5743,57,Car Following
+5694,5744,58,Car Following
+5695,5745,57,Car Following
+5696,5746,56,Car Following
+5697,5747,56,Car Following
+5698,5748,56,Car Following
+5699,5749,56,Car Following
+5700,5750,56,Car Following
+5701,5751,56,Car Following
+5702,5752,56,Car Following
+5703,5753,56,Car Following
+5704,5754,56,Car Following
+5705,5755,56,Car Following
+5706,5756,55,Car Following
+5707,5757,55,Car Following
+5708,5758,55,Car Following
+5709,5759,55,Car Following
+5710,5760,55,Car Following
+5711,5761,52,Car Following
+5712,5762,52,Car Following
+5713,5763,53,Car Following
+5714,5764,53,Car Following
+5715,5765,53,Car Following
+5716,5766,54,Car Following
+5717,5767,54,Car Following
+5718,5768,54,Car Following
+5719,5769,54,Car Following
+5720,5770,54,Car Following
+5721,5771,54,Car Following
+5722,5772,55,Car Following
+5723,5773,55,Car Following
+5724,5774,55,Car Following
+5725,5775,55,Car Following
+5726,5776,55,Car Following
+5727,5777,55,Car Following
+5728,5778,55,Car Following
+5729,5779,55,Car Following
+5730,5780,55,Car Following
+5731,5781,55,Car Following
+5732,5782,55,Car Following
+5733,5783,55,Car Following
+5734,5784,55,Car Following
+5735,5785,55,Car Following
+5736,5786,55,Car Following
+5737,5787,54,Car Following
+5738,5788,55,Car Following
+5739,5789,54,Car Following
+5740,5790,54,Car Following
+5741,5791,54,Car Following
+5742,5792,54,Car Following
+5743,5793,54,Car Following
+5744,5794,54,Car Following
+5745,5795,54,Car Following
+5746,5796,55,Car Following
+5747,5797,55,Car Following
+5748,5798,55,Car Following
+5749,5799,55,Car Following
+5750,5800,56,Car Following
+5751,5801,56,Car Following
+5752,5802,56,Car Following
+5753,5803,57,Car Following
+5754,5804,56,Car Following
+5755,5805,56,Car Following
+5756,5806,56,Car Following
+5757,5807,55,Car Following
+5758,5808,54,Car Following
+5759,5809,54,Car Following
+5760,5810,54,Car Following
+5761,5811,54,Car Following
+5762,5812,54,Car Following
+5763,5813,54,Car Following
+5764,5814,54,Car Following
+5765,5815,54,Car Following
+5766,5816,54,Car Following
+5767,5817,54,Car Following
+5768,5818,54,Car Following
+5769,5819,54,Car Following
+5770,5820,54,Car Following
+5771,5821,54,Car Following
+5772,5822,54,Car Following
+5773,5823,53,Car Following
+5774,5824,53,Car Following
+5775,5825,55,Car Following
+5776,5826,55,Car Following
+5777,5827,57,Car Following
+5778,5828,56,Car Following
+5779,5829,57,Car Following
+5780,5830,57,Car Following
+5781,5831,57,Car Following
+5782,5832,57,Car Following
+5783,5833,57,Car Following
+5784,5834,57,Car Following
+5785,5835,57,Car Following
+5786,5836,57,Car Following
+5787,5837,57,Car Following
+5788,5838,56,Car Following
+5789,5839,56,Car Following
+5790,5840,56,Car Following
+5791,5841,56,Car Following
+5792,5842,56,Car Following
+5793,5843,56,Car Following
+5794,5844,56,Car Following
+5795,5845,56,Car Following
+5796,5846,56,Car Following
+5797,5847,56,Car Following
+5798,5848,56,Car Following
+5799,5849,56,Car Following
+5800,5850,56,Car Following
+5801,5851,56,Car Following
+5802,5852,56,Car Following
+5803,5853,56,Car Following
+5804,5854,55,Car Following
+5805,5855,55,Car Following
+5806,5856,54,Car Following
+5807,5857,55,Car Following
+5808,5858,55,Car Following
+5809,5859,55,Car Following
+5810,5860,55,Car Following
+5811,5861,55,Car Following
+5812,5862,55,Car Following
+5813,5863,55,Car Following
+5814,5864,54,Car Following
+5815,5865,55,Car Following
+5816,5866,55,Car Following
+5817,5867,55,Car Following
+5818,5868,55,Car Following
+5819,5869,56,Car Following
+5820,5870,57,Car Following
+5821,5871,57,Car Following
+5822,5872,57,Car Following
+5823,5873,57,Car Following
+5824,5874,57,Car Following
+5825,5875,57,Car Following
+5826,5876,58,Car Following
+5827,5877,58,Car Following
+5828,5878,60,Car Following
+5829,5879,60,Car Following
+5830,5880,60,Car Following
+5831,5881,61,Car Following
+5832,5882,61,Car Following
+5833,5883,60,Car Following
+5834,5884,60,Car Following
+5835,5885,60,Car Following
+5836,5886,60,Car Following
+5837,5887,60,Car Following
+5838,5888,59,Car Following
+5839,5889,59,Car Following
+5840,5890,59,Car Following
+5841,5891,59,Car Following
+5842,5892,59,Car Following
+5843,5893,59,Car Following
+5844,5894,59,Car Following
+5845,5895,59,Car Following
+5846,5896,58,Car Following
+5847,5897,57,Car Following
+5848,5898,58,Car Following
+5849,5899,58,Car Following
+5850,5900,58,Car Following
+5851,5901,57,Car Following
+5852,5902,57,Car Following
+5853,5903,57,Car Following
+5854,5904,57,Car Following
+5855,5905,58,Car Following
+5856,5906,59,Car Following
+5857,5907,59,Car Following
+5858,5908,60,Car Following
+5859,5909,60,Car Following
+5860,5910,60,Car Following
+5861,5911,60,Car Following
+5862,5912,60,Car Following
+5863,5913,60,Car Following
+5864,5914,60,Car Following
+5865,5915,60,Car Following
+5866,5916,60,Car Following
+5867,5917,60,Car Following
+5868,5918,60,Car Following
+5869,5919,60,Car Following
+5870,5920,60,Car Following
+5871,5921,60,Car Following
+5872,5922,61,Car Following
+5873,5923,61,Car Following
+5874,5924,61,Car Following
+5875,5925,61,Car Following
+5876,5926,60,Car Following
+5877,5927,60,Car Following
+5878,5928,60,Car Following
+5879,5929,60,Car Following
+5880,5930,60,Car Following
+5881,5931,59,Car Following
+5882,5932,59,Car Following
+5883,5933,60,Car Following
+5884,5934,60,Car Following
+5885,5935,60,Car Following
+5886,5936,60,Car Following
+5887,5937,59,Car Following
+5888,5938,59,Car Following
+5889,5939,59,Car Following
+5890,5940,58,Car Following
+5891,5941,58,Car Following
+5892,5942,60,Car Following
+5893,5943,60,Car Following
+5894,5944,60,Car Following
+5895,5945,60,Car Following
+5896,5946,60,Car Following
+5897,5947,60,Car Following
+5898,5948,60,Car Following
+5899,5949,60,Car Following
+5900,5950,59,Car Following
+5901,5951,59,Car Following
+5902,5952,60,Car Following
+5903,5953,60,Car Following
+5904,5954,60,Car Following
+5905,5955,60,Car Following
+5906,5956,60,Car Following
+5907,5957,60,Car Following
+5908,5958,60,Car Following
+5909,5959,60,Car Following
+5910,5960,60,Car Following
+5911,5961,58,Car Following
+5912,5962,58,Car Following
+5913,5963,57,Car Following
+5914,5964,57,Car Following
+5915,5965,56,Car Following
+5916,5966,56,Car Following
+5917,5967,56,Car Following
+5918,5968,56,Car Following
+5919,5969,57,Car Following
+5920,5970,57,Car Following
+5921,5971,57,Car Following
+5922,5972,58,Car Following
+5923,5973,58,Car Following
+5924,5974,58,Car Following
+5925,5975,58,Car Following
+5926,5976,58,Car Following
+5927,5977,58,Car Following
+5928,5978,59,Car Following
+5929,5979,59,Car Following
+5930,5980,58,Car Following
+5931,5981,58,Car Following
+5932,5982,58,Car Following
+5933,5983,58,Car Following
+5934,5984,58,Car Following
+5935,5985,59,Car Following
+5936,5986,58,Car Following
+5937,5987,58,Car Following
+5938,5988,58,Car Following
+5939,5989,58,Car Following
+5940,5990,58,Car Following
+5941,5991,58,Car Following
+5942,5992,58,Car Following
+5943,5993,57,Car Following
+5944,5994,57,Car Following
+5945,5995,57,Car Following
+5946,5996,58,Car Following
+5947,5997,58,Car Following
+5948,5998,58,Car Following
+5949,5999,57,Car Following
+5950,6000,58,Car Following
+5951,6001,58,Car Following
+5952,6002,58,Car Following
+5953,6003,58,Car Following
+5954,6004,59,Car Following
+5955,6005,59,Car Following
+5956,6006,59,Car Following
+5957,6007,59,Car Following
+5958,6008,59,Car Following
+5959,6009,59,Car Following
+5960,6010,60,Car Following
+5961,6011,60,Car Following
+5962,6012,60,Car Following
+5963,6013,60,Car Following
+5964,6014,60,Car Following
+5965,6015,60,Car Following
+5966,6016,60,Car Following
+5967,6017,60,Car Following
+5968,6018,61,Car Following
+5969,6019,60,Car Following
+5970,6020,61,Car Following
+5971,6021,61,Car Following
+5972,6022,62,Car Following
+5973,6023,62,Car Following
+5974,6024,62,Car Following
+5975,6025,62,Car Following
+5976,6026,63,Car Following
+5977,6027,64,Car Following
+5978,6028,64,Car Following
+5979,6029,64,Car Following
+5980,6030,64,Car Following
+5981,6031,64,Car Following
+5982,6032,64,Car Following
+5983,6033,64,Car Following
+5984,6034,64,Car Following
+5985,6035,64,Car Following
+5986,6036,64,Car Following
+5987,6037,63,Car Following
+5988,6038,62,Car Following
+5989,6039,61,Car Following
+5990,6040,61,Car Following
+5991,6041,61,Car Following
+5992,6042,61,Car Following
+5993,6043,60,Car Following
+5994,6044,60,Car Following
+5995,6045,62,Car Following
+5996,6046,62,Car Following
+5997,6047,62,Car Following
+5998,6048,62,Car Following
+5999,6049,62,Car Following
+6000,6050,62,Car Following
+6001,6051,63,Car Following
+6002,6052,63,Car Following
+6003,6053,64,Car Following
+6004,6054,64,Car Following
+6005,6055,64,Car Following
+6006,6056,64,Car Following
+6007,6057,62,Car Following
+6008,6058,63,Car Following
+6009,6059,64,Car Following
+6010,6060,63,Car Following
+6011,6061,63,Car Following
+6012,6062,63,Car Following
+6013,6063,63,Car Following
+6014,6064,63,Car Following
+6015,6065,63,Car Following
+6016,6066,63,Car Following
+6017,6067,63,Car Following
+6018,6068,64,Car Following
+6019,6069,63,Car Following
+6020,6070,63,Car Following
+6021,6071,63,Car Following
+6022,6072,63,Car Following
+6023,6073,63,Car Following
+6024,6074,63,Car Following
+6025,6075,62,Car Following
+6026,6076,61,Car Following
+6027,6077,61,Car Following
+6028,6078,61,Car Following
+6029,6079,61,Car Following
+6030,6080,61,Car Following
+6031,6081,61,Car Following
+6032,6082,61,Car Following
+6033,6083,61,Car Following
+6034,6084,61,Car Following
+6035,6085,61,Car Following
+6036,6086,61,Car Following
+6037,6087,61,Car Following
+6038,6088,61,Car Following
+6039,6089,61,Car Following
+6040,6090,61,Car Following
+6041,6091,61,Car Following
+6042,6092,61,Car Following
+6043,6093,61,Car Following
+6044,6094,61,Car Following
+6045,6095,61,Car Following
+6046,6096,62,Car Following
+6047,6097,62,Car Following
+6048,6098,62,Car Following
+6049,6099,61,Car Following
+6050,6100,61,Car Following
+6051,6101,62,Car Following
+6052,6102,62,Car Following
+6053,6103,62,Car Following
+6054,6104,62,Car Following
+6055,6105,62,Car Following
+6056,6106,62,Car Following
+6057,6107,62,Car Following
+6058,6108,62,Car Following
+6059,6109,61,Car Following
+6060,6110,61,Car Following
+6061,6111,61,Car Following
+6062,6112,61,Car Following
+6063,6113,61,Car Following
+6064,6114,61,Car Following
+6065,6115,61,Car Following
+6066,6116,61,Car Following
+6067,6117,61,Car Following
+6068,6118,61,Car Following
+6069,6119,61,Car Following
+6070,6120,61,Car Following
+6071,6121,59,Car Following
+6072,6122,59,Car Following
+6073,6123,59,Car Following
+6074,6124,59,Car Following
+6075,6125,59,Car Following
+6076,6126,59,Car Following
+6077,6127,58,Car Following
+6078,6128,58,Car Following
+6079,6129,58,Car Following
+6080,6130,58,Car Following
+6081,6131,58,Car Following
+6082,6132,58,Car Following
+6083,6133,58,Car Following
+6084,6134,58,Car Following
+6085,6135,58,Car Following
+6086,6136,58,Car Following
+6087,6137,58,Car Following
+6088,6138,58,Car Following
+6089,6139,58,Car Following
+6090,6140,56,Car Following
+6091,6141,56,Car Following
+6092,6142,56,Car Following
+6093,6143,56,Car Following
+6094,6144,57,Car Following
+6095,6145,57,Car Following
+6096,6146,57,Car Following
+6097,6147,57,Car Following
+6098,6148,57,Car Following
+6099,6149,56,Car Following
+6100,6150,56,Car Following
+6101,6151,56,Car Following
+6102,6152,56,Car Following
+6103,6153,56,Car Following
+6104,6154,56,Car Following
+6105,6155,56,Car Following
+6106,6156,56,Car Following
+6107,6157,56,Car Following
+6108,6158,56,Car Following
+6109,6159,55,Car Following
+6110,6160,55,Car Following
+6111,6161,55,Car Following
+6112,6162,54,Car Following
+6113,6163,54,Car Following
+6114,6164,54,Car Following
+6115,6165,54,Car Following
+6116,6166,54,Car Following
+6117,6167,54,Car Following
+6118,6168,53,Car Following
+6119,6169,53,Car Following
+6120,6170,53,Car Following
+6121,6171,53,Car Following
+6122,6172,53,Car Following
+6123,6173,53,Car Following
+6124,6174,53,Car Following
+6125,6175,53,Car Following
+6126,6176,53,Car Following
+6127,6177,53,Car Following
+6128,6178,53,Car Following
+6129,6179,53,Car Following
+6130,6180,53,Car Following
+6131,6181,53,Car Following
+6132,6182,53,Car Following
+6133,6183,53,Car Following
+6134,6184,53,Car Following
+6135,6185,53,Car Following
+6136,6186,53,Car Following
+6137,6187,53,Car Following
+6138,6188,53,Car Following
+6139,6189,52,Car Following
+6140,6190,52,Car Following
+6141,6191,52,Car Following
+6142,6192,52,Car Following
+6143,6193,52,Car Following
+6144,6194,52,Car Following
+6145,6195,52,Car Following
+6146,6196,51,Car Following
+6147,6197,50,Car Following
+6148,6198,50,Car Following
+6149,6199,50,Car Following
+6150,6200,50,Car Following
+6151,6201,50,Car Following
+6152,6202,50,Car Following
+6153,6203,50,Car Following
+6154,6204,50,Car Following
+6155,6205,50,Car Following
+6156,6206,50,Car Following
+6157,6207,51,Car Following
+6158,6208,51,Car Following
+6159,6209,50,Car Following
+6160,6210,50,Car Following
+6161,6211,50,Car Following
+6162,6212,50,Car Following
+6163,6213,50,Car Following
+6164,6214,50,Car Following
+6165,6215,50,Car Following
+6166,6216,50,Car Following
+6167,6217,50,Car Following
+6168,6218,50,Car Following
+6169,6219,50,Car Following
+6170,6220,50,Car Following
+6171,6221,50,Car Following
+6172,6222,48,Car Following
+6173,6223,48,Car Following
+6174,6224,48,Car Following
+6175,6225,48,Car Following
+6176,6226,48,Car Following
+6177,6227,48,Car Following
+6178,6228,48,Car Following
+6179,6229,48,Car Following
+6180,6230,48,Car Following
+6181,6231,47,Car Following
+6182,6232,48,Car Following
+6183,6233,48,Car Following
+6184,6234,48,Car Following
+6185,6235,48,Car Following
+6186,6236,48,Car Following
+6187,6237,47,Car Following
+6188,6238,47,Car Following
+6189,6239,47,Car Following
+6190,6240,47,Car Following
+6191,6241,47,Car Following
+6192,6242,47,Car Following
+6193,6243,47,Car Following
+6194,6244,47,Car Following
+6195,6245,47,Car Following
+6196,6246,47,Car Following
+6197,6247,47,Car Following
+6198,6248,46,Car Following
+6199,6249,46,Car Following
+6200,6250,45,Car Following
+6201,6251,45,Car Following
+6202,6252,45,Car Following
+6203,6253,45,Car Following
+6204,6254,45,Car Following
+6205,6255,45,Car Following
+6206,6256,46,Car Following
+6207,6257,46,Car Following
+6208,6258,46,Car Following
+6209,6259,46,Car Following
+6210,6260,45,Car Following
+6211,6261,45,Car Following
+6212,6262,44,Car Following
+6213,6263,44,Car Following
+6214,6264,44,Car Following
+6215,6265,44,Car Following
+6216,6266,44,Car Following
+6217,6267,44,Car Following
+6218,6268,44,Car Following
+6219,6269,44,Car Following
+6220,6270,43,Car Following
+6221,6271,43,Car Following
+6222,6272,43,Car Following
+6223,6273,42,Car Following
+6224,6274,42,Car Following
+6225,6275,42,Car Following
+6226,6276,42,Car Following
+6227,6277,42,Car Following
+6228,6278,42,Car Following
+6229,6279,42,Car Following
+6230,6280,41,Car Following
+6231,6281,41,Car Following
+6232,6282,41,Car Following
+6233,6283,41,Car Following
+6234,6284,41,Car Following
+6235,6285,41,Car Following
+6236,6286,40,Car Following
+6237,6287,40,Car Following
+6238,6288,40,Car Following
+6239,6289,40,Car Following
+6240,6290,40,Car Following
+6241,6291,40,Car Following
+6242,6292,40,Car Following
+6243,6293,40,Car Following
+6244,6294,40,Car Following
+6245,6295,40,Car Following
+6246,6296,40,Car Following
+6247,6297,40,Car Following
+6248,6298,40,Car Following
+6249,6299,40,Car Following
+6250,6300,40,Car Following
+6251,6301,39,Car Following
+6252,6302,39,Car Following
+6253,6303,39,Car Following
+6254,6304,39,Car Following
+6255,6305,39,Car Following
+6256,6306,38,Car Following
+6257,6307,38,Car Following
+6258,6308,38,Car Following
+6259,6309,38,Car Following
+6260,6310,38,Car Following
+6261,6311,37,Car Following
+6262,6312,37,Car Following
+6263,6313,37,Car Following
+6264,6314,37,Car Following
+6265,6315,37,Car Following
+6266,6316,37,Car Following
+6267,6317,37,Car Following
+6268,6318,37,Car Following
+6269,6319,37,Car Following
+6270,6320,37,Car Following
+6271,6321,37,Car Following
+6272,6322,37,Car Following
+6273,6323,37,Car Following
+6274,6324,37,Car Following
+6275,6325,37,Car Following
+6276,6326,38,Car Following
+6277,6327,38,Car Following
+6278,6328,38,Car Following
+6279,6329,38,Car Following
+6280,6330,38,Car Following
+6281,6331,37,Car Following
+6282,6332,36,Car Following
+6283,6333,36,Car Following
+6284,6334,36,Car Following
+6285,6335,35,Car Following
+6286,6336,35,Car Following
+6287,6337,35,Car Following
+6288,6338,35,Car Following
+6289,6339,35,Car Following
+6290,6340,35,Car Following
+6291,6341,35,Car Following
+6292,6342,35,Car Following
+6293,6343,35,Car Following
+6294,6344,34,Car Following
+6295,6345,34,Car Following
+6296,6346,34,Car Following
+6297,6347,34,Car Following
+6298,6348,34,Car Following
+6299,6349,34,Car Following
+6300,6350,34,Car Following
+6301,6351,34,Car Following
+6302,6352,34,Car Following
+6303,6353,33,Car Following
+6304,6354,32,Car Following
+6305,6355,31,Car Following
+6306,6356,31,Car Following
+6307,6357,31,Car Following
+6308,6358,31,Car Following
+6309,6359,31,Car Following
+6310,6360,31,Car Following
+6311,6361,31,Car Following
+6312,6362,30,Car Following
+6313,6363,30,Car Following
+6314,6364,30,Car Following
+6315,6365,30,Car Following
+6316,6366,30,Car Following
+6317,6367,30,Car Following
+6318,6368,29,Car Following
+6319,6369,29,Car Following
+6320,6370,29,Car Following
+6321,6371,29,Car Following
+6322,6372,29,Car Following
+6323,6373,29,Car Following
+6324,6374,29,Car Following
+6325,6375,29,Car Following
+6326,6376,29,Cut-In
+6327,6377,29,Cut-In
+6328,6378,28,Cut-In
+6329,6379,28,Cut-In
+6330,6380,28,Cut-In
+6331,6381,28,Cut-In
+6332,6382,26,Cut-In
+6333,6383,26,Cut-In
+6334,6384,26,Cut-In
+6335,6385,26,Cut-In
+6336,6386,26,Cut-In
+6337,6387,26,Cut-In
+6338,6388,26,Cut-In
+6339,6389,26,Cut-In
+6340,6390,26,Cut-In
+6341,6391,25,Cut-In
+6342,6392,25,Cut-In
+6343,6393,24,Cut-In
+6344,6394,24,Cut-In
+6345,6395,23,Cut-In
+6346,6396,23,Cut-In
+6347,6397,23,Cut-In
+6348,6398,23,Cut-In
+6349,6399,23,Cut-In
+6350,6400,23,Cut-In
+6351,6401,23,Cut-In
+6352,6402,23,Cut-In
+6353,6403,23,Cut-In
+6354,6404,23,Cut-In
+6355,6405,23,Cut-In
+6356,6406,22,Cut-In
+6357,6407,20,Lane Change
+6358,6408,20,Lane Change
+6359,6409,20,Lane Change
+6360,6410,20,Lane Change
+6361,6411,20,Lane Change
+6362,6412,20,Lane Change
+6363,6413,20,Lane Change
+6364,6414,20,Lane Change
+6365,6415,20,Lane Change
+6366,6416,19,Lane Change
+6367,6417,19,Lane Change
+6368,6418,19,Lane Change
+6369,6419,19,Lane Change
+6370,6420,19,Lane Change
+6371,6421,19,Lane Change
+6372,6422,19,Lane Change
+6373,6423,19,Lane Change
+6374,6424,19,Lane Change
+6375,6425,18,Lane Change
+6376,6426,18,Lane Change
+6377,6427,17,Lane Change
+6378,6428,17,Lane Change
+6379,6429,17,Lane Change
+6380,6430,17,Lane Change
+6381,6431,17,Lane Change
+6382,6432,17,Lane Change
+6383,6433,17,Lane Change
+6384,6434,16,Lane Change
+6385,6435,15,Lane Change
+6386,6436,15,Lane Change
+6387,6437,15,Lane Change
+6388,6438,15,Lane Change
+6389,6439,15,Lane Change
+6390,6440,15,Lane Change
+6391,6441,14,Lane Change
+6392,6442,14,Lane Change
+6393,6443,14,Lane Change
+6394,6444,14,Lane Change
+6395,6445,14,Lane Change
+6396,6446,14,Lane Change
+6397,6447,14,Lane Change
+6398,6448,14,Lane Change
+6399,6449,14,Lane Change
+6400,6450,14,Lane Change
+6401,6451,14,Lane Change
+6402,6452,14,Lane Change
+6403,6453,14,Lane Change
+6404,6454,14,Lane Change
+6405,6455,14,Lane Change
+6406,6456,13,Lane Change
+6407,6457,12,Lane Change
+6408,6458,12,Lane Change
+6409,6459,11,Lane Change
+6410,6460,10,Lane Change
+6411,6461,10,Lane Change
+6412,6462,10,Lane Change
+6413,6463,10,Lane Change
+6414,6464,9,Lane Change
+6415,6465,9,Lane Change
+6416,6466,9,Lane Change
+6417,6467,9,Lane Change
+6418,6468,9,Lane Change
+6419,6469,9,Lane Change
+6420,6470,9,Lane Change
+6421,6471,8,Lane Change
+6422,6472,8,Lane Change
+6423,6473,8,Car Following
+6424,6474,7,Car Following
+6425,6475,7,Car Following
+6426,6476,7,Car Following
+6427,6477,7,Car Following
+6428,6478,7,Car Following
+6429,6479,7,Car Following
+6430,6480,7,Car Following
+6431,6481,7,Car Following
+6432,6482,7,Car Following
+6433,6483,7,Car Following
+6434,6484,7,Car Following
+6435,6485,7,Car Following
+6436,6486,7,Car Following
+6437,6487,7,Car Following
+6438,6488,7,Car Following
+6439,6489,6,Car Following
+6440,6490,5,Car Following
+6441,6491,5,Car Following
+6442,6492,5,Car Following
+6443,6493,5,Car Following
+6444,6494,5,Car Following
+6445,6495,5,Car Following
+6446,6496,5,Car Following
+6447,6497,5,Car Following
+6448,6498,4,Car Following
