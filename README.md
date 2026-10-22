@@ -52,4 +52,17 @@ Ensure you have Python 3.10+ installed.
    ```
 4. The output CSV (`scenario_output.csv`) and generated GIFs (`Car_Following.gif`, `Lane_Change.gif`, `Cut-In.gif`) will be saved in the working directory.
 
-## 🏗️ Phase 2: 
+## ☁️ Phase 2: Microservices Architecture (Design & Evolution)
+
+To overcome the limitations of the monolithic approach (such as memory constraints and row-based segmentation), Phase 2 re-architects the system into a distributed, event-driven pipeline on Google Cloud Platform (GCP).
+
+### Cloud Components
+
+* **Cloud Storage (Input):** Hosts the raw NGSIM dataset, decoupling storage from compute.
+* **Data Ingestion Service:** Reads the data from Cloud Storage and streams it row-by-row into a Pub/Sub topic.
+* **Google Cloud Pub/Sub:** Acts as an asynchronous message queue, buffering data to ensure fault tolerance.
+* **Google Cloud Dataflow (Apache Beam):** Replaces the single-thread Pandas logic. It dynamically scales worker nodes to process the stream in parallel. Crucially, it replaces the rigid 50-row chunking with native time-based windowing (`beam.window.FixedWindows(5)`) using the `Global_Time` timestamp, seamlessly handling any dropped frames.
+* **Cloud Storage (Output):** Stores the detected scenarios as highly structured JSON files for downstream analytics.
+
+*(For a detailed breakdown of the Phase 2 implementation, deployment steps, and architectural comparisons, please refer to the `Phase 2.pdf` document included in this repository).*
+
