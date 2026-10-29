@@ -5,7 +5,6 @@ This project processes vehicle trajectory data from the **NGSIM (US-101)** datas
 The project was developed in two distinct phases for the *SOFE 4630U: Cloud Computing* course, demonstrating the evolution of a data processing pipeline from a localized monolithic application to a scalable, cloud-native microservices architecture.
 
 * **University:** Ontario Tech University — Canada
-* **Course:** Cloud Computing (SOFE 4630U)
 * **Professor:** Prof. Mohamed El-Darieby
 * **Authors:** Ishmeet Kaur, Brandon Ho, Gabriele Martorano and Anuj Shukla 
 
