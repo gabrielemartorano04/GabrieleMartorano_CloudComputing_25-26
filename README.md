@@ -1,4 +1,4 @@
-# 🚗 NGSIM Vehicle Trajectory Scenario Extraction
+# 🚗 NGSIM Vehicle Trajectory Scenario Extraction (A.Y. 2025-20269
 
 This project processes vehicle trajectory data from the **NGSIM (US-101)** dataset to automatically detect and classify common highway driving scenarios: **Lane Changes**, **Car-Following**, and **Cut-Ins**. 
 
