@@ -1,15 +1,11 @@
-# 🚗 NGSIM Vehicle Trajectory Scenario Extraction
+# NGSIM Vehicle Trajectory Scenario Extraction (A.Y. 2025-2026)
 
-## 📌 Project Overview
 This project processes vehicle trajectory data from the **NGSIM (US-101)** dataset to automatically detect and classify common highway driving scenarios: **Lane Changes**, **Car-Following**, and **Cut-Ins**. 
-
 The project was developed in two distinct phases for the *SOFE 4630U: Cloud Computing* course, demonstrating the evolution from a monolithic application to a cloud-native microservices architecture.
 
-**Group 12 Members:**
-* Anuj Shukla
-* Ishmeet Kaur
-* Brandon Ho
-* Gabriele Martorano
+* **University:** Ontario Tech University — Canada
+* **Professors:** Prof. Mohamed El-Darieby
+* **Authors:** Ishmeet Kaur, Brandon Ho, Ishmeet Kaur, Gabriele Martorano and Anuj Shukla 
 
 > **Note on Codebase:** The source code currently available in this repository implements the **Phase 1 (Monolithic)** architecture. The **Phase 2 (Microservices)** design is fully detailed in the accompanying documentation to illustrate how the system scales in a cloud environment.
 
