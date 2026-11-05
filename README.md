@@ -42,14 +42,6 @@ In Phase 1, the system is designed as a modular but monolithic data pipeline mea
 5. **Output:** Generates a summary CSV file with labeled scenarios and dynamic GIF visualizations tracking the ego vehicle.
 
 ### 🚀 How to Run (Phase 1)
-Ensure you have Python 3.10+ installed on your machine.
-
-1. Clone the repository and navigate to the extractor folder:
-   ```bash
-   cd "Phase 1 - Monolithic System/ngsim-scenario-extractor"
-
-
-### 🚀 How to Run (Phase 1)
 Ensure you have Python 3.10+ installed.
 
 1. Clone the repository and navigate to the extractor folder:
