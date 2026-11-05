@@ -6,7 +6,7 @@ The project was developed in two distinct phases for the *SOFE 4630U: Cloud Comp
 
 * **University:** Ontario Tech University — Canada
 * **Professor:** Prof. Mohamed El-Darieby
-* **Authors:** Ishmeet Kaur, Brandon Ho, Gabriele Martorano and Anuj Shukla 
+* **Authors:** Ishmeet Kaur, Brandon Ho, [Gabriele Martorano](https://github.com/gabrielemartorano04) and Anuj Shukla 
 
 > ⚠️ **Note on Codebase:** The source code currently available in this repository implements the **Phase 1 (Monolithic)** architecture. The **Phase 2 (Microservices)** design is fully detailed in the accompanying documentation to illustrate how the system scales in a cloud environment.
 
